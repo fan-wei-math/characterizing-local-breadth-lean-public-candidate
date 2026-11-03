@@ -1,0 +1,16 @@
+{
+  "name": "dependency-pins-after",
+  "command": [
+    "python3",
+    "reproducibility/scripts/check_pins.py"
+  ],
+  "cwd": ".",
+  "start_utc": "2026-11-03T16:21:17.813484+00:00",
+  "end_utc": "2026-11-03T16:21:25.018411+00:00",
+  "elapsed_seconds": 7.20492954600013,
+  "timeout_seconds": 3600,
+  "exit_code": 0,
+  "stdout": "dependency-pins-after.stdout",
+  "stderr": "dependency-pins-after.stderr",
+  "max_child_rss_native_units": 6835008
+}

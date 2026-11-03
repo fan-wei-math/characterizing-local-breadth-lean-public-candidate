@@ -8,7 +8,7 @@ Author-coordinated Lean sources for the paper by Jon Kleinberg and Fan Wei, with
 - [Reproduction instructions](reproducibility/README.md).
 - [65-result correspondence table](reproducibility/evidence/ASSERTION-CERTIFICATION.md) and [definition inventory](reproducibility/evidence/DEFINITION-REGISTRY.md).
 - [Actual fresh verification results](reproducibility/evidence/VERIFICATION-RESULTS.md).
-- [Public-safe privacy attestation](reproducibility/evidence/PUBLIC-RELEASE-PRIVACY-ATTESTATION.md).
+- [Completed privacy review and final-attestation scope](reproducibility/evidence/PRIVACY-REVIEW.md).
 
 ```text
 reports/

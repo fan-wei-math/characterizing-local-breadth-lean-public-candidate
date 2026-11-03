@@ -1,0 +1,18 @@
+{
+  "name": "elaborated-content-identity",
+  "command": [
+    "lake",
+    "env",
+    "lean",
+    "../verification/ContentIdentity.lean"
+  ],
+  "cwd": "reproducibility/lean",
+  "start_utc": "2026-11-03T16:02:19.545730+00:00",
+  "end_utc": "2026-11-03T16:06:23.851121+00:00",
+  "elapsed_seconds": 244.30539966699985,
+  "timeout_seconds": 3600,
+  "exit_code": 0,
+  "stdout": "elaborated-content-identity.stdout",
+  "stderr": "elaborated-content-identity.stderr",
+  "max_child_rss_native_units": 6447092
+}

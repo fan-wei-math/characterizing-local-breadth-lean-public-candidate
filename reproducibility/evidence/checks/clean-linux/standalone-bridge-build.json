@@ -1,0 +1,17 @@
+{
+  "name": "standalone-bridge-build",
+  "command": [
+    "lake",
+    "build",
+    "TriangularSchedule"
+  ],
+  "cwd": "reproducibility/lean",
+  "start_utc": "2026-11-03T16:01:48.212555+00:00",
+  "end_utc": "2026-11-03T16:02:09.920141+00:00",
+  "elapsed_seconds": 21.707457461999866,
+  "timeout_seconds": 3600,
+  "exit_code": 0,
+  "stdout": "standalone-bridge-build.stdout",
+  "stderr": "standalone-bridge-build.stderr",
+  "max_child_rss_native_units": 6389448
+}

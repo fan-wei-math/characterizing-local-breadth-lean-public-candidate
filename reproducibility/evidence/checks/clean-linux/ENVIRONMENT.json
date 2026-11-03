@@ -1,0 +1,23 @@
+{
+  "git_head_at_start": "a808c1056eff8f95332267967f4f2c02b2602018",
+  "tracked_worktree_status_at_start": "",
+  "branch": "main",
+  "platform": "Linux-7.0.0-1017-azure-x86_64-with-glibc2.39",
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+  "cpu_count": 2,
+  "jobs": 2,
+  "mode": "all",
+  "new_project_build_before": false,
+  "pinned_external_cache_present_before": false,
+  "source_manifest_sha256": "32436c6b4f1e45767a1a9ec94dc32fa0c48ed508c34bdcff6d5ae6e151db50a8",
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "GIT_TERMINAL_PROMPT": "0",
+    "GIT_OPTIONAL_LOCKS": "0",
+    "GIT_CONFIG_GLOBAL": "/dev/null",
+    "LEAN_NUM_THREADS": "2"
+  },
+  "resource_units": "ru_maxrss is bytes on macOS and KiB on Linux; maximum among completed children, not a summed peak.",
+  "network": "Only public pinned dependencies/cache; no private source dependency.",
+  "cache_policy": "Pinned external Mathlib/dependency caches may be reused. Project .lake/build must be absent for release clean-build evidence; ordinary smoke rechecks may retain it."
+}

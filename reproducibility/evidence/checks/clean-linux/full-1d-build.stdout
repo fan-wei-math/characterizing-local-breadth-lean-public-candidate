@@ -1,0 +1,949 @@
+⚠ [9047/9117] Built BanachDensity1D.Common (48s)
+warning: BanachDensity1D/Common.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: BanachDensity1D/Common.lean:1:1: * `-/`:
+Copyright too short!
+
+
+Note: This linter can be disabled with `set_option linter.style.header false`
+⚠ [9048/9117] Built BanachDensity1D.Basic (8.2s)
+warning: BanachDensity1D/Basic.lean:1:1: * `-/`:
+Copyright too short!
+
+
+Note: This linter can be disabled with `set_option linter.style.header false`
+⚠ [9049/9117] Built BanachDensity1D.Chains (6.2s)
+warning: BanachDensity1D/Chains.lean:1:1: * `-/`:
+Copyright too short!
+
+
+Note: This linter can be disabled with `set_option linter.style.header false`
+warning: BanachDensity1D/Chains.lean:13:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Chains.lean:205:60: error: doc-strings should end with a single space or newline
+
+Note: This linter can be disabled with `set_option linter.style.docString false`
+warning: BanachDensity1D/Chains.lean:285:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Chains.lean:390:74: error: doc-strings should end with a single space or newline
+
+Note: This linter can be disabled with `set_option linter.style.docString false`
+warning: BanachDensity1D/Chains.lean:408:13: Variable name `hn` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hn
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+✔ [9050/9117] Built BanachDensity1D.PriorZeroValue.Construction (15s)
+⚠ [9051/9117] Built BanachDensity1D.HistoryTopology (15s)
+warning: BanachDensity1D/HistoryTopology.lean:1:1: * `-/`:
+Copyright too short!
+
+
+Note: This linter can be disabled with `set_option linter.style.header false`
+warning: BanachDensity1D/HistoryTopology.lean:331:55: Variable name `hX` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hX
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: BanachDensity1D/HistoryTopology.lean:376:51: Variable name `hX` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hX
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: BanachDensity1D/HistoryTopology.lean:376:82: Variable name `hA` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hA
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: BanachDensity1D/HistoryTopology.lean:377:27: Variable name `hD` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hD
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: BanachDensity1D/HistoryTopology.lean:378:5: Variable name `hH` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hH
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: BanachDensity1D/HistoryTopology.lean:396:21: Variable name `hn` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hn
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: BanachDensity1D/HistoryTopology.lean:396:34: Variable name `hq` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hq
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: BanachDensity1D/HistoryTopology.lean:392:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+✔ [9052/9117] Built BanachDensity1D.PriorZeroValue.Trees (11s)
+✔ [9053/9117] Built BanachDensity1D.PriorZeroValue.Correspondence (11s)
+✔ [9054/9117] Built BanachDensity1D.PriorZeroValue.Scores (10s)
+⚠ [9055/9117] Built BanachDensity1D.Upper (13s)
+warning: BanachDensity1D/Upper.lean:1:1: * `-/`:
+Copyright too short!
+
+
+Note: This linter can be disabled with `set_option linter.style.header false`
+warning: BanachDensity1D/Upper.lean:13:16: please avoid 'open (scoped) Classical' statements: this can hide theorem statements which would be better stated with explicit decidability statements.
+Instead, use `open Classical in` for definitions or instances, the `classical` tactic for proofs.
+For theorem statements, either add missing decidability assumptions or use `open Classical in`.
+
+Note: This linter can be disabled with `set_option linter.style.openClassical false`
+warning: BanachDensity1D/Upper.lean:615:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+✔ [9056/9117] Built BanachDensity1D.PriorZeroValue (8.1s)
+⚠ [9057/9117] Built BanachDensity1D.Construction (15s)
+warning: BanachDensity1D/Construction.lean:1:1: * `-/`:
+Copyright too short!
+
+
+Note: This linter can be disabled with `set_option linter.style.header false`
+warning: BanachDensity1D/Construction.lean:40:16: please avoid 'open (scoped) Classical' statements: this can hide theorem statements which would be better stated with explicit decidability statements.
+Instead, use `open Classical in` for definitions or instances, the `classical` tactic for proofs.
+For theorem statements, either add missing decidability assumptions or use `open Classical in`.
+
+Note: This linter can be disabled with `set_option linter.style.openClassical false`
+warning: BanachDensity1D/Construction.lean:289:4: The `show` tactic should only be used to indicate intermediate goal states for readability.
+However, this tactic invocation changed the goal. Please use `change` instead for these purposes.
+
+Note: This linter can be disabled with `set_option linter.style.show false`
+warning: BanachDensity1D/Construction.lean:267:92: error: doc-strings should end with a single space or newline
+
+Note: This linter can be disabled with `set_option linter.style.docString false`
+warning: BanachDensity1D/Construction.lean:368:6: The `show` tactic should only be used to indicate intermediate goal states for readability.
+However, this tactic invocation changed the goal. Please use `change` instead for these purposes.
+
+Note: This linter can be disabled with `set_option linter.style.show false`
+warning: BanachDensity1D/Construction.lean:417:6: The `show` tactic should only be used to indicate intermediate goal states for readability.
+However, this tactic invocation changed the goal. Please use `change` instead for these purposes.
+
+Note: This linter can be disabled with `set_option linter.style.show false`
+warning: BanachDensity1D/Construction.lean:465:10: The `show` tactic should only be used to indicate intermediate goal states for readability.
+However, this tactic invocation changed the goal. Please use `change` instead for these purposes.
+
+Note: This linter can be disabled with `set_option linter.style.show false`
+warning: BanachDensity1D/Construction.lean:467:8: The `show` tactic should only be used to indicate intermediate goal states for readability.
+However, this tactic invocation changed the goal. Please use `change` instead for these purposes.
+
+Note: This linter can be disabled with `set_option linter.style.show false`
+warning: BanachDensity1D/Construction.lean:472:8: The `show` tactic should only be used to indicate intermediate goal states for readability.
+However, this tactic invocation changed the goal. Please use `change` instead for these purposes.
+
+Note: This linter can be disabled with `set_option linter.style.show false`
+warning: BanachDensity1D/Construction.lean:476:10: The `show` tactic should only be used to indicate intermediate goal states for readability.
+However, this tactic invocation changed the goal. Please use `change` instead for these purposes.
+
+Note: This linter can be disabled with `set_option linter.style.show false`
+warning: BanachDensity1D/Construction.lean:482:10: The `show` tactic should only be used to indicate intermediate goal states for readability.
+However, this tactic invocation changed the goal. Please use `change` instead for these purposes.
+
+Note: This linter can be disabled with `set_option linter.style.show false`
+warning: BanachDensity1D/Construction.lean:582:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Construction.lean:789:5: Variable name `h` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _h
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: BanachDensity1D/Construction.lean:865:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Construction.lean:891:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Construction.lean:1027:50: `if_neg` has been deprecated: Use `ite_eq_right` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵n̵e̵g̵i̲t̲e̲_̲e̲q̲_̲r̲i̲g̲h̲t̲
+warning: BanachDensity1D/Construction.lean:957:69: Variable name `hY0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hY0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: BanachDensity1D/Construction.lean:960:45: Variable name `hW0` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hW0
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: BanachDensity1D/Construction.lean:962:41: Variable name `hWsub` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hWsub
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: BanachDensity1D/Construction.lean:993:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Construction.lean:1005:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Construction.lean:1021:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Construction.lean:1051:93: error: doc-strings should end with a single space or newline
+
+Note: This linter can be disabled with `set_option linter.style.docString false`
+warning: BanachDensity1D/Construction.lean:1097:11: Variable name `u` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _u
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: BanachDensity1D/Construction.lean:1092:45: error: doc-strings should end with a single space or newline
+
+Note: This linter can be disabled with `set_option linter.style.docString false`
+warning: BanachDensity1D/Construction.lean:1109:2: The `show` tactic should only be used to indicate intermediate goal states for readability.
+However, this tactic invocation changed the goal. Please use `change` instead for these purposes.
+
+Note: This linter can be disabled with `set_option linter.style.show false`
+warning: BanachDensity1D/Construction.lean:1111:6: `dif_pos` has been deprecated: Use `dite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  d̵i̵f̵_̵p̵o̵s̵d̲i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: BanachDensity1D/Construction.lean:1128:52: `dif_pos` has been deprecated: Use `dite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  d̵i̵f̵_̵p̵o̵s̵d̲i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: BanachDensity1D/Construction.lean:1135:2: The `show` tactic should only be used to indicate intermediate goal states for readability.
+However, this tactic invocation changed the goal. Please use `change` instead for these purposes.
+
+Note: This linter can be disabled with `set_option linter.style.show false`
+warning: BanachDensity1D/Construction.lean:1136:6: `dif_pos` has been deprecated: Use `dite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  d̵i̵f̵_̵p̵o̵s̵d̲i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: BanachDensity1D/Construction.lean:1143:4: The `show` tactic should only be used to indicate intermediate goal states for readability.
+However, this tactic invocation changed the goal. Please use `change` instead for these purposes.
+
+Note: This linter can be disabled with `set_option linter.style.show false`
+warning: BanachDensity1D/Construction.lean:1145:8: `dif_pos` has been deprecated: Use `dite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  d̵i̵f̵_̵p̵o̵s̵d̲i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: BanachDensity1D/Construction.lean:1190:18: `dif_neg` has been deprecated: Use `dite_eq_right` instead
+
+Hint: Replace the deprecated name:
+  d̵i̵f̵_̵n̵e̵g̵d̲i̲t̲e̲_̲e̲q̲_̲r̲i̲g̲h̲t̲
+warning: BanachDensity1D/Construction.lean:1309:20: `simp at ha` is a flexible tactic modifying `ha`. Try `simp?` and use the suggested `simp only [...]`. Alternatively, use `suffices` to explicitly state the simplified form.
+
+Note: This linter can be disabled with `set_option linter.flexible false`
+info: BanachDensity1D/Construction.lean:1309:32: `subst ha`
+uses `ha`, which was modified by the flexible tactic `simp` on line 1309!
+warning: BanachDensity1D/Construction.lean:1309:20: `simp at ha` is a flexible tactic modifying `ha`. Try `simp?` and use the suggested `simp only [...]`. Alternatively, use `suffices` to explicitly state the simplified form.
+
+Note: This linter can be disabled with `set_option linter.flexible false`
+info: BanachDensity1D/Construction.lean:1309:42: `exact hv`
+uses `ha`, which was modified by the flexible tactic `simp` on line 1309!
+warning: BanachDensity1D/Construction.lean:1313:8: `simp at ha` is a flexible tactic modifying `ha`. Try `simp?` and use the suggested `simp only [...]`. Alternatively, use `suffices` to explicitly state the simplified form.
+
+Note: This linter can be disabled with `set_option linter.flexible false`
+info: BanachDensity1D/Construction.lean:1313:20: `subst ha`
+uses `ha`, which was modified by the flexible tactic `simp` on line 1313!
+✔ [9058/9117] Built BanachDensity1D.Nov1.Profile.FilteredRace (9.9s)
+✔ [9059/9117] Built BanachDensity1D.Nov1.Balanced (8.2s)
+⚠ [9060/9117] Built BanachDensity1D.Extension (8.0s)
+warning: BanachDensity1D/Extension.lean:1:1: * `-/`:
+Copyright too short!
+
+
+Note: This linter can be disabled with `set_option linter.style.header false`
+warning: BanachDensity1D/Extension.lean:20:9: please avoid 'open (scoped) Classical' statements: this can hide theorem statements which would be better stated with explicit decidability statements.
+Instead, use `open Classical in` for definitions or instances, the `classical` tactic for proofs.
+For theorem statements, either add missing decidability assumptions or use `open Classical in`.
+
+Note: This linter can be disabled with `set_option linter.style.openClassical false`
+warning: BanachDensity1D/Extension.lean:88:6: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: BanachDensity1D/Extension.lean:101:4: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: BanachDensity1D/Extension.lean:117:28: `Set.mem_setOf_eq` has been deprecated: Use `Set.mem_ofPred_eq` instead
+
+Hint: Replace the deprecated name:
+  m̵e̵m̵_̵s̵e̵t̵O̵f̵_̵e̵q̵m̲e̲m̲_̲o̲f̲P̲r̲e̲d̲_̲e̲q̲
+warning: BanachDensity1D/Extension.lean:129:13: `Set.mem_setOf_eq` has been deprecated: Use `Set.mem_ofPred_eq` instead
+
+Hint: Replace the deprecated name:
+  m̵e̵m̵_̵s̵e̵t̵O̵f̵_̵e̵q̵m̲e̲m̲_̲o̲f̲P̲r̲e̲d̲_̲e̲q̲
+warning: BanachDensity1D/Extension.lean:160:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Extension.lean:183:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Extension.lean:216:60: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: BanachDensity1D/Extension.lean:222:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Extension.lean:236:9: Variable name `v` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _v
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+⚠ [9061/9117] Built BanachDensity1D.Forest (14s)
+warning: BanachDensity1D/Forest.lean:1:1: * `-/`:
+Copyright too short!
+
+
+Note: This linter can be disabled with `set_option linter.style.header false`
+warning: BanachDensity1D/Forest.lean:13:16: please avoid 'open (scoped) Classical' statements: this can hide theorem statements which would be better stated with explicit decidability statements.
+Instead, use `open Classical in` for definitions or instances, the `classical` tactic for proofs.
+For theorem statements, either add missing decidability assumptions or use `open Classical in`.
+
+Note: This linter can be disabled with `set_option linter.style.openClassical false`
+warning: BanachDensity1D/Forest.lean:35:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Forest.lean:158:20: `simp at ha` is a flexible tactic modifying `ha`. Try `simp?` and use the suggested `simp only [...]`. Alternatively, use `suffices` to explicitly state the simplified form.
+
+Note: This linter can be disabled with `set_option linter.flexible false`
+info: BanachDensity1D/Forest.lean:158:32: `subst ha`
+uses `ha`, which was modified by the flexible tactic `simp` on line 158!
+warning: BanachDensity1D/Forest.lean:158:20: `simp at ha` is a flexible tactic modifying `ha`. Try `simp?` and use the suggested `simp only [...]`. Alternatively, use `suffices` to explicitly state the simplified form.
+
+Note: This linter can be disabled with `set_option linter.flexible false`
+info: BanachDensity1D/Forest.lean:158:42: `exact le_rfl`
+uses `ha`, which was modified by the flexible tactic `simp` on line 158!
+warning: BanachDensity1D/Forest.lean:162:8: `simp at ha` is a flexible tactic modifying `ha`. Try `simp?` and use the suggested `simp only [...]`. Alternatively, use `suffices` to explicitly state the simplified form.
+
+Note: This linter can be disabled with `set_option linter.flexible false`
+info: BanachDensity1D/Forest.lean:162:20: `subst ha`
+uses `ha`, which was modified by the flexible tactic `simp` on line 162!
+warning: BanachDensity1D/Forest.lean:200:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Forest.lean:245:20: `simp at ha` is a flexible tactic modifying `ha`. Try `simp?` and use the suggested `simp only [...]`. Alternatively, use `suffices` to explicitly state the simplified form.
+
+Note: This linter can be disabled with `set_option linter.flexible false`
+info: BanachDensity1D/Forest.lean:245:32: `exact absurd ha hav`
+uses `ha`, which was modified by the flexible tactic `simp` on line 245!
+warning: BanachDensity1D/Forest.lean:250:8: `simp at ha` is a flexible tactic modifying `ha`. Try `simp?` and use the suggested `simp only [...]`. Alternatively, use `suffices` to explicitly state the simplified form.
+
+Note: This linter can be disabled with `set_option linter.flexible false`
+info: BanachDensity1D/Forest.lean:250:20: `exact absurd ha hav`
+uses `ha`, which was modified by the flexible tactic `simp` on line 250!
+warning: BanachDensity1D/Forest.lean:262:10: `simp at hL` is a flexible tactic modifying `hL`. Try `simp?` and use the suggested `simp only [...]`. Alternatively, use `suffices` to explicitly state the simplified form.
+
+Note: This linter can be disabled with `set_option linter.flexible false`
+info: BanachDensity1D/Forest.lean:262:22: `subst hL`
+uses `hL`, which was modified by the flexible tactic `simp` on line 262!
+warning: BanachDensity1D/Forest.lean:266:8: `simp at hx hy` is a flexible tactic modifying `hy`. Try `simp?` and use the suggested `simp only [...]`. Alternatively, use `suffices` to explicitly state the simplified form.
+
+Note: This linter can be disabled with `set_option linter.flexible false`
+info: BanachDensity1D/Forest.lean:267:8: `subst hx hy`
+uses `hy`, which was modified by the flexible tactic `simp` on line 266!
+warning: BanachDensity1D/Forest.lean:266:8: `simp at hx hy` is a flexible tactic modifying `hx`. Try `simp?` and use the suggested `simp only [...]`. Alternatively, use `suffices` to explicitly state the simplified form.
+
+Note: This linter can be disabled with `set_option linter.flexible false`
+info: BanachDensity1D/Forest.lean:267:8: `subst hx hy`
+uses `hx`, which was modified by the flexible tactic `simp` on line 266!
+warning: BanachDensity1D/Forest.lean:266:8: `simp at hx hy` is a flexible tactic modifying `hy`. Try `simp?` and use the suggested `simp only [...]`. Alternatively, use `suffices` to explicitly state the simplified form.
+
+Note: This linter can be disabled with `set_option linter.flexible false`
+info: BanachDensity1D/Forest.lean:268:8: `exact hss`
+uses `hy`, which was modified by the flexible tactic `simp` on line 266!
+warning: BanachDensity1D/Forest.lean:288:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Forest.lean:320:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Forest.lean:389:21: `simp at haw` is a flexible tactic modifying `haw`. Try `simp?` and use the suggested `simp only [...]`. Alternatively, use `suffices` to explicitly state the simplified form.
+
+Note: This linter can be disabled with `set_option linter.flexible false`
+info: BanachDensity1D/Forest.lean:389:21: Try this:
+  [apply] simp only [one_div, tsub_le_iff_right] at haw
+info: BanachDensity1D/Forest.lean:389:34: `exact absurd haw haw'`
+uses `haw`, which was modified by the flexible tactic `simp` on line 389!
+warning: BanachDensity1D/Forest.lean:394:8: `simp at haw` is a flexible tactic modifying `haw`. Try `simp?` and use the suggested `simp only [...]`. Alternatively, use `suffices` to explicitly state the simplified form.
+
+Note: This linter can be disabled with `set_option linter.flexible false`
+info: BanachDensity1D/Forest.lean:394:21: `exact absurd haw haw'`
+uses `haw`, which was modified by the flexible tactic `simp` on line 394!
+warning: BanachDensity1D/Forest.lean:524:75: Variable name `hε` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hε
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: BanachDensity1D/Forest.lean:534:72: Variable name `hε` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hε
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: BanachDensity1D/Forest.lean:554:4: The `show` tactic should only be used to indicate intermediate goal states for readability.
+However, this tactic invocation changed the goal. Please use `change` instead for these purposes.
+
+Note: This linter can be disabled with `set_option linter.style.show false`
+warning: BanachDensity1D/Forest.lean:570:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+✔ [9062/9117] Built BanachDensity1D.Nov1.Profile.FilteredAdversary (7.4s)
+⚠ [9063/9117] Built BanachDensity1D.Nov1.Profile.Words (8.4s)
+warning: BanachDensity1D/Nov1/Profile/Words.lean:42:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+✔ [9064/9117] Built BanachDensity1D.Nov1.Relabel (7.2s)
+✔ [9065/9117] Built BanachDensity1D.Nov1.Intervals (6.9s)
+⚠ [9066/9117] Built BanachDensity1D.Foundations (7.2s)
+warning: BanachDensity1D/Foundations.lean:1:1: * `-/`:
+Copyright too short!
+
+
+Note: This linter can be disabled with `set_option linter.style.header false`
+warning: BanachDensity1D/Foundations.lean:9:16: please avoid 'open (scoped) Classical' statements: this can hide theorem statements which would be better stated with explicit decidability statements.
+Instead, use `open Classical in` for definitions or instances, the `classical` tactic for proofs.
+For theorem statements, either add missing decidability assumptions or use `open Classical in`.
+
+Note: This linter can be disabled with `set_option linter.style.openClassical false`
+warning: BanachDensity1D/Foundations.lean:45:20: `dif_pos` has been deprecated: Use `dite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  d̵i̵f̵_̵p̵o̵s̵d̲i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: BanachDensity1D/Foundations.lean:59:29: `dif_pos` has been deprecated: Use `dite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  d̵i̵f̵_̵p̵o̵s̵d̲i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: BanachDensity1D/Foundations.lean:61:17: `dif_pos` has been deprecated: Use `dite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  d̵i̵f̵_̵p̵o̵s̵d̲i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: BanachDensity1D/Foundations.lean:61:29: `dif_pos` has been deprecated: Use `dite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  d̵i̵f̵_̵p̵o̵s̵d̲i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: BanachDensity1D/Foundations.lean:66:17: `dif_pos` has been deprecated: Use `dite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  d̵i̵f̵_̵p̵o̵s̵d̲i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+⚠ [9067/9117] Built BanachDensity1D.ProtRoute (6.5s)
+warning: BanachDensity1D/ProtRoute.lean:1:1: * `-/`:
+Copyright too short!
+
+
+Note: This linter can be disabled with `set_option linter.style.header false`
+warning: BanachDensity1D/ProtRoute.lean:27:9: please avoid 'open (scoped) Classical' statements: this can hide theorem statements which would be better stated with explicit decidability statements.
+Instead, use `open Classical in` for definitions or instances, the `classical` tactic for proofs.
+For theorem statements, either add missing decidability assumptions or use `open Classical in`.
+
+Note: This linter can be disabled with `set_option linter.style.openClassical false`
+warning: BanachDensity1D/ProtRoute.lean:59:20: `simp at ha` is a flexible tactic modifying `ha`. Try `simp?` and use the suggested `simp only [...]`. Alternatively, use `suffices` to explicitly state the simplified form.
+
+Note: This linter can be disabled with `set_option linter.flexible false`
+info: BanachDensity1D/ProtRoute.lean:59:32: `exact absurd ha hav`
+uses `ha`, which was modified by the flexible tactic `simp` on line 59!
+warning: BanachDensity1D/ProtRoute.lean:64:8: `simp at ha` is a flexible tactic modifying `ha`. Try `simp?` and use the suggested `simp only [...]`. Alternatively, use `suffices` to explicitly state the simplified form.
+
+Note: This linter can be disabled with `set_option linter.flexible false`
+info: BanachDensity1D/ProtRoute.lean:64:20: `exact absurd ha hav`
+uses `ha`, which was modified by the flexible tactic `simp` on line 64!
+warning: BanachDensity1D/ProtRoute.lean:76:10: `simp at hL` is a flexible tactic modifying `hL`. Try `simp?` and use the suggested `simp only [...]`. Alternatively, use `suffices` to explicitly state the simplified form.
+
+Note: This linter can be disabled with `set_option linter.flexible false`
+info: BanachDensity1D/ProtRoute.lean:76:22: `subst hL`
+uses `hL`, which was modified by the flexible tactic `simp` on line 76!
+warning: BanachDensity1D/ProtRoute.lean:80:8: `simp at hx hy` is a flexible tactic modifying `hx`. Try `simp?` and use the suggested `simp only [...]`. Alternatively, use `suffices` to explicitly state the simplified form.
+
+Note: This linter can be disabled with `set_option linter.flexible false`
+info: BanachDensity1D/ProtRoute.lean:81:8: `subst hx hy`
+uses `hx`, which was modified by the flexible tactic `simp` on line 80!
+warning: BanachDensity1D/ProtRoute.lean:80:8: `simp at hx hy` is a flexible tactic modifying `hy`. Try `simp?` and use the suggested `simp only [...]`. Alternatively, use `suffices` to explicitly state the simplified form.
+
+Note: This linter can be disabled with `set_option linter.flexible false`
+info: BanachDensity1D/ProtRoute.lean:81:8: `subst hx hy`
+uses `hy`, which was modified by the flexible tactic `simp` on line 80!
+warning: BanachDensity1D/ProtRoute.lean:80:8: `simp at hx hy` is a flexible tactic modifying `hy`. Try `simp?` and use the suggested `simp only [...]`. Alternatively, use `suffices` to explicitly state the simplified form.
+
+Note: This linter can be disabled with `set_option linter.flexible false`
+info: BanachDensity1D/ProtRoute.lean:82:8: `exact hss`
+uses `hy`, which was modified by the flexible tactic `simp` on line 80!
+warning: BanachDensity1D/ProtRoute.lean:109:2: The `show` tactic should only be used to indicate intermediate goal states for readability.
+However, this tactic invocation changed the goal. Please use `change` instead for these purposes.
+
+Note: This linter can be disabled with `set_option linter.style.show false`
+warning: BanachDensity1D/ProtRoute.lean:112:6: `dif_pos` has been deprecated: Use `dite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  d̵i̵f̵_̵p̵o̵s̵d̲i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: BanachDensity1D/ProtRoute.lean:106:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+⚠ [9068/9117] Built BanachDensity1D.Capture (8.7s)
+warning: BanachDensity1D/Capture.lean:1:1: * `-/`:
+Copyright too short!
+
+
+Note: This linter can be disabled with `set_option linter.style.header false`
+warning: BanachDensity1D/Capture.lean:13:16: please avoid 'open (scoped) Classical' statements: this can hide theorem statements which would be better stated with explicit decidability statements.
+Instead, use `open Classical in` for definitions or instances, the `classical` tactic for proofs.
+For theorem statements, either add missing decidability assumptions or use `open Classical in`.
+
+Note: This linter can be disabled with `set_option linter.style.openClassical false`
+warning: BanachDensity1D/Capture.lean:48:30: `simp at h` is a flexible tactic modifying `h`. Try `simp?` and use the suggested `simp only [...]`. Alternatively, use `suffices` to explicitly state the simplified form.
+
+Note: This linter can be disabled with `set_option linter.flexible false`
+info: BanachDensity1D/Capture.lean:48:30: Try this:
+  [apply] simp only [reduceCtorEq, false_and, exists_const, or_false] at h
+info: BanachDensity1D/Capture.lean:48:41: `exact Or.inl h`
+uses `h`, which was modified by the flexible tactic `simp` on line 48!
+warning: BanachDensity1D/Capture.lean:52:6: `simp at h` is a flexible tactic modifying `h`. Try `simp?` and use the suggested `simp only [...]`. Alternatively, use `suffices` to explicitly state the simplified form.
+
+Note: This linter can be disabled with `set_option linter.flexible false`
+info: BanachDensity1D/Capture.lean:52:6: Try this:
+  [apply] simp only [Option.some.injEq, exists_eq_left'] at h
+info: BanachDensity1D/Capture.lean:52:17: `exact Or.inl h`
+uses `h`, which was modified by the flexible tactic `simp` on line 52!
+warning: BanachDensity1D/Capture.lean:178:8: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: BanachDensity1D/Capture.lean:222:50: `dif_pos` has been deprecated: Use `dite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  d̵i̵f̵_̵p̵o̵s̵d̲i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: BanachDensity1D/Capture.lean:237:20: `dif_pos` has been deprecated: Use `dite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  d̵i̵f̵_̵p̵o̵s̵d̲i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: BanachDensity1D/Capture.lean:262:22: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: BanachDensity1D/Capture.lean:305:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Capture.lean:321:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Capture.lean:382:65: Variable name `hε` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hε
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+✔ [9069/9117] Built BanachDensity1D.Nov1.Profile.Scales (11s)
+✔ [9070/9117] Built BanachDensity1D.Nov1.Profile.Atoms (7.5s)
+⚠ [9071/9117] Built BanachDensity1D.Nov1.Witness (6.5s)
+warning: BanachDensity1D/Nov1/Witness.lean:37:15: Variable name `hc` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hc
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: BanachDensity1D/Nov1/Witness.lean:68:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+⚠ [9072/9117] Built BanachDensity1D.Nov1.Scores (6.9s)
+warning: BanachDensity1D/Nov1/Scores.lean:88:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+⚠ [9073/9117] Built BanachDensity1D.Nov1.Profile.Schedule (12s)
+warning: BanachDensity1D/Nov1/Profile/Schedule.lean:12:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: BanachDensity1D/Nov1/Profile/Schedule.lean:43:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+⚠ [9074/9117] Built BanachDensity1D.Density (17s)
+warning: BanachDensity1D/Density.lean:1:1: * `-/`:
+Copyright too short!
+
+
+Note: This linter can be disabled with `set_option linter.style.header false`
+warning: BanachDensity1D/Density.lean:13:16: please avoid 'open (scoped) Classical' statements: this can hide theorem statements which would be better stated with explicit decidability statements.
+Instead, use `open Classical in` for definitions or instances, the `classical` tactic for proofs.
+For theorem statements, either add missing decidability assumptions or use `open Classical in`.
+
+Note: This linter can be disabled with `set_option linter.style.openClassical false`
+warning: BanachDensity1D/Density.lean:41:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Density.lean:114:65: The following tactic starts with 2 goals and ends with 1 goal, 1 of which is not operated on.
+  exact absurd h.symm hx
+Please focus on the current goal, for instance using `·` (typed as "\.").
+
+Note: This linter can be disabled with `set_option linter.style.multiGoal false`
+warning: BanachDensity1D/Density.lean:132:65: The following tactic starts with 2 goals and ends with 1 goal, 1 of which is not operated on.
+  exact absurd h.symm hy
+Please focus on the current goal, for instance using `·` (typed as "\.").
+
+Note: This linter can be disabled with `set_option linter.style.multiGoal false`
+warning: BanachDensity1D/Density.lean:169:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Density.lean:206:4: The `show` tactic should only be used to indicate intermediate goal states for readability.
+However, this tactic invocation changed the goal. Please use `change` instead for these purposes.
+
+Note: This linter can be disabled with `set_option linter.style.show false`
+warning: BanachDensity1D/Density.lean:207:8: `dif_pos` has been deprecated: Use `dite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  d̵i̵f̵_̵p̵o̵s̵d̲i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: BanachDensity1D/Density.lean:294:12: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: BanachDensity1D/Density.lean:294:23: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: BanachDensity1D/Density.lean:297:12: `if_neg` has been deprecated: Use `ite_eq_right` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵n̵e̵g̵i̲t̲e̲_̲e̲q̲_̲r̲i̲g̲h̲t̲
+warning: BanachDensity1D/Density.lean:515:46: The following tactic starts with 2 goals and ends with 1 goal, 1 of which is not operated on.
+  exact absurd h.symm hya
+Please focus on the current goal, for instance using `·` (typed as "\.").
+
+Note: This linter can be disabled with `set_option linter.style.multiGoal false`
+warning: BanachDensity1D/Density.lean:518:46: The following tactic starts with 2 goals and ends with 1 goal, 1 of which is not operated on.
+  exact absurd h.symm hyb
+Please focus on the current goal, for instance using `·` (typed as "\.").
+
+Note: This linter can be disabled with `set_option linter.style.multiGoal false`
+warning: BanachDensity1D/Density.lean:553:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Density.lean:674:8: The `show` tactic should only be used to indicate intermediate goal states for readability.
+However, this tactic invocation changed the goal. Please use `change` instead for these purposes.
+
+Note: This linter can be disabled with `set_option linter.style.show false`
+warning: BanachDensity1D/Density.lean:689:6: The `show` tactic should only be used to indicate intermediate goal states for readability.
+However, this tactic invocation changed the goal. Please use `change` instead for these purposes.
+
+Note: This linter can be disabled with `set_option linter.style.show false`
+warning: BanachDensity1D/Density.lean:848:40: `Set.diff_subset` has been deprecated: Use `Set.sdiff_subset` instead
+
+Hint: Replace the deprecated name:
+  s̲diff_subset
+warning: BanachDensity1D/Density.lean:918:4: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: BanachDensity1D/Density.lean:872:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Density.lean:877:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Density.lean:982:80: Variable name `hε` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hε
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+✔ [9075/9117] Built BanachDensity1D.Nov1.Profile.Blocks (7.3s)
+⚠ [9076/9117] Built BanachDensity1D.Nov1.Profile.Packing (9.1s)
+warning: BanachDensity1D/Nov1/Profile/Packing.lean:22:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Nov1/Profile/Packing.lean:64:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+⚠ [9077/9117] Built BanachDensity1D.Nov1.Profile.Counting (8.7s)
+warning: BanachDensity1D/Nov1/Profile/Counting.lean:60:9: Variable name `n` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _n
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: BanachDensity1D/Nov1/Profile/Counting.lean:60:11: Variable name `x` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _x
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+⚠ [9078/9117] Built BanachDensity1D.Nov1.Profile.Cutoffs (10s)
+warning: BanachDensity1D/Nov1/Profile/Cutoffs.lean:115:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+⚠ [9079/9117] Built BanachDensity1D.Nov1.Upper (12s)
+warning: BanachDensity1D/Nov1/Upper.lean:56:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+⚠ [9080/9117] Built BanachDensity1D.Theorems (12s)
+warning: BanachDensity1D/Theorems.lean:1:1: * `-/`:
+Copyright too short!
+
+
+Note: This linter can be disabled with `set_option linter.style.header false`
+warning: BanachDensity1D/Theorems.lean:278:2: The `show` tactic should only be used to indicate intermediate goal states for readability.
+However, this tactic invocation changed the goal. Please use `change` instead for these purposes.
+
+Note: This linter can be disabled with `set_option linter.style.show false`
+warning: BanachDensity1D/Theorems.lean:355:5: Variable name `hend` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hend
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+⚠ [9081/9117] Built BanachDensity1D.Nov1.Profile.BlockSums (9.8s)
+warning: BanachDensity1D/Nov1/Profile/BlockSums.lean:57:40: Unused tactic linter: `change b ≤ o (k + 1)` does nothing.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [9082/9117] Built BanachDensity1D.Nov1.Profile.Requirements (9.5s)
+warning: BanachDensity1D/Nov1/Profile/Requirements.lean:114:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+⚠ [9083/9117] Built BanachDensity1D.Examples (10s)
+warning: BanachDensity1D/Examples.lean:1:1: * `-/`:
+Copyright too short!
+
+
+Note: This linter can be disabled with `set_option linter.style.header false`
+warning: BanachDensity1D/Examples.lean:105:51: Variable name `t` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _t
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: BanachDensity1D/Examples.lean:106:7: Variable name `i` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _i
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: BanachDensity1D/Examples.lean:106:45: Variable name `s` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _s
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+⚠ [9084/9117] Built BanachDensity1D.Nov1.FullRange (11s)
+warning: BanachDensity1D/Nov1/FullRange.lean:32:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+✔ [9085/9117] Built BanachDensity1D.Nov1.Profile.Stride (9.1s)
+⚠ [9086/9117] Built BanachDensity1D.Nov1.Profile.LateBlocks (10s)
+warning: BanachDensity1D/Nov1/Profile/LateBlocks.lean:8:62: Variable name `hab` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hab
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: BanachDensity1D/Nov1/Profile/LateBlocks.lean:21:5: Variable name `hzero` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hzero
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: BanachDensity1D/Nov1/Profile/LateBlocks.lean:31:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Nov1/Profile/LateBlocks.lean:32:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+✔ [9087/9117] Built BanachDensity1D.Nov1.Profile.Stages (9.8s)
+⚠ [9088/9117] Built BanachDensity1D.Nov1.Profile.CutRefinement (9.9s)
+warning: BanachDensity1D/Nov1/Profile/CutRefinement.lean:49:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+⚠ [9089/9117] Built BanachDensity1D.Main (9.7s)
+warning: BanachDensity1D/Main.lean:1:1: * `-/`:
+Copyright too short!
+
+
+Note: This linter can be disabled with `set_option linter.style.header false`
+warning: BanachDensity1D/Main.lean:14:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Main.lean:17:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Main.lean:25:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+✔ [9090/9117] Built BanachDensity1D.Nov1.Profile.MechanicalSurplus (9.6s)
+✔ [9091/9117] Built BanachDensity1D.Nov1.Profile.Trees (9.0s)
+✔ [9092/9117] Built BanachDensity1D.Nov1.Profile.PaddedSums (11s)
+⚠ [9093/9117] Built BanachDensity1D.Nov1.Profile.Selection (11s)
+warning: BanachDensity1D/Nov1/Profile/Selection.lean:30:32: This simp argument is unused:
+  List.filter_cons
+
+Hint: Omit it from the simp argument list.
+  [apply] simp [List.filter_append, List.filter_replicate, hb, hA, ih]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: BanachDensity1D/Nov1/Profile/Selection.lean:30:70: This simp argument is unused:
+  List.filter_replicate
+
+Hint: Omit it from the simp argument list.
+  [apply] simp [List.filter_cons, List.filter_append, hb, hA, ih]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: BanachDensity1D/Nov1/Profile/Selection.lean:30:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+⚠ [9094/9117] Built BanachDensity1D.Nov1.Profile.Surplus (9.4s)
+warning: BanachDensity1D/Nov1/Profile/Surplus.lean:23:70: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: BanachDensity1D/Nov1/Profile/Surplus.lean:23:70: Unused tactic linter: `<;>` should be replaced with `;` or be removed.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: BanachDensity1D/Nov1/Profile/Surplus.lean:50:69: This simp argument is unused:
+  List.map_map
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [witness, surplus, List.map_flatten, List.sum_flatten, List.map_ofFn, List.sum_ofFn,
+    Function.comp_def]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+✔ [9095/9117] Built BanachDensity1D.Nov1.Profile.Construction (9.3s)
+✔ [9096/9117] Built BanachDensity1D (9.5s)
+✔ [9098/9117] Built BanachDensity1D.Nov1.Profile.Layers (9.7s)
+✔ [9099/9117] Built BanachDensity1D.Nov1.Profile.TreeRequirements (10s)
+✔ [9100/9117] Built BanachDensity1D.Oct31Bridges (11s)
+✔ [9101/9117] Built BanachDensity1D.Nov1.Profile.WordCounting (12s)
+✔ [9102/9117] Built BanachDensity1DOct31 (11s)
+✔ [9104/9117] Built BanachDensity1DPriorZero (11s)
+⚠ [9106/9117] Built BanachDensity1D.Nov1.Profile.Layout (11s)
+warning: BanachDensity1D/Nov1/Profile/Layout.lean:36:30: This simp argument is unused:
+  Fin.val_mk
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [witnessAtom, Fin.val_succ, hmod, ite_eq_right (by omega : j.val + 1 ≠ 0)]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: BanachDensity1D/Nov1/Profile/Layout.lean:32:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Nov1/Profile/Layout.lean:36:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+✔ [9107/9117] Built BanachDensity1D.Nov1.Profile.WordStatistics (11s)
+✔ [9108/9117] Built BanachDensity1D.Nov1.Profile.FilteredWindows (11s)
+⚠ [9109/9117] Built BanachDensity1D.Nov1.Profile.WitnessSurplus (12s)
+warning: BanachDensity1D/Nov1/Profile/WitnessSurplus.lean:6:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Nov1/Profile/WitnessSurplus.lean:12:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Nov1/Profile/WitnessSurplus.lean:27:28: This simp argument is unused:
+  Fin.val_mk
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [witnessAtom, ite_eq_left hmod, baseContribution, dite_eq_left hquot]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: BanachDensity1D/Nov1/Profile/WitnessSurplus.lean:28:28: This simp argument is unused:
+  Fin.val_mk
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [witnessAtom, ite_eq_right hmod]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: BanachDensity1D/Nov1/Profile/WitnessSurplus.lean:53:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Nov1/Profile/WitnessSurplus.lean:60:71: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: BanachDensity1D/Nov1/Profile/WitnessSurplus.lean:60:71: Unused tactic linter: `<;>` should be replaced with `;` or be removed.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: BanachDensity1D/Nov1/Profile/WitnessSurplus.lean:85:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+⚠ [9110/9117] Built BanachDensity1D.Nov1.Profile.LayerScores (7.4s)
+warning: BanachDensity1D/Nov1/Profile/LayerScores.lean:45:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Nov1/Profile/LayerScores.lean:71:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+✔ [9111/9117] Built BanachDensity1D.Nov1.Profile.UniformWitness (7.6s)
+⚠ [9112/9117] Built BanachDensity1D.Nov1.Profile.UpperConstruction (7.7s)
+warning: BanachDensity1D/Nov1/Profile/UpperConstruction.lean:15:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Nov1/Profile/UpperConstruction.lean:25:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Nov1/Profile/UpperConstruction.lean:33:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Nov1/Profile/UpperConstruction.lean:45:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Nov1/Profile/UpperConstruction.lean:72:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+✔ [9113/9117] Built BanachDensity1D.Nov1.Profile.StageSurplus (8.1s)
+⚠ [9114/9117] Built BanachDensity1D.Nov1.Profile.IntegerLower (5.6s)
+warning: BanachDensity1D/Nov1/Profile/IntegerLower.lean:37:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Nov1/Profile/IntegerLower.lean:89:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Nov1/Profile/IntegerLower.lean:118:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Nov1/Profile/IntegerLower.lean:130:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+⚠ [9115/9117] Built BanachDensity1D.Nov1.Profile.LowerConstruction (4.6s)
+warning: BanachDensity1D/Nov1/Profile/LowerConstruction.lean:64:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Nov1/Profile/LowerConstruction.lean:71:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Nov1/Profile/LowerConstruction.lean:79:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+⚠ [9116/9117] Built BanachDensity1D.Nov1.Profile.Core (4.2s)
+warning: BanachDensity1D/Nov1/Profile/Core.lean:46:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+warning: BanachDensity1D/Nov1/Profile/Core.lean:54:100: This line exceeds the 100 character limit, please shorten it!
+
+Note: This linter can be disabled with `set_option linter.style.longLine false`
+✔ [9117/9117] Built BanachDensity1D.Nov1 (3.9s)
+Build completed successfully (9117 jobs).

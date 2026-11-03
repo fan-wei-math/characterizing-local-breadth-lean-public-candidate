@@ -1,0 +1,17 @@
+{
+  "name": "registry-coverage",
+  "command": [
+    "python3",
+    "reproducibility/scripts/check_registry.py",
+    "reproducibility/.runs/20261103T154342Z/complete-paper-registry.stdout"
+  ],
+  "cwd": ".",
+  "start_utc": "2026-11-03T16:08:51.474550+00:00",
+  "end_utc": "2026-11-03T16:08:51.607898+00:00",
+  "elapsed_seconds": 0.13335245801135898,
+  "timeout_seconds": 3600,
+  "exit_code": 0,
+  "stdout": "registry-coverage.stdout",
+  "stderr": "registry-coverage.stderr",
+  "max_child_rss_native_units": 6167003136
+}

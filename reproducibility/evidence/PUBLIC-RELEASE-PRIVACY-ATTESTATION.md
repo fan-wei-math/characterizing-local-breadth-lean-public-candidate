@@ -1,3 +1,0 @@
-# Public-release privacy attestation
-
-**BLOCKED — candidate preparation and full audit in progress.** No repository is public or renamed. Internal source annotations and unnecessary author-document links were sanitized under owner authorization; private comparison records are excluded. Daniel Zhou documents remain unchanged under explicit owner publication permission. Linked Projects inspection is not certified: existing CLI scope is insufficient and automated browser inspection was denied by approval review. Private-plan rulesets remain separately unavailable, not an inspected empty list. No permission expansion was initiated. Final file/object/PDF/Actions inventory and fresh verification results must be recorded before any PUBLIC-READY conclusion.

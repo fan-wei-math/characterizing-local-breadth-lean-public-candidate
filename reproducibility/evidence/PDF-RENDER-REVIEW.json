@@ -1,0 +1,111 @@
+{
+  "status": "PASS",
+  "documents": [
+    {
+      "document": "author",
+      "fresh_rendered_pages": 17,
+      "all_pages_visually_reviewed": true,
+      "files": [
+        {
+          "file": "page-01.png",
+          "sha256": "8075a35eba19831d70a567edb86775567705e91311fc7f0bfa80deb275815d59"
+        },
+        {
+          "file": "page-02.png",
+          "sha256": "79a2b99e271cafa0e9b8029fdb1e568995429d3156f01d9b6f01ad844ef264ce"
+        },
+        {
+          "file": "page-03.png",
+          "sha256": "1089a620051e46415731917b27754e915fa5238167afeb80c9616e7e2faf517b"
+        },
+        {
+          "file": "page-04.png",
+          "sha256": "77b223404d5467acc24d7226c59b10240684f7b4c3ce43da39ff71323428da54"
+        },
+        {
+          "file": "page-05.png",
+          "sha256": "e1770b7cbcc16fd6a668a5c3e9b32963391806a9c3abb2ec88952314d6cf3e3f"
+        },
+        {
+          "file": "page-06.png",
+          "sha256": "669418de3b1c58f40bef52b5c7d4b4342dd2d309f188c0a68063a357af52d290"
+        },
+        {
+          "file": "page-07.png",
+          "sha256": "0e68e2c06d079d71a48c5ea5ece27dc75b772c031782eef1ee3fea46c4a7d5ef"
+        },
+        {
+          "file": "page-08.png",
+          "sha256": "d6ec8beec28793b73b26cad409ef67018e9c0648cd9cd536efbde27b82347d32"
+        },
+        {
+          "file": "page-09.png",
+          "sha256": "3b02758981f137237048a03c6fd0094b0952c9ea8e1a511520c46781d01309b4"
+        },
+        {
+          "file": "page-10.png",
+          "sha256": "df0ef2526c1ceb5413bd25d1bae327b836a46ba5615b6ad184d50e783e5cc4ed"
+        },
+        {
+          "file": "page-11.png",
+          "sha256": "c46079247fe3516ee78a4b1993c9db3ffef3c022bc1293f13055fd0c36852ad3"
+        },
+        {
+          "file": "page-12.png",
+          "sha256": "ff96c69fae79d1404f372c8371bc5431d5a6cfa32f3476d83d6b8c70847b0b93"
+        },
+        {
+          "file": "page-13.png",
+          "sha256": "5ce3a2c013e2a951e991fa20dfc1619a8c708814b3e8e7a16e047f0ce3c05cbd"
+        },
+        {
+          "file": "page-14.png",
+          "sha256": "5572517bb91133be31206cb7df24066873e590fcde00448c398dda6b254f6ee5"
+        },
+        {
+          "file": "page-15.png",
+          "sha256": "1945ad05d68eb2616f386e192efff95fba971ae9dcda23b6ced4a35378187758"
+        },
+        {
+          "file": "page-16.png",
+          "sha256": "6a6e13e263bc3292eafecc050ed76d3e5ce0dc9215b8cb8e106c2ad145d4659a"
+        },
+        {
+          "file": "page-17.png",
+          "sha256": "f935224177b6e7c0b8aade528756f180400a01bc7233d6345f7fec3e8b524d75"
+        }
+      ]
+    },
+    {
+      "document": "daniel",
+      "fresh_rendered_pages": 5,
+      "all_pages_visually_reviewed": true,
+      "files": [
+        {
+          "file": "page-1.png",
+          "sha256": "cb54cb32eff1f4becb62570356ddc3278e0e498230c4454d79364a9ba130dc4b"
+        },
+        {
+          "file": "page-2.png",
+          "sha256": "94a8f978c06beb162a3fb529b4efbc56ebf5daf57a6926acf5d89fab409b527d"
+        },
+        {
+          "file": "page-3.png",
+          "sha256": "5bc4771c8642ef1fbdf5c04fba259cbaef57f09c2cb3ff40331f46898f1c1494"
+        },
+        {
+          "file": "page-4.png",
+          "sha256": "46fb3011a681dafb28f6d0e7b2f8044014daba10ce640f254ed52c967b4aef71"
+        },
+        {
+          "file": "page-5.png",
+          "sha256": "139d5c0d5f896989778acf61069e1e5c24997094d5e7d80e31e258501243a7ce"
+        }
+      ]
+    }
+  ],
+  "author_body_text_comparison": "Only the 27 existing private-repository URLs replaced; all other body text unchanged. Existing cover replaced with precise new public-copy notice.",
+  "daniel_report_and_certificate_bytes_unchanged": true,
+  "render_commands_exit_code": 0,
+  "nonfatal_renderer_warning": "Fontconfig reported unavailable writable cache directories; rendering still completed. No font or PDF tool debugging/modification performed."
+}

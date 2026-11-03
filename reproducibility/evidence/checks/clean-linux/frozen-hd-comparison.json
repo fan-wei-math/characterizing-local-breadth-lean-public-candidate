@@ -1,0 +1,18 @@
+{
+  "name": "frozen-hd-comparison",
+  "command": [
+    "python3",
+    "reproducibility/scripts/check_fingerprints.py",
+    "hd",
+    "reproducibility/.runs/20261103T154509Z/frozen-hd.stdout"
+  ],
+  "cwd": ".",
+  "start_utc": "2026-11-03T16:11:57.767345+00:00",
+  "end_utc": "2026-11-03T16:11:57.882349+00:00",
+  "elapsed_seconds": 0.11500911100006306,
+  "timeout_seconds": 3600,
+  "exit_code": 0,
+  "stdout": "frozen-hd-comparison.stdout",
+  "stderr": "frozen-hd-comparison.stderr",
+  "max_child_rss_native_units": 6447092
+}

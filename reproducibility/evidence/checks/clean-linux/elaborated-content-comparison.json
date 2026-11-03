@@ -1,0 +1,17 @@
+{
+  "name": "elaborated-content-comparison",
+  "command": [
+    "python3",
+    "reproducibility/scripts/check_content_identity.py",
+    "reproducibility/.runs/20261103T154509Z/elaborated-content-identity.stdout"
+  ],
+  "cwd": ".",
+  "start_utc": "2026-11-03T16:06:23.852453+00:00",
+  "end_utc": "2026-11-03T16:06:25.120300+00:00",
+  "elapsed_seconds": 1.267625317000011,
+  "timeout_seconds": 3600,
+  "exit_code": 0,
+  "stdout": "elaborated-content-comparison.stdout",
+  "stderr": "elaborated-content-comparison.stderr",
+  "max_child_rss_native_units": 6447092
+}

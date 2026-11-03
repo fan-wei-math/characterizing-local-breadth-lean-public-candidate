@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "documents": [
+    {
+      "path": "reports/author/Verification-Report.pdf",
+      "sha256": "c96ac21f62e70d2de5a283ed36b5a552fc4b62b0c3de4d0d423c21b9724549e9",
+      "pages": 17,
+      "objects": 42,
+      "streams": 17,
+      "decoded_stream_bytes": 98095,
+      "attachments": 0,
+      "annotations": 0,
+      "image_objects": 0,
+      "outlines": 0,
+      "xmp_present": false,
+      "form_present": false,
+      "optional_content_present": false,
+      "action_subtypes": [],
+      "one_eof_no_incremental_previous_revision": true
+    },
+    {
+      "path": "reports/daniel-zhou/K-REPORT-Nov1.pdf",
+      "sha256": "ee45a63856b96cbf836ef3dcca18c1b0f3a65268a7197543230463fa6c70e83f",
+      "pages": 5,
+      "objects": 84,
+      "streams": 25,
+      "decoded_stream_bytes": 230064,
+      "attachments": 0,
+      "annotations": 0,
+      "image_objects": 0,
+      "outlines": 0,
+      "xmp_present": false,
+      "form_present": false,
+      "optional_content_present": false,
+      "action_subtypes": [],
+      "one_eof_no_incremental_previous_revision": true
+    }
+  ],
+  "author_private_link_or_personal_path_recovery_findings": 0,
+  "all22_pages_rendered_and_visually_reviewed": true,
+  "daniel_documents_unchanged_under_owner_public_inclusion_permission": true
+}

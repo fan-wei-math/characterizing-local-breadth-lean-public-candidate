@@ -1,0 +1,18 @@
+{
+  "name": "all-module-transitive-axioms",
+  "command": [
+    "lake",
+    "env",
+    "lean",
+    "../verification/AllModuleAxiomsComplete.lean"
+  ],
+  "cwd": "reproducibility/lean",
+  "start_utc": "2026-11-03T16:06:25.120938+00:00",
+  "end_utc": "2026-11-03T16:06:34.118619+00:00",
+  "elapsed_seconds": 8.99769005799999,
+  "timeout_seconds": 3600,
+  "exit_code": 0,
+  "stdout": "all-module-transitive-axioms.stdout",
+  "stderr": "all-module-transitive-axioms.stderr",
+  "max_child_rss_native_units": 6447092
+}

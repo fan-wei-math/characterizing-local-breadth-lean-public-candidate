@@ -1,0 +1,1 @@
+{"status": "PASS", "manifest_files": 172, "original_provenance_files": 136, "byte_identical_original_files": 108, "comment_sanitized_files": 28, "unchanged_noncomment_mathematical_files": 133, "mathematical_source_files": 133, "all_modules": 133, "theorem_rows": 65, "definition_rows": 14, "external_packages": 9}

@@ -1,0 +1,16 @@
+{
+  "name": "source-integrity-before",
+  "command": [
+    "python3",
+    "reproducibility/scripts/audit_source_manifest.py"
+  ],
+  "cwd": ".",
+  "start_utc": "2026-11-03T15:43:42.875875+00:00",
+  "end_utc": "2026-11-03T15:43:43.429665+00:00",
+  "elapsed_seconds": 0.5537777910940349,
+  "timeout_seconds": 3600,
+  "exit_code": 0,
+  "stdout": "source-integrity-before.stdout",
+  "stderr": "source-integrity-before.stderr",
+  "max_child_rss_native_units": 67321856
+}

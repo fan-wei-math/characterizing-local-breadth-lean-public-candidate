@@ -1,0 +1,41 @@
+✔ [3/9] Built Cache.Cli (514ms)
+✔ [5/13] Built Cache.Lean (660ms)
+✔ [6/13] Built Cache.Env (535ms)
+✔ [7/13] Built Cache.Infra (615ms)
+✔ [8/16] Built Batteries.Tactic.OpenPrivate (1.4s)
+✔ [10/43] Built Cache.Location (684ms)
+✔ [11/43] Built Cache.Cli:c.o (273ms)
+✔ [12/43] Built Cache.Lean:c.o (360ms)
+✔ [13/43] Built Cache.IO (2.4s)
+✔ [14/43] Built Cache.Env:c.o (275ms)
+✔ [15/43] Built Cache.Infra:c.o (300ms)
+✔ [16/43] Built Batteries.Tactic.OpenPrivate:c.o (1.9s)
+✔ [17/43] Built Cache.Location:c.o (426ms)
+✔ [18/43] Built Cache.Hashing (1.2s)
+✔ [19/43] Built Cache.Hashing:c.o (953ms)
+✔ [20/43] Built Cache.IO:c.o (2.6s)
+✔ [21/43] Built Cache.Requests (1.0s)
+✔ [22/43] Built Cache.Marker (624ms)
+✔ [23/43] Built Cache.Marker:c.o (249ms)
+✔ [24/43] Built Cache.Upload.Curl (712ms)
+✔ [25/43] Built Cache.Upload.Rclone (797ms)
+✔ [26/43] Built Cache.Query (866ms)
+✔ [27/43] Built Cache.Upload.Curl:c.o (326ms)
+✔ [28/43] Built Cache.Upload.Rclone:c.o (430ms)
+✔ [29/43] Built Cache.Requests:c.o (4.4s)
+✔ [30/43] Built Cache.Query:c.o (484ms)
+✔ [31/43] Built Cache.Upload.Azure (593ms)
+✔ [32/43] Built Cache.Upload.S3 (785ms)
+✔ [33/43] Built Cache.Upload.Azure:c.o (215ms)
+✔ [34/43] Built Cache.Warning (834ms)
+✔ [35/43] Built Cache.Upload.S3:c.o (585ms)
+✔ [36/43] Built Cache.Warning:c.o (560ms)
+✔ [37/43] Built Cache.Upload.Defs (515ms)
+✔ [38/43] Built Cache.Upload.Defs:c.o (246ms)
+✔ [39/43] Built Cache.Upload (464ms)
+✔ [40/43] Built Cache.Upload:c.o (211ms)
+✔ [41/43] Built Cache.Main (1.0s)
+✔ [42/43] Built Cache.Main:c.o (1.0s)
+✔ [43/43] Built cache:exe (815ms)
+Downloaded: 1 file(s) [attempted 1/9031 = 0%, 335 KB/s]Downloaded: 101 file(s) [attempted 101/9031 = 1%, 3527 KB/s]Downloaded: 227 file(s) [attempted 227/9031 = 2%, 1284 KB/s]Downloaded: 333 file(s) [attempted 333/9031 = 3%, 233 KB/s]Downloaded: 433 file(s) [attempted 433/9031 = 4%, 548 KB/s]Downloaded: 546 file(s) [attempted 546/9031 = 6%, 2323 KB/s]Downloaded: 641 file(s) [attempted 641/9031 = 7%, 842 KB/s]Downloaded: 744 file(s) [attempted 744/9031 = 8%, 551 KB/s]Downloaded: 852 file(s) [attempted 852/9031 = 9%, 1246 KB/s]Downloaded: 952 file(s) [attempted 952/9031 = 10%, 200 KB/s]Downloaded: 1017 file(s) [attempted 1017/9031 = 11%, 1367 KB/s]Downloaded: 1123 file(s) [attempted 1123/9031 = 12%, 2380 KB/s]Downloaded: 1217 file(s) [attempted 1217/9031 = 13%, 128 KB/s]Downloaded: 1323 file(s) [attempted 1323/9031 = 14%, 2302 KB/s]Downloaded: 1423 file(s) [attempted 1423/9031 = 15%, 144 KB/s]Downloaded: 1526 file(s) [attempted 1526/9031 = 16%, 1910 KB/s]Downloaded: 1658 file(s) [attempted 1658/9031 = 18%, 378 KB/s]Downloaded: 1747 file(s) [attempted 1747/9031 = 19%, 1131 KB/s]Downloaded: 1843 file(s) [attempted 1843/9031 = 20%, 1293 KB/s]Downloaded: 1951 file(s) [attempted 1951/9031 = 21%, 2375 KB/s]Downloaded: 2061 file(s) [attempted 2061/9031 = 22%, 3460 KB/s]Downloaded: 2161 file(s) [attempted 2161/9031 = 23%, 2357 KB/s]Downloaded: 2269 file(s) [attempted 2269/9031 = 25%, 2095 KB/s]Downloaded: 2374 file(s) [attempted 2374/9031 = 26%, 1171 KB/s]Downloaded: 2486 file(s) [attempted 2486/9031 = 27%, 590 KB/s]Downloaded: 2581 file(s) [attempted 2581/9031 = 28%, 928 KB/s]Downloaded: 2677 file(s) [attempted 2677/9031 = 29%, 558 KB/s]Downloaded: 2809 file(s) [attempted 2809/9031 = 31%, 185 KB/s]Downloaded: 2923 file(s) [attempted 2923/9031 = 32%, 264 KB/s]Downloaded: 3009 file(s) [attempted 3009/9031 = 33%, 1704 KB/s]Downloaded: 3134 file(s) [attempted 3134/9031 = 34%, 1250 KB/s]Downloaded: 3204 file(s) [attempted 3204/9031 = 35%, 1221 KB/s]Downloaded: 3307 file(s) [attempted 3307/9031 = 36%, 1407 KB/s]Downloaded: 3435 file(s) [attempted 3435/9031 = 38%, 59 KB/s]Downloaded: 3547 file(s) [attempted 3547/9031 = 39%, 705 KB/s]Downloaded: 3645 file(s) [attempted 3645/9031 = 40%, 1939 KB/s]Downloaded: 3755 file(s) [attempted 3755/9031 = 41%, 36 KB/s]Downloaded: 3853 file(s) [attempted 3853/9031 = 42%, 3181 KB/s]Downloaded: 3970 file(s) [attempted 3970/9031 = 43%, 544 KB/s]Downloaded: 4063 file(s) [attempted 4063/9031 = 44%, 1279 KB/s]Downloaded: 4166 file(s) [attempted 4166/9031 = 46%, 836 KB/s]Downloaded: 4271 file(s) [attempted 4271/9031 = 47%, 1686 KB/s]Downloaded: 4371 file(s) [attempted 4371/9031 = 48%, 12960 KB/s]Downloaded: 4429 file(s) [attempted 4429/9031 = 49%, 2700 KB/s]Downloaded: 4529 file(s) [attempted 4529/9031 = 50%, 549 KB/s]Downloaded: 4599 file(s) [attempted 4599/9031 = 50%, 502 KB/s]Downloaded: 4691 file(s) [attempted 4691/9031 = 51%, 3286 KB/s]Downloaded: 4794 file(s) [attempted 4794/9031 = 53%, 3686 KB/s]Downloaded: 4945 file(s) [attempted 4945/9031 = 54%, 14314 KB/s]Downloaded: 5012 file(s) [attempted 5012/9031 = 55%, 479 KB/s]Downloaded: 5121 file(s) [attempted 5121/9031 = 56%, 2350 KB/s]Downloaded: 5222 file(s) [attempted 5222/9031 = 57%, 1745 KB/s]Downloaded: 5297 file(s) [attempted 5297/9031 = 58%, 1447 KB/s]Downloaded: 5406 file(s) [attempted 5406/9031 = 59%, 793 KB/s]Downloaded: 5499 file(s) [attempted 5499/9031 = 60%, 901 KB/s]Downloaded: 5599 file(s) [attempted 5599/9031 = 61%, 944 KB/s]Downloaded: 5700 file(s) [attempted 5700/9031 = 63%, 386 KB/s]Downloaded: 5805 file(s) [attempted 5805/9031 = 64%, 924 KB/s]Downloaded: 5915 file(s) [attempted 5915/9031 = 65%, 140 KB/s]Downloaded: 6013 file(s) [attempted 6013/9031 = 66%, 2086 KB/s]Downloaded: 6113 file(s) [attempted 6113/9031 = 67%, 178 KB/s]Downloaded: 6223 file(s) [attempted 6223/9031 = 68%, 672 KB/s]Downloaded: 6330 file(s) [attempted 6330/9031 = 70%, 181 KB/s]Downloaded: 6438 file(s) [attempted 6438/9031 = 71%, 327 KB/s]Downloaded: 6536 file(s) [attempted 6536/9031 = 72%, 102 KB/s]Downloaded: 6636 file(s) [attempted 6636/9031 = 73%, 300 KB/s]Downloaded: 6694 file(s) [attempted 6694/9031 = 74%, 979 KB/s]Downloaded: 6792 file(s) [attempted 6792/9031 = 75%, 1296 KB/s]Downloaded: 6894 file(s) [attempted 6894/9031 = 76%, 3165 KB/s]Downloaded: 6995 file(s) [attempted 6995/9031 = 77%, 1765 KB/s]Downloaded: 7097 file(s) [attempted 7097/9031 = 78%, 2733 KB/s]Downloaded: 7205 file(s) [attempted 7205/9031 = 79%, 520 KB/s]Downloaded: 7303 file(s) [attempted 7303/9031 = 80%, 112 KB/s]Downloaded: 7432 file(s) [attempted 7432/9031 = 82%, 156 KB/s]Downloaded: 7527 file(s) [attempted 7527/9031 = 83%, 4050 KB/s]Downloaded: 7618 file(s) [attempted 7618/9031 = 84%, 1280 KB/s]Downloaded: 7726 file(s) [attempted 7726/9031 = 85%, 1810 KB/s]Downloaded: 7835 file(s) [attempted 7835/9031 = 86%, 1574 KB/s]Downloaded: 7943 file(s) [attempted 7943/9031 = 87%, 104 KB/s]Downloaded: 8044 file(s) [attempted 8044/9031 = 89%, 1143 KB/s]Downloaded: 8118 file(s) [attempted 8118/9031 = 89%, 566 KB/s]Downloaded: 8229 file(s) [attempted 8229/9031 = 91%, 290 KB/s]Downloaded: 8357 file(s) [attempted 8357/9031 = 92%, 1073 KB/s]Downloaded: 8462 file(s) [attempted 8462/9031 = 93%, 108 KB/s]Downloaded: 8567 file(s) [attempted 8567/9031 = 94%, 4625 KB/s]Downloaded: 8673 file(s) [attempted 8673/9031 = 96%, 408 KB/s]Downloaded: 8801 file(s) [attempted 8801/9031 = 97%, 318 KB/s]Downloaded: 8908 file(s) [attempted 8908/9031 = 98%, 3863 KB/s]Downloaded: 9028 file(s) [attempted 9028/9031 = 99%, 958 KB/s]Downloaded: 9031 file(s) [attempted 9031/9031 = 100%, 958 KB/s]
+Still decompressing downloaded files...

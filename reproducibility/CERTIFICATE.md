@@ -1,6 +1,6 @@
 # November 2 portable formalization — privacy-sanitized candidate certificate
 
-**Verification status: PENDING fresh candidate Mac and Linux execution. Privacy status: BLOCKED pending complete final surface inspection.** Earlier staging successes are preserved privately and are not new results for this candidate.
+**Fresh candidate verification PASSED: 21/21 on clean macOS and 21/21 on fresh Linux, each at source commit `a808c1056eff8f95332267967f4f2c02b2602018`.** Final privacy/history/metadata checks are recorded separately in the release attestation. No public visibility or name swap is authorized.
 
 ## Mathematical identity
 
@@ -14,9 +14,9 @@ The package contains **133 mathematical modules**. Privacy sanitization changes 
 
 All November 2 exact-statement/representation upgrades remain present: empty-family Corollary 1.6; positive-threshold/full-occurrence Section 7; Lemma 6.4; positive-dimensional Lemma 8.1; Theorem 9.1; Appendix A play/probe and uniform-potential routes; B.1's exact previous-paper family; B.4/B.5's standalone triangular schedule. [Upgrade routes](evidence/NOVEMBER2-UPGRADE-COVERAGE.md) identify the declarations. No theorem-strength re-audit or new mathematical claim is made for this privacy-only transformation.
 
-## Required fresh evidence
+## Completed fresh evidence
 
-Run `bash reproducibility/scripts/verify.sh --all --jobs 2`. Required evidence includes all source/non-comment checks, original fingerprints, exact registry/type/dependency comparisons, complete standard-axiom auditing and project kernel replay. [Actual results](evidence/VERIFICATION-RESULTS.md) will identify the real candidate commit and fresh runs. It is not enough that an earlier source commit passed.
+Both environments ran `bash reproducibility/scripts/verify.sh --all --jobs 2`. Returned evidence includes all source/non-comment checks, original fingerprints, exact registry/type/dependency comparisons, complete standard-axiom auditing and project kernel replay. [Actual results](evidence/VERIFICATION-RESULTS.md) identifies the actual candidate source commit, fresh runs and raw receipts. It is not enough that an earlier source commit passed.
 
 The expected counts remain 5,298 audited declarations, 5,274 logical constants / 3,893 theorems replayed and 54/97 approved declarations with zero drift. The allowed axioms are `propext`, `Classical.choice`, `Quot.sound`. Twenty-four compiler-only `_unsafe_rec` artifacts are outside the installed logical replay API. Public dependency caches may be downloaded; no from-scratch Mathlib rebuild is claimed. The historical optional whole-Mathlib replay timeout at 900 seconds remains **not passed**.
 
@@ -24,4 +24,4 @@ The expected counts remain 5,298 audited declarations, 5,274 logical constants /
 
 Author report/certificate copies retain their historical mathematical contents and source identities, with explicit path/link privacy changes and local reproduction navigation. Daniel Zhou's supplied PDF and certificate are unchanged, with owner permission for their inclusion and historical source references. His private Lean source is not included/replayed; two reported shared auxiliaries remain attributed. See [version notes](../reports/daniel-zhou/README.md).
 
-[Privacy attestation](evidence/PUBLIC-RELEASE-PRIVACY-ATTESTATION.md) is a separate release gate. Linked Projects inspection and unavailable private-plan rulesets are not silently counted as inspected. No private owner decision record or raw sensitive findings are included. No software license, rename or public visibility change is asserted.
+[Privacy review and final-attestation scope](evidence/PRIVACY-REVIEW.md) is a separate release gate. Linked Projects inspection and unavailable private-plan rulesets are not silently counted as inspected. No private owner decision record or raw sensitive findings are included. No software license, rename or public visibility change is asserted.

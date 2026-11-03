@@ -1,0 +1,16 @@
+{
+  "name": "confidentiality-before",
+  "command": [
+    "python3",
+    "reproducibility/scripts/scan_prohibited_files.py"
+  ],
+  "cwd": ".",
+  "start_utc": "2026-11-03T15:43:43.430132+00:00",
+  "end_utc": "2026-11-03T15:43:50.349695+00:00",
+  "elapsed_seconds": 6.919572707964107,
+  "timeout_seconds": 3600,
+  "exit_code": 0,
+  "stdout": "confidentiality-before.stdout",
+  "stderr": "confidentiality-before.stderr",
+  "max_child_rss_native_units": 247218176
+}

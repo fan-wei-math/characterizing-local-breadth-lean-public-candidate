@@ -1,0 +1,18 @@
+{
+  "name": "whole-project-kernel-replay",
+  "command": [
+    "lake",
+    "env",
+    "lean",
+    "../verification/ReplayComplete.lean"
+  ],
+  "cwd": "reproducibility/lean",
+  "start_utc": "2026-11-03T16:11:57.883135+00:00",
+  "end_utc": "2026-11-03T16:21:17.781519+00:00",
+  "elapsed_seconds": 559.8994047739998,
+  "timeout_seconds": 3600,
+  "exit_code": 0,
+  "stdout": "whole-project-kernel-replay.stdout",
+  "stderr": "whole-project-kernel-replay.stderr",
+  "max_child_rss_native_units": 6835008
+}

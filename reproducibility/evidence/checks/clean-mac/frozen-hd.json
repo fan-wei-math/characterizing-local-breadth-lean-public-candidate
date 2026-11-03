@@ -1,0 +1,18 @@
+{
+  "name": "frozen-hd",
+  "command": [
+    "lake",
+    "env",
+    "lean",
+    "../verification/FrozenHD.lean"
+  ],
+  "cwd": "reproducibility/lean",
+  "start_utc": "2026-11-03T16:18:29.776948+00:00",
+  "end_utc": "2026-11-03T16:22:59.518636+00:00",
+  "elapsed_seconds": 269.7418404999189,
+  "timeout_seconds": 3600,
+  "exit_code": 0,
+  "stdout": "frozen-hd.stdout",
+  "stderr": "frozen-hd.stderr",
+  "max_child_rss_native_units": 6167003136
+}

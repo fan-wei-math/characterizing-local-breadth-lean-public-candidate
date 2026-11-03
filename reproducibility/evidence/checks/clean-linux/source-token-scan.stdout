@@ -1,0 +1,1 @@
+{"status": "PASS", "files": 133, "prohibited_tokens": [], "note": "Compiler-generated unsafe recursion artifacts are checked separately by kernel replay; checker diagnostic IO is not mathematical source."}

@@ -1,0 +1,18 @@
+{
+  "name": "frozen-1d",
+  "command": [
+    "lake",
+    "env",
+    "lean",
+    "../verification/Frozen1D.lean"
+  ],
+  "cwd": "reproducibility/lean",
+  "start_utc": "2026-11-03T16:15:10.959182+00:00",
+  "end_utc": "2026-11-03T16:18:29.642632+00:00",
+  "elapsed_seconds": 198.68388412497006,
+  "timeout_seconds": 3600,
+  "exit_code": 0,
+  "stdout": "frozen-1d.stdout",
+  "stderr": "frozen-1d.stderr",
+  "max_child_rss_native_units": 6167003136
+}

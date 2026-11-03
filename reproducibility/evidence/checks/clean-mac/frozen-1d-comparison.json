@@ -1,0 +1,18 @@
+{
+  "name": "frozen-1d-comparison",
+  "command": [
+    "python3",
+    "reproducibility/scripts/check_fingerprints.py",
+    "1d",
+    "reproducibility/.runs/20261103T154342Z/frozen-1d.stdout"
+  ],
+  "cwd": ".",
+  "start_utc": "2026-11-03T16:18:29.644153+00:00",
+  "end_utc": "2026-11-03T16:18:29.776271+00:00",
+  "elapsed_seconds": 0.1321239999961108,
+  "timeout_seconds": 3600,
+  "exit_code": 0,
+  "stdout": "frozen-1d-comparison.stdout",
+  "stderr": "frozen-1d-comparison.stderr",
+  "max_child_rss_native_units": 6167003136
+}

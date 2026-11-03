@@ -1,0 +1,32 @@
+{
+  "repository": "fan-wei-math/characterizing-local-breadth-lean-public-candidate",
+  "node_id": "R_kgDOVhkL7w",
+  "code_commit": "a808c1056eff8f95332267967f4f2c02b2602018",
+  "private": true,
+  "projects": {
+    "linked": 0,
+    "including_closed": true,
+    "method": "Owner manual authenticated UI inspection",
+    "automated_api_not_claimed": true,
+    "oauth_scopes_not_expanded": true
+  },
+  "rulesets": {
+    "configured": 0,
+    "method": "Owner manual authenticated UI inspection",
+    "api_response": "403 private-plan feature unavailable; not an API inspection pass"
+  },
+  "available_ci": {
+    "runs": 1,
+    "attempts": 1,
+    "artifacts": 1,
+    "log_members": 10,
+    "artifact_members": 65,
+    "all_downloads_scanned_and_contextually_reviewed": true,
+    "artifact_sha256": "a0f31bf3e7f78342b88f690a701d5cb36a9e8475f9a2e86ab2dd921f10eccd48"
+  },
+  "privacy_pattern_matches": {
+    "real_credential_or_personal_path_findings": 0,
+    "formal_hygiene_identifiers_contextually_classified": true
+  },
+  "record_type": "Derived public-safe summary; detailed raw responses and owner records remain privately preserved."
+}

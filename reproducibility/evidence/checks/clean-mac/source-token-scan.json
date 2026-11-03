@@ -1,0 +1,16 @@
+{
+  "name": "source-token-scan",
+  "command": [
+    "python3",
+    "reproducibility/scripts/check_source_tokens.py"
+  ],
+  "cwd": ".",
+  "start_utc": "2026-11-03T15:43:50.350214+00:00",
+  "end_utc": "2026-11-03T15:43:50.704092+00:00",
+  "elapsed_seconds": 0.35389570891857147,
+  "timeout_seconds": 3600,
+  "exit_code": 0,
+  "stdout": "source-token-scan.stdout",
+  "stderr": "source-token-scan.stderr",
+  "max_child_rss_native_units": 247218176
+}

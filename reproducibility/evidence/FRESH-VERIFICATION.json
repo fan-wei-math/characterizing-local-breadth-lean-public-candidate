@@ -1,0 +1,717 @@
+{
+  "status": "PASS",
+  "verified_code_commit": "a808c1056eff8f95332267967f4f2c02b2602018",
+  "source_manifest_sha256": "32436c6b4f1e45767a1a9ec94dc32fa0c48ed508c34bdcff6d5ae6e151db50a8",
+  "runs": {
+    "clean-mac": {
+      "verified_code_commit": "a808c1056eff8f95332267967f4f2c02b2602018",
+      "checks": 21,
+      "all_exit_codes": 0,
+      "project_cache_absent_at_start": true,
+      "external_cache_absent_at_start": true,
+      "source_manifest_sha256": "32436c6b4f1e45767a1a9ec94dc32fa0c48ed508c34bdcff6d5ae6e151db50a8",
+      "start_utc": "2026-11-03T15:43:42.875875+00:00",
+      "end_utc": "2026-11-03T16:28:12.658818+00:00",
+      "total_check_seconds": 2669.775887207361,
+      "platform": "macOS-26.5.2-arm64-arm-64bit-Mach-O",
+      "jobs": 2,
+      "source_setup": "Fresh native Git clone with --no-local"
+    },
+    "clean-linux": {
+      "verified_code_commit": "a808c1056eff8f95332267967f4f2c02b2602018",
+      "checks": 21,
+      "all_exit_codes": 0,
+      "project_cache_absent_at_start": true,
+      "external_cache_absent_at_start": true,
+      "source_manifest_sha256": "32436c6b4f1e45767a1a9ec94dc32fa0c48ed508c34bdcff6d5ae6e151db50a8",
+      "start_utc": "2026-11-03T15:45:09.584498+00:00",
+      "end_utc": "2026-11-03T16:21:28.899017+00:00",
+      "total_check_seconds": 2179.2212540269993,
+      "platform": "Linux-7.0.0-1017-azure-x86_64-with-glibc2.39",
+      "jobs": 2,
+      "source_setup": "Fresh GitHub Actions checkout; no private source dependencies"
+    }
+  },
+  "mathematical_modules": 133,
+  "axiom_audited_declarations": 5298,
+  "replayed_logical_constants": 5274,
+  "replayed_theorems": 3893,
+  "compiler_only_artifacts_excluded": 24,
+  "approved_1d": 54,
+  "approved_hd": 97,
+  "frozen_drift": 0,
+  "allowed_axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "registered_declarations": 126,
+  "all_registry_fields_cross_platform_and_approved_baseline_equal": true,
+  "all5298_full_type_graph_and_dependency_records_equal": true,
+  "linux_run": 41667056072,
+  "linux_attempt": 1,
+  "linux_job": 126025084483,
+  "linux_url": "https://github.com/fan-wei-math/characterizing-local-breadth-lean-public-candidate/actions/runs/41667056072",
+  "linux_artifact_id": 13250395133,
+  "linux_artifact_zip_sha256": "a0f31bf3e7f78342b88f690a701d5cb36a9e8475f9a2e86ab2dd921f10eccd48",
+  "raw_evidence": [
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/ENVIRONMENT.json",
+      "sha256": "4a4dcb82b881fb456da4095a3c5c2869297c6c1466143a64ba101dfc29d7d682",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/RESULT.json",
+      "sha256": "34a3b71044d1755a51625f12c8afcc42e24396e3abb6fde7943aa8a230d8bcb0",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/all-module-transitive-axioms.json",
+      "sha256": "bfbd182a7528006223da0559ab312c331ce8ff46e7f54b01135566ab463cdce0",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/all-module-transitive-axioms.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/all-module-transitive-axioms.stdout",
+      "sha256": "099ff88511625e486e350c05c1d91f4fdb1e176ab52ebe0011ab4b1bd42b0be2",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/complete-paper-registry.json",
+      "sha256": "ef5a18bc3acabf16b535b175ff540975d8e2e91a4755bcb0a755f1647a94ebbf",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/complete-paper-registry.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/complete-paper-registry.stdout",
+      "sha256": "fd7a25ca398764776d0fdcc58c395cfb5d3eb45425a109edaf44a5a48a2fd9fa",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/confidentiality-before.json",
+      "sha256": "4a4027be97a73cb65dccb6939908228f29258a7a88deea391b876a35fdcc6073",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/confidentiality-before.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/confidentiality-before.stdout",
+      "sha256": "136a432bf377bf7bf437207256f2296051ddf999039c153bcedc326c9ab00a0e",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/dependency-pins-after.json",
+      "sha256": "fb923973464c0b33a569fbab3f129bad1a1adceddfdfbcaabd9c7cd3f818e2cd",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/dependency-pins-after.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/dependency-pins-after.stdout",
+      "sha256": "21b833d406cd10cf70cc687f14c5c357e96c897fd10f445e345b1c84f1d4189a",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/dependency-pins-before.json",
+      "sha256": "48dac5839f923e7e8744ba56216b09b521592cd84cb9777814bbe43c1548bbd0",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/dependency-pins-before.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/dependency-pins-before.stdout",
+      "sha256": "21b833d406cd10cf70cc687f14c5c357e96c897fd10f445e345b1c84f1d4189a",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/elaborated-content-comparison.json",
+      "sha256": "08941351a8bddc30cbf0660e0f2b550a525f64fabd0624c23e6165dc7b83e014",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/elaborated-content-comparison.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/elaborated-content-comparison.stdout",
+      "sha256": "37795d1597d42f459f65e495039aa616d704b16ad8ca946dc80e2ec891bfc389",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/elaborated-content-identity.json",
+      "sha256": "247e058ffaed00313d6795211ef03ebd3539102fb2c87bb32a205b6fd859528c",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/elaborated-content-identity.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/elaborated-content-identity.stdout",
+      "sha256": "53e529d2875350527ca4764321849fd78180ddde03c49a1c5a4b0652c2d3b87b",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/frozen-1d-comparison.json",
+      "sha256": "6ce3f19b780f3609d3ac82e854e1a98028e5df92bf1d527196865c03c4ca0280",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/frozen-1d-comparison.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/frozen-1d-comparison.stdout",
+      "sha256": "12c6fb2e4bf052073899985f7ff20c2f643864aa8c37a7498ab2e116eedff53f",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/frozen-1d.json",
+      "sha256": "f11ff859563ce55d8d45d44ee1ed04ddf08e53f5ffbe5244e1e4bd8f6961349b",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/frozen-1d.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/frozen-1d.stdout",
+      "sha256": "f658a96346f5c5e67521258e97a1d17c359f3f0d1ba2c429e2d4f43bee3eeac0",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/frozen-hd-comparison.json",
+      "sha256": "44573e88de5d1ea7985eac7f5a07bd907f5e5c5347eeea0129d1312175a144bb",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/frozen-hd-comparison.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/frozen-hd-comparison.stdout",
+      "sha256": "87b2b91400a5aad976efeaa84e94c3f5181b5a4c2db9eed8eac2dd0b515d5a2d",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/frozen-hd.json",
+      "sha256": "36c941e81e2807f38002312210ef52a056db1ef225e26d7e82b30cc44b8fe1c6",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/frozen-hd.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/frozen-hd.stdout",
+      "sha256": "28d436be2c8c783aeaf6aee75370947ffb61c5905a8b9b2b83f49c4cd84e0a1b",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/full-1d-build.json",
+      "sha256": "70de7d5d27c14682b7e421d8cc87aac28e905346a0f3ace99f702269df311978",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/full-1d-build.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/full-1d-build.stdout",
+      "sha256": "a2431403e18f3725d91303e641b1d6787f39ab94fb5d5d61ec9fbd0b95b43358",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/full-hd-build.json",
+      "sha256": "e4f978b52804ec537cbebcf5e267bc40bbc319b38340073942ba3ab43246f353",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/full-hd-build.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/full-hd-build.stdout",
+      "sha256": "2a377dc2291fb73563284cd9aec9efcd85533b33cb057257c60802189592e79b",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/lean-version.json",
+      "sha256": "a0e1ad0a30a30a493806974b6bee63ffcb1a960a0fc90351ded76eba7dd9277f",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/lean-version.stderr",
+      "sha256": "a3741cb36aafc310f3a15d45b47dcd3095f28ed96a0e15084ccaf66a28956370",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/lean-version.stdout",
+      "sha256": "469679dd8c6cec218a7a5e9a36c7a27decc968dacfe057ab3083f0ef43600dac",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/public-dependency-cache.json",
+      "sha256": "5395ba683e83fcbb098364e9800678a1e515b891219f50a771123785633f3f36",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/public-dependency-cache.stderr",
+      "sha256": "01f1e08223452a86aead24d82c598e59be92c7de52c43be6d2074a54eb05f7c5",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/public-dependency-cache.stdout",
+      "sha256": "809ca6b6eb97d813d63dbca4ba47d1c2155a76f8418a9781f5c2311caccbc8ed",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/registry-coverage.json",
+      "sha256": "e36f285ebb787119714ce8454f7451010b6347d08d0d52491447ecb9cdb79257",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/registry-coverage.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/registry-coverage.stdout",
+      "sha256": "79f43f259680287fc43b814979a5e311676f4e4ae0bd282d7ef712206df3cb17",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/source-integrity-after.json",
+      "sha256": "01935b963cc1a45a60f56e4d2938fc0dd250fdcc67727424fc211ecf7dea63ea",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/source-integrity-after.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/source-integrity-after.stdout",
+      "sha256": "9c49f62144ab59fe230a2f6a72a925aebb2186688fecf1353bfc4dab4f44b020",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/source-integrity-before.json",
+      "sha256": "026abb3bd88b855ff81eb5fb4cf8fb749ab1d1850b5c87a4aa783ee20a7882b8",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/source-integrity-before.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/source-integrity-before.stdout",
+      "sha256": "9c49f62144ab59fe230a2f6a72a925aebb2186688fecf1353bfc4dab4f44b020",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/source-token-scan.json",
+      "sha256": "95dbad52936c0e593da60adae0f32ab64ea1af0dfda74349e0abe276a016829b",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/source-token-scan.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/source-token-scan.stdout",
+      "sha256": "bf791eef49a04869d43bf5b311620e21536d51ec91cefff353c241f0f052da14",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/standalone-bridge-build.json",
+      "sha256": "9d7dd6d0d1469eab50daa9080df36c8fff8e9227784252d2ed2a9989d5c7712a",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/standalone-bridge-build.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/standalone-bridge-build.stdout",
+      "sha256": "48a8ea95772ed0e244abf00d523e48b5a09cb8194121cdd55d045d130b44c3b7",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/whole-project-kernel-replay.json",
+      "sha256": "2b8c2ca2950fc3b7c9acd094dc0abcaf9e6594d32ccf2026381d4f73914e0f1c",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/whole-project-kernel-replay.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-mac/whole-project-kernel-replay.stdout",
+      "sha256": "bce1ab8dcf27374656ea2e86def48c5d71c4ff6218947c4cc83d0062a24615f0",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/ENVIRONMENT.json",
+      "sha256": "18f65ae137ba276ea9cd1adb22b78bd6af665cafa3be3bbfc43cbc19af1abc07",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/RESULT.json",
+      "sha256": "14638a20968236702be19f3794f38fcde124a526854f81a6cc79f68468b1d2f5",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/all-module-transitive-axioms.json",
+      "sha256": "0fc062c8b2b123b5841812ee481f5d15caf6b9526c1b141441554c4ed6477773",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/all-module-transitive-axioms.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/all-module-transitive-axioms.stdout",
+      "sha256": "099ff88511625e486e350c05c1d91f4fdb1e176ab52ebe0011ab4b1bd42b0be2",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/complete-paper-registry.json",
+      "sha256": "75681d6400cf920a25033472c91d22729d5e146af393290af665ad038d29dd48",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/complete-paper-registry.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/complete-paper-registry.stdout",
+      "sha256": "fd7a25ca398764776d0fdcc58c395cfb5d3eb45425a109edaf44a5a48a2fd9fa",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/confidentiality-before.json",
+      "sha256": "37473f851d798e655a594bc96a7657f2e174308112773d4eafeed146abaa67af",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/confidentiality-before.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/confidentiality-before.stdout",
+      "sha256": "136a432bf377bf7bf437207256f2296051ddf999039c153bcedc326c9ab00a0e",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/dependency-pins-after.json",
+      "sha256": "13327d07e06341845780a8719aa1ae17b74e27ce368267f0f46c74f94887dabf",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/dependency-pins-after.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/dependency-pins-after.stdout",
+      "sha256": "07c136f68ad3b3200dcae633df0ab71baf84d7c1811784a7cdd9b26f00cb789d",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/dependency-pins-before.json",
+      "sha256": "80e985d03312900a105193aef0168dff169bed98b408ca39c649d32fdec43d34",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/dependency-pins-before.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/dependency-pins-before.stdout",
+      "sha256": "07c136f68ad3b3200dcae633df0ab71baf84d7c1811784a7cdd9b26f00cb789d",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/elaborated-content-comparison.json",
+      "sha256": "2555cc5ca04a08fd739f5a5e5aaad27611bf7369a479626b89f8c577f109d5d6",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/elaborated-content-comparison.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/elaborated-content-comparison.stdout",
+      "sha256": "37795d1597d42f459f65e495039aa616d704b16ad8ca946dc80e2ec891bfc389",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/elaborated-content-identity.json",
+      "sha256": "e9831d550476aa466dafe2ef804fe2278286bc146c3295096045eace6bbf7a7b",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/elaborated-content-identity.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/elaborated-content-identity.stdout",
+      "sha256": "53e529d2875350527ca4764321849fd78180ddde03c49a1c5a4b0652c2d3b87b",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/frozen-1d-comparison.json",
+      "sha256": "3f7c982b47007341612457b5a3e6e4fcdaf4bab74ea2e90fcd0e61f94ca2ac23",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/frozen-1d-comparison.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/frozen-1d-comparison.stdout",
+      "sha256": "12c6fb2e4bf052073899985f7ff20c2f643864aa8c37a7498ab2e116eedff53f",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/frozen-1d.json",
+      "sha256": "a4ac9b922fdaf47573237633f7941264734ae1026ca63f695d33ea08abae2cef",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/frozen-1d.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/frozen-1d.stdout",
+      "sha256": "f658a96346f5c5e67521258e97a1d17c359f3f0d1ba2c429e2d4f43bee3eeac0",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/frozen-hd-comparison.json",
+      "sha256": "2751963b00e047c28908c9c695f18c4fb486cb690c52438246fbf7658fc64e1f",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/frozen-hd-comparison.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/frozen-hd-comparison.stdout",
+      "sha256": "87b2b91400a5aad976efeaa84e94c3f5181b5a4c2db9eed8eac2dd0b515d5a2d",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/frozen-hd.json",
+      "sha256": "6fd63515fe11333668d7096f2c57c01ab553f266e39546d0f47e90648584c419",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/frozen-hd.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/frozen-hd.stdout",
+      "sha256": "28d436be2c8c783aeaf6aee75370947ffb61c5905a8b9b2b83f49c4cd84e0a1b",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/full-1d-build.json",
+      "sha256": "6d6a77fcd402341d19b61251a11c3d24fd5a8d59b87952fda2318a9810fe4a6f",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/full-1d-build.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/full-1d-build.stdout",
+      "sha256": "985df38947510e2ffab150aecdff1ad2f8700733f32a374c24eb69dd157da6ea",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/full-hd-build.json",
+      "sha256": "2a6175a63b5a550b8925899ce18a4a84421efc033b55aa96e3372787c8b371b8",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/full-hd-build.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/full-hd-build.stdout",
+      "sha256": "554e2c84aa979fce2be141086b603c05cf9aecb5711f4fc4b6b6bda745fe2586",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/lean-version.json",
+      "sha256": "8538833c464cb4eccd39ca92fdf1210dd81fe302d3ea9d575d2e8dfc899f2477",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/lean-version.stderr",
+      "sha256": "e01d0192c15f9ccd743e12346645fd99efaa6fbb8ffabd46049cf304311dcfc1",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/lean-version.stdout",
+      "sha256": "eb22144228dd41cd51a0c84af4f976cd0cef473102dcf99b60be756b11f2b95a",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/public-dependency-cache.json",
+      "sha256": "1e9c31aaf38e465ed68151023ec0e167a0ba58f55fc31008c1539a19cf2b2551",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/public-dependency-cache.stderr",
+      "sha256": "a303c03a8149264ab6a521d056ca40c8c89e1ac6b5885b502ed0d0bbe4ef991d",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/public-dependency-cache.stdout",
+      "sha256": "f8b963b071db2c2494fbb7242cc9f2d6b597ffaee25068f9ea60b92c498886e9",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/registry-coverage.json",
+      "sha256": "603bf8f468298e7ce4a63b99c0fd80122b3829de97aea628138afb72f988ea8f",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/registry-coverage.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/registry-coverage.stdout",
+      "sha256": "79f43f259680287fc43b814979a5e311676f4e4ae0bd282d7ef712206df3cb17",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/source-integrity-after.json",
+      "sha256": "971c00adcd90242d8f306b8c769c9ac099f48bae238ddd4b9a319deceb6cf57c",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/source-integrity-after.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/source-integrity-after.stdout",
+      "sha256": "9c49f62144ab59fe230a2f6a72a925aebb2186688fecf1353bfc4dab4f44b020",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/source-integrity-before.json",
+      "sha256": "c560a10bfe67180ade1f74b724dc5ae07a6662e0d1c321dcfbf42054a64c8764",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/source-integrity-before.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/source-integrity-before.stdout",
+      "sha256": "9c49f62144ab59fe230a2f6a72a925aebb2186688fecf1353bfc4dab4f44b020",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/source-token-scan.json",
+      "sha256": "e51760add55242dc403b15f064bd77f29828f564f091436fb849e947252b8719",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/source-token-scan.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/source-token-scan.stdout",
+      "sha256": "bf791eef49a04869d43bf5b311620e21536d51ec91cefff353c241f0f052da14",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/standalone-bridge-build.json",
+      "sha256": "932f4d28bc71171a90a04e215949abf36a9b5695f14cc8f1b1a8f55d4db276fb",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/standalone-bridge-build.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/standalone-bridge-build.stdout",
+      "sha256": "ae888e7f83f4b14c5979ed886d8932a888c9b98d15f402c410d644a1cb7607ad",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/whole-project-kernel-replay.json",
+      "sha256": "995371cd119ffec7289f414ead02f39b051a8f8ef0eaf12ee2025de2225998da",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/whole-project-kernel-replay.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/checks/clean-linux/whole-project-kernel-replay.stdout",
+      "sha256": "bce1ab8dcf27374656ea2e86def48c5d71c4ff6218947c4cc83d0062a24615f0",
+      "raw_bytes_unchanged": true
+    },
+    {
+      "path": "reproducibility/evidence/NEW-LINUX-ACTIONS-LOG.txt",
+      "sha256": "99bc663312d49b63da88c98e2903236f75dfb77c6fd404079cb4327ec960e852",
+      "raw_bytes_unchanged": true,
+      "source": "Complete combined new candidate run log; separate step/system archive members also privately audited."
+    }
+  ],
+  "historical_optional_whole_mathlib_empty_base_replay": "900-second timeout, not passed, not rerun",
+  "source_byte_distinction": "28 files /64 comments sanitized; all133 non-comment bytes and line counts identical. Other105 mathematical files byte-identical. All original9 Lean verification drivers and original54/97 fingerprint baselines byte-identical."
+}

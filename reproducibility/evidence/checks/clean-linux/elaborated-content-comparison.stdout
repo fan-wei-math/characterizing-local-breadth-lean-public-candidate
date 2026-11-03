@@ -1,0 +1,1 @@
+{"status": "PASS", "declarations": 5298, "full_elaborated_type_asts_equal": true, "type_and_value_dependency_sets_equal": true, "source_metadata_ignored": true, "scope": "Every own-library declaration, including generated/private constants. This does not compare docstrings or raw .olean bytes."}

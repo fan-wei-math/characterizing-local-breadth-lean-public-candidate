@@ -1,0 +1,18 @@
+{
+  "name": "public-dependency-cache",
+  "command": [
+    "lake",
+    "exe",
+    "cache",
+    "get"
+  ],
+  "cwd": "reproducibility/lean",
+  "start_utc": "2026-11-03T15:44:38.179031+00:00",
+  "end_utc": "2026-11-03T15:45:30.730792+00:00",
+  "elapsed_seconds": 52.55168749997392,
+  "timeout_seconds": 1800,
+  "exit_code": 0,
+  "stdout": "public-dependency-cache.stdout",
+  "stderr": "public-dependency-cache.stderr",
+  "max_child_rss_native_units": 806731776
+}
