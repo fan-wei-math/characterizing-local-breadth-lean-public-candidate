@@ -1,0 +1,4 @@
+reproducibility/lean/.lake/
+reproducibility/.runs/
+__pycache__/
+.venv/

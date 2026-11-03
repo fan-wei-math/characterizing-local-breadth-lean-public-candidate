@@ -1,0 +1,12 @@
+{
+  "file": "reports/author/Verification-Report.pdf",
+  "previous_redacted_copy_sha256": "fa207ec0439864b09155b4d108c98bdcfcaa72bf2082952fa9a6d7b7fd244595",
+  "public_candidate_sha256": "c96ac21f62e70d2de5a283ed36b5a552fc4b62b0c3de4d0d423c21b9724549e9",
+  "pages": 17,
+  "private_repository_links_replaced": 27,
+  "body_text_identical_except_link_substitutions": true,
+  "additional_mathematical_text_changes": 0,
+  "notice_cover_updated": true,
+  "original_private_documents_unchanged": true,
+  "new_link_targets_are_current_navigation_not_historical_artifact_identity": true
+}

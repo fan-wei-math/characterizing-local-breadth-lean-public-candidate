@@ -1,0 +1,36 @@
+name: Portable Lean reproducibility
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          fetch-depth: 0
+      - name: Install prerequisites
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y python3 python3-venv poppler-utils
+          curl --fail --silent --show-error --location https://raw.githubusercontent.com/leanprover/elan/v4.1.2/elan-init.sh | sh -s -- -y --default-toolchain none
+          echo "$HOME/.elan/bin" >> "$GITHUB_PATH"
+      - name: Install pinned PDF privacy inspector
+        run: |
+          python3 -m venv .venv
+          .venv/bin/python -m pip install --require-hashes -r reproducibility/scripts/requirements-privacy.txt
+          echo "$GITHUB_WORKSPACE/.venv/bin" >> "$GITHUB_PATH"
+      - name: Full clean-project verification
+        run: bash reproducibility/scripts/verify.sh --all --jobs 2
+      - name: Preserve raw verification output
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: lean-reproduction-evidence
+          path: reproducibility/.runs/
+          include-hidden-files: true

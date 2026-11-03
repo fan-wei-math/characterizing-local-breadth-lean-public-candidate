@@ -1,0 +1,53 @@
+{
+  "manuscript_before_sha256": "11d359072220fc50936204f85c14995596e9cb71dd586f961ae906cb8b55cd58",
+  "manuscript_final_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+  "bibliography_sha256": "e2a79654ff4b1da17d73f3b57c8dc4abda17e9ea721d314c1b89674a0aa62df0",
+  "applied_proof_exposition_repairs": [
+    {
+      "id": "G1",
+      "start_line_before": 4980,
+      "end_line_before": 5003
+    },
+    {
+      "id": "G2",
+      "start_line_before": 5011,
+      "end_line_before": 5012
+    },
+    {
+      "id": "G3",
+      "start_line_before": 5152,
+      "end_line_before": 5153
+    },
+    {
+      "id": "G4",
+      "start_line_before": 5166,
+      "end_line_before": 5178
+    },
+    {
+      "id": "G5",
+      "start_line_before": 5787,
+      "end_line_before": 5792
+    },
+    {
+      "id": "U1",
+      "start_line_before": 2555,
+      "end_line_before": 2573
+    }
+  ],
+  "repair_scope": "Six approved exposition repairs; numbered statements/definitions unchanged relative to November2before. Manuscript bytes deliberately excluded. These are not Lean proof edits.",
+  "standalone_bridge_sha256": "0c86b8d3dfd697ed1a5bdfc5560cef76b6fcf96d5ee0af6d5aecacdcf6b25a6e",
+  "historical_consolidated_report_sha256": "454fd7bbeba80f16b60f380dcb36ad51b558ec16202ca25f19b129d2811e7eb6",
+  "correspondence_record_sha256": "63ce89e3755e0207477ee04880675e142ec424f5faf5d07fbe2e1a4fc0941159",
+  "numbered_statement_deltas_from_Nov1": [
+    "B.2 grammar correction",
+    "B.5 author-corrected upper direction, now directly mapped to staged_bK_upper/exact"
+  ],
+  "remaining_written_proof_qualifications": [
+    "Abstract epsilon quantifier order ambiguous; numbered theorem has forall epsilon exists generator.",
+    "Positive-u standing hypothesis versus later u>=1 recall.",
+    "Strict topological neighborhood comparison needs finite-score-gap explanation.",
+    "AppendixA global potential-bound induction/probe-locality domain wording implicit.",
+    "Previous-paper theorem-number citation."
+  ],
+  "assurance": "Retain distinctions among Lean statement/proof verification, external manuscript correspondence, and independent written-proof review. No claim every prose step is kernel checked."
+}

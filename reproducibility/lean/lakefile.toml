@@ -1,0 +1,34 @@
+name = "localBreadthRelease"
+version = "1.0.0"
+defaultTargets = ["BanachDensity1D", "BanachDensityHD"]
+
+[leanOptions]
+pp.unicode.fun = true
+relaxedAutoImplicit = false
+weak.linter.mathlibStandardSet = true
+maxSynthPendingDepth = 3
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "56a005855ea17e0b0958f73ec801ae140b0a1679"
+
+[[lean_lib]]
+name = "BanachDensity1D"
+leanOptions = { autoImplicit = false }
+
+[[lean_lib]]
+name = "BanachDensityHD"
+leanOptions = { autoImplicit = false }
+
+[[lean_lib]]
+name = "BanachDensity1DOct31"
+
+[[lean_lib]]
+name = "BanachDensityHDOct31"
+
+[[lean_lib]]
+name = "BanachDensity1DPriorZero"
+
+[[lean_lib]]
+name = "TriangularSchedule"

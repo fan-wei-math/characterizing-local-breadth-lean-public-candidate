@@ -1,0 +1,42 @@
+{
+  "documents": [
+    {
+      "path": "reports/author/Verification-Report.pdf",
+      "private_original_sha256": "0ef5e3e9c14dbae327c370958421f37f78dd7109f70eacea46fd45ae175c4b8a",
+      "release_sha256": "c96ac21f62e70d2de5a283ed36b5a552fc4b62b0c3de4d0d423c21b9724549e9",
+      "bytes_equal_to_private_original": false,
+      "change_scope": "Explicit public-copy notice and privacy redaction of filesystem paths/private repository navigation only; mathematical text/results/qualifications and historical source identities preserved."
+    },
+    {
+      "path": "reports/author/Verification-Report.md",
+      "private_original_sha256": "c9e8bcd98dbc309565a8ebd6a499e32d4c86e598cda713dd46a35747fbb51b24",
+      "release_sha256": "3c3ba4e3278249bc1e6bf854f0d09ffec983608f44579c0fa0489b2955655b69",
+      "bytes_equal_to_private_original": false,
+      "change_scope": "Explicit public-copy notice and privacy redaction of filesystem paths/private repository navigation only; mathematical text/results/qualifications and historical source identities preserved."
+    },
+    {
+      "path": "reports/author/CERTIFICATE.md",
+      "private_original_sha256": "17cc61b983b68c666a1197a4a6676eb067e1614f308618b37db6918b76ef6a6b",
+      "release_sha256": "9b13a246fd4d4a184bc1bde92a7df65b681505cc0ef02b7c76fb3a9478a49f1e",
+      "bytes_equal_to_private_original": false,
+      "change_scope": "Explicit public-copy notice and privacy redaction of filesystem paths/private repository navigation only; mathematical text/results/qualifications and historical source identities preserved."
+    },
+    {
+      "path": "reports/daniel-zhou/K-REPORT-Nov1.pdf",
+      "private_original_sha256": "ee45a63856b96cbf836ef3dcca18c1b0f3a65268a7197543230463fa6c70e83f",
+      "release_sha256": "ee45a63856b96cbf836ef3dcca18c1b0f3a65268a7197543230463fa6c70e83f",
+      "bytes_equal_to_private_original": true,
+      "change_scope": "None"
+    },
+    {
+      "path": "reports/daniel-zhou/CERTIFICATE.md",
+      "private_original_sha256": "240b98d7b475109ce1c35cb4093d5835993faae1de1ed2400394e5a3698b8681",
+      "release_sha256": "240b98d7b475109ce1c35cb4093d5835993faae1de1ed2400394e5a3698b8681",
+      "bytes_equal_to_private_original": true,
+      "change_scope": "None"
+    }
+  ],
+  "daniel_redistribution_permission": "Owner explicitly authorized inclusion after private repository locators in the exact unchanged documents were identified. No private Lean source included.",
+  "source_history": "No Git history imported. Original reports and source provenance retained privately.",
+  "author_pdf_details": "See evidence/AUTHOR-PDF-REDACTION.json for the earlier path-only copy and AUTHOR-PDF-LINK-SANITIZATION.json for this candidate\u2019s additional navigation sanitization."
+}

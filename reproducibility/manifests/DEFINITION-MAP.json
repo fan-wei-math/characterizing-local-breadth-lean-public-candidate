@@ -1,0 +1,274 @@
+{
+  "scope": "14numbered definitions; Definition1.2 is background and explicitly not encoded.",
+  "rows": [
+    {
+      "occurrence": "N002",
+      "kind": "Definition",
+      "number": "1.2",
+      "labels": [
+        "def:intro-asymptotic"
+      ],
+      "start_line": 526,
+      "end_line": 536,
+      "statement_sha256": "944cb30e000957f4fa95f39dfec46e87ad218ffaa5fc8aa2ed67119a9904272c",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [],
+      "assessment": "Background lower-asymptotic-density definition; no arbitrary enumerated-set artifact in this library. Not a proved-result coverage obligation.",
+      "evidence_kind": "formal statement plus documented mathematical decoding, not a proof of printed prose",
+      "status": "background definition, not encoded or used by the verified project"
+    },
+    {
+      "occurrence": "N003",
+      "kind": "Definition",
+      "number": "1.3",
+      "labels": [
+        "def:banach-intro"
+      ],
+      "start_line": 565,
+      "end_line": 577,
+      "statement_sha256": "057984804e3db9f8216e9981272604553213f5d5165b6d05cb31a3537f2ac6b0",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.Oct31.relativeBanach",
+        "BanachDensityHD.Oct31.relativeBanach_eq_dH_one"
+      ],
+      "assessment": "Exact valid-target numerator is banach (A intersection B) B; relativeBanach_eq_dH_one is the kernel bridge.",
+      "evidence_kind": "formal statement plus documented mathematical decoding, not a proof of printed prose",
+      "status": "defined object / representation"
+    },
+    {
+      "occurrence": "N004",
+      "kind": "Definition",
+      "number": "1.4",
+      "labels": [
+        "def:filtered-banach-h"
+      ],
+      "start_line": 631,
+      "end_line": 652,
+      "statement_sha256": "8b70d63de50601457ac7b09c46bf1884a6e78f5c7ac347c56ba6e3a82651be07",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.testInf",
+        "BanachDensityHD.deltaH",
+        "BanachDensityHD.deltaH_tendsto",
+        "BanachDensityHD.dH"
+      ],
+      "assessment": "Definition and actual representation reviewed independently; see the definitions table in the independent audit.",
+      "evidence_kind": "formal statement plus documented mathematical decoding, not a proof of printed prose",
+      "status": "defined object / representation"
+    },
+    {
+      "occurrence": "N011",
+      "kind": "Definition",
+      "number": "2.1",
+      "labels": [
+        "eq:pairing"
+      ],
+      "start_line": 1960,
+      "end_line": 1968,
+      "statement_sha256": "2ea5e3f28534205d0c4f8291179b9f146eb07b0e8f0b8cdd6dc3c697547f10b9",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.def_raw_pairing_score"
+      ],
+      "assessment": "Definition and actual representation reviewed independently; see the definitions table in the independent audit.",
+      "evidence_kind": "formal statement plus documented mathematical decoding, not a proof of printed prose",
+      "status": "defined object / representation"
+    },
+    {
+      "occurrence": "N013",
+      "kind": "Definition",
+      "number": "2.3",
+      "labels": [
+        "def:aot"
+      ],
+      "start_line": 2115,
+      "end_line": 2129,
+      "statement_sha256": "45ab5224b51eda3b5b72f5ea948c8cbb54a4023ccd376b94651edaad18420855",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.TreeCorrespondence.PaperObstruction.Address.vertexTree",
+        "BanachDensityHD.TreeCorrespondence.PaperObstruction.Address.terminal_root",
+        "BanachDensityHD.TreeCorrespondence.all_vertex_obstructions_iff"
+      ],
+      "assessment": "Countable well-founded rooted vertex trees, occurrences preserved. Terminal language-path equivalence is proved; no finite-height assumption.",
+      "evidence_kind": "formal statement plus documented mathematical decoding, not a proof of printed prose",
+      "status": "defined object / representation"
+    },
+    {
+      "occurrence": "N017",
+      "kind": "Definition",
+      "number": "3.1",
+      "labels": [
+        "def:CBrank"
+      ],
+      "start_line": 2281,
+      "end_line": 2289,
+      "statement_sha256": "5990bc285086c715e40922701a00154d441f5508ad620e8f9ff39d6c9c78e4b1",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.evidenceTopology",
+        "BanachDensityHD.cbDerived",
+        "BanachDensityHD.PointRank",
+        "BanachDensityHD.FiniteCBRank",
+        "BanachDensityHD.finiteCBRank_pointRank"
+      ],
+      "assessment": "Definition and actual representation reviewed independently; see the definitions table in the independent audit.",
+      "evidence_kind": "formal statement plus documented mathematical decoding, not a proof of printed prose",
+      "status": "defined object / representation"
+    },
+    {
+      "occurrence": "N023",
+      "kind": "Definition",
+      "number": "5.2",
+      "labels": [
+        "def:safe-unsafe-history"
+      ],
+      "start_line": 2812,
+      "end_line": 2820,
+      "statement_sha256": "e0be996d02b3b0afab0bfde860a890be01cdfc81dd3f97cf9fde5de79fc828df",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.def_safe_unsafe_history"
+      ],
+      "assessment": "Definition and actual representation reviewed independently; see the definitions table in the independent audit.",
+      "evidence_kind": "formal statement plus documented mathematical decoding, not a proof of printed prose",
+      "status": "defined object / representation"
+    },
+    {
+      "occurrence": "N024",
+      "kind": "Definition",
+      "number": "5.3",
+      "labels": [
+        "opensets"
+      ],
+      "start_line": 2860,
+      "end_line": 2888,
+      "statement_sha256": "8d7b799f1189896c0e6e9b6be6700541cab328541aae52d498d768877b8ce616",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.opensets",
+        "BanachDensityHD.InBasic",
+        "BanachDensityHD.historyTopology"
+      ],
+      "assessment": "Definition and actual representation reviewed independently; see the definitions table in the independent audit.",
+      "evidence_kind": "formal statement plus documented mathematical decoding, not a proof of printed prose",
+      "status": "defined object / representation"
+    },
+    {
+      "occurrence": "N033",
+      "kind": "Definition",
+      "number": "5.11",
+      "labels": [
+        "def:history-protected-set"
+      ],
+      "start_line": 3314,
+      "end_line": 3317,
+      "statement_sha256": "0c7a80ed759fcfbc6bd74038a1ab7d2b24614ed8801c799da80b4a8f9593e535",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.def_history_protected_set"
+      ],
+      "assessment": "Definition and actual representation reviewed independently; see the definitions table in the independent audit.",
+      "evidence_kind": "formal statement plus documented mathematical decoding, not a proof of printed prose",
+      "status": "defined object / representation"
+    },
+    {
+      "occurrence": "N058",
+      "kind": "Definition",
+      "number": "7.4",
+      "labels": [],
+      "start_line": 4956,
+      "end_line": 4964,
+      "statement_sha256": "e3edd20433fd30180bfb990dac7a177104200d90d538e205df2d37ded89754c8",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.GeomFeasible",
+        "BanachDensityHD.StopGame",
+        "BanachDensityHD.packetGame",
+        "BanachDensityHD.StopGame.Feasible",
+        "BanachDensityHD.StopGame.Wins"
+      ],
+      "assessment": "Definition and actual representation reviewed independently; see the definitions table in the independent audit.",
+      "evidence_kind": "formal statement plus documented mathematical decoding, not a proof of printed prose",
+      "status": "defined object / representation"
+    },
+    {
+      "occurrence": "N060",
+      "kind": "Definition",
+      "number": "7.5",
+      "labels": [
+        "def:protected-tree"
+      ],
+      "start_line": 5106,
+      "end_line": 5135,
+      "statement_sha256": "344c310016eed436e4e44007f9908724e305a59202b8758b9d6d02f11a537972",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.TreeCorrespondence.OccurrenceTree.Protected",
+        "BanachDensityHD.TreeCorrespondence.paperProtectedTree_iff"
+      ],
+      "assessment": "Ordinary strict occurrence trees with every compatible proper child, finite protection/cutoffs/radii and every finite stopping game.",
+      "evidence_kind": "formal statement plus documented mathematical decoding, not a proof of printed prose",
+      "status": "defined object / representation"
+    },
+    {
+      "occurrence": "N061",
+      "kind": "Definition",
+      "number": "7.6",
+      "labels": [
+        "def:q-good-decoration"
+      ],
+      "start_line": 5251,
+      "end_line": 5267,
+      "statement_sha256": "aeffefa498be54e6f2bfc4a1d2205a928a10b562e543b9985acd04ec110f1746",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.IsQGoodDecoration",
+        "BanachDensityHD.DecoratedGood"
+      ],
+      "assessment": "Partial history decoration is related to the total Lean carrier by the existing proved decoration/basic-neighborhood bridges.",
+      "evidence_kind": "formal statement plus documented mathematical decoding, not a proof of printed prose",
+      "status": "defined object / representation"
+    },
+    {
+      "occurrence": "N069",
+      "kind": "Definition",
+      "number": "7.14",
+      "labels": [
+        "def:copy-protected-tree"
+      ],
+      "start_line": 6072,
+      "end_line": 6084,
+      "statement_sha256": "5df344e74546a94379cd6ee9717da1a0bef77c5fd37fb9d354ca1133bcde130d",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.ExactStatements.CopyOccurrenceTree.Protected",
+        "BanachDensityHD.ExactStatements.copyOccurrenceTree_iff",
+        "BanachDensityHD.ExactStatements.DyadicCopyProtected",
+        "BanachDensityHD.ExactStatements.dyadicQuota"
+      ],
+      "assessment": "Copy-specific broad occurrence tree, literal dyadic quotas, all positive child copy indices, and equal-language edges. Complete reciprocal/dyadic transport is proved.",
+      "evidence_kind": "formal statement plus documented mathematical decoding, not a proof of printed prose",
+      "status": "defined object / representation"
+    },
+    {
+      "occurrence": "N077",
+      "kind": "Definition",
+      "number": "A.1",
+      "labels": [
+        "def:activate"
+      ],
+      "start_line": 6928,
+      "end_line": 6932,
+      "statement_sha256": "98ffb193593522089be707cc47fef88a8932d053b0395da23969054740d1842a",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.RegionTree.activationStep"
+      ],
+      "assessment": "Definition and actual representation reviewed independently; see the definitions table in the independent audit.",
+      "evidence_kind": "formal statement plus documented mathematical decoding, not a proof of printed prose",
+      "status": "defined object / representation"
+    }
+  ]
+}

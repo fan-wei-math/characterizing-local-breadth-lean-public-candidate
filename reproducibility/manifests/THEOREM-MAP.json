@@ -1,0 +1,1209 @@
+{
+  "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+  "scope": "Final repaired November2 manuscript:65numbered assertions/64distinct results; remarks excluded; statuses require new checks.",
+  "rows": [
+    {
+      "occurrence": "N005",
+      "kind": "Theorem",
+      "number": "1.5",
+      "labels": [
+        "thm:intro-one-dimensional"
+      ],
+      "start_line": 1136,
+      "end_line": 1164,
+      "statement_sha256": "76493237553ad14aadb8f3732af19f6ef7928083a804b2b955358872ab2ace5d",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.thm_intro_one_dimensional"
+      ],
+      "assessment": "Matches equality of both structural invariants, arbitrary valid competing G, and one common lower G before K,w. Global freshness is the standing model, not an extra theorem hypothesis.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N006",
+      "kind": "Corollary",
+      "number": "1.6",
+      "labels": [
+        "cor:intro-one-dimensional-rank"
+      ],
+      "start_line": 1245,
+      "end_line": 1254,
+      "statement_sha256": "0614e45824cf6907709a15d95fb648034c6f5c92dda50bb11fe8a1daa2f25d13",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.Oct31.finite_point_rank_all"
+      ],
+      "assessment": "The paper-facing finite_point_rank_all explicitly proves the empty-family case and reuses the nonempty theorem otherwise. No nonemptiness premise is added.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N007",
+      "kind": "Theorem",
+      "number": "1.7",
+      "labels": [
+        "thm:intro-higher-nonsimultaneous"
+      ],
+      "start_line": 1327,
+      "end_line": 1348,
+      "statement_sha256": "c2b9d2287735b2853908866a78a3aa6e13fa55f34efdc667c9cd02f65300e8d3",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.thm_intro_higher_nonsimultaneous",
+        "BanachDensityHD.thm_main_not_simul"
+      ],
+      "assessment": "Separation witnesses choose the family and both generators before h. For ordinary density use the relative-numerator bridge and eventual validity.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N010",
+      "kind": "Theorem",
+      "number": "1.8",
+      "labels": [
+        "thm:main-oneD"
+      ],
+      "start_line": 1898,
+      "end_line": 1921,
+      "statement_sha256": "7544df56f0176fbfddafc7c902764c6a73d9f6950441703a64d7e737c9b0924f",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.thm_main_oneD"
+      ],
+      "assessment": "Both directions, one common lower generator, every full enumeration, and per-target adverse full enumeration are present.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N012",
+      "kind": "Claim",
+      "number": "2.2",
+      "labels": [
+        "claim:cn-eventual-interval-bound"
+      ],
+      "start_line": 2100,
+      "end_line": 2104,
+      "statement_sha256": "90f9db980d327f6a3187330714112c08385d21de7e09daa334818ca119208e3f",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.claim_cn_eventual_interval_bound"
+      ],
+      "assessment": "The eventual radius depends on the fixed chain. No common-radius conclusion has been inserted.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N014",
+      "kind": "Claim",
+      "number": "2.4",
+      "labels": [
+        "claim:bn-tree-path-bound"
+      ],
+      "start_line": 2160,
+      "end_line": 2162,
+      "statement_sha256": "5642604df3bcc92e571bad1cfc6f5da8b2ef41d8f4a3f9ae10ea90c360061e41",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.claim_bn_tree_path_bound"
+      ],
+      "assessment": "Strict threshold q<bn and an arbitrary admissible tree; actual root-to-leaf witness, not an arbitrary chain.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N015",
+      "kind": "Theorem",
+      "number": "2.5",
+      "labels": [
+        "thm:lower"
+      ],
+      "start_line": 2169,
+      "end_line": 2178,
+      "statement_sha256": "c7e4ac6b53150c5c2977086007b300301379d03819a2a7be17335e67196d7da2",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.thm_lower"
+      ],
+      "assessment": "Available outputs, eventual validity, and the exact b(K) guarantee are jointly included.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N016",
+      "kind": "Theorem",
+      "number": "2.6",
+      "labels": [
+        "thm:topological-bn",
+        "eq:bn-topo"
+      ],
+      "start_line": 2232,
+      "end_line": 2242,
+      "statement_sha256": "ff14d4c90a19ba087d8c9f7e8b1f7b22b233e60ba4b24bcd00f27acb25aeb1b7",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.thm_topological_bn"
+      ],
+      "assessment": "Topological supremum over neighborhoods in the root component; not a claim that its supremum is attained.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N018",
+      "kind": "Lemma",
+      "number": "3.2",
+      "labels": [
+        "lem:finite-rank-witness"
+      ],
+      "start_line": 2296,
+      "end_line": 2305,
+      "statement_sha256": "f56848751d9878775182800f2f7368b5c51cb2e056d884e7a8b41f7c4f27c330",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.lem_finite_rank_witness"
+      ],
+      "assessment": "A proper surviving refinement has a finite rank strictly below r, including the rank-zero case. Non-ranked points are excluded by absence from the r-th derivative.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N019",
+      "kind": "Corollary",
+      "number": "3.3",
+      "labels": [
+        "cor:finite-rank-b"
+      ],
+      "start_line": 2328,
+      "end_line": 2338,
+      "statement_sha256": "1ee42faccf83c20527001432466d4e30b2ff0b1354b75bca3a7b5bc693b3f6a4",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.cor_finite_rank_b"
+      ],
+      "assessment": "Exact (r+1)/(2n) deficit and limit half. Written rank-drop path proof is sound.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N020",
+      "kind": "Theorem",
+      "number": "4.1",
+      "labels": [
+        "thm:upper"
+      ],
+      "start_line": 2406,
+      "end_line": 2415,
+      "statement_sha256": "90d22baf13269daf3307e6922c50c06f926b4a7e51ffb071330a79850ba69d8a",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.thm_upper"
+      ],
+      "assessment": "The existing upper theorem is kernel checked. The repaired printed proof is independently justified by the final-returned-interval suffix induction; the formal Good-extension algorithm and printed race-only tests are not identified.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N021",
+      "kind": "Lemma",
+      "number": "4.2",
+      "labels": [
+        "lem:upper-race"
+      ],
+      "start_line": 2420,
+      "end_line": 2428,
+      "statement_sha256": "f789259e7d7e3fb49435e47dbb9be95e1cb31d56dccb88e5115fbee64ffab8a2",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.lem_upper_race"
+      ],
+      "assessment": "Finite race counts distinct fresh outputs against unused Black claims; it is not a theorem bounding arbitrary preoccupied sets.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N022",
+      "kind": "Theorem",
+      "number": "5.1",
+      "labels": [
+        "thm:fixed-epsilon"
+      ],
+      "start_line": 2767,
+      "end_line": 2778,
+      "statement_sha256": "a14c87a36015b33476ba96738d086a511f6334b7eb5e50b0d7a6cefa272a6704",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.thm_fixed_epsilon"
+      ],
+      "assessment": "One fixed-error generator per epsilon, common to every target, with positive-part quota.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N025",
+      "kind": "Lemma",
+      "number": "5.4",
+      "labels": [
+        "lem:history-topology"
+      ],
+      "start_line": 2903,
+      "end_line": 2914,
+      "statement_sha256": "30ced4397f82b23b03eb6e7e6120513d2bfcbcbff8347a1aa12501bef20938fa",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.HistoriesAux.lem_history_topology_gen"
+      ],
+      "assessment": "Actual basic-neighborhood construction and local-open characterization. History-dependent finite tests are retained.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N026",
+      "kind": "Lemma",
+      "number": "5.5",
+      "labels": [
+        "lem:finest-history-topology"
+      ],
+      "start_line": 2986,
+      "end_line": 2995,
+      "statement_sha256": "d677c325393310c7f24262284b573144b5dc72271d18f13ae0847a27febe1de6",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.lem_finest_history_topology"
+      ],
+      "assessment": "Finest topology preserving continuation of convergent proper refinements. The lattice/endpoint is countable, so the sequential diagonal proof applies.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N027",
+      "kind": "Lemma",
+      "number": "5.6",
+      "labels": [
+        "lem:obstruction-closure"
+      ],
+      "start_line": 3071,
+      "end_line": 3078,
+      "statement_sha256": "67a2cbaecfbc8f8c95cf5712cd0530ba17e2976b9ef9f3c12a26d349f0a59cb3",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.HistoriesAux.lem_obstruction_closure_gen"
+      ],
+      "assessment": "Generic countable-universe closure theorem plus obstruction-presentation equivalence. Arbitrary countable well-founded branching is essential; no finite-height restriction.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N028",
+      "kind": "Corollary",
+      "number": "5.7",
+      "labels": [
+        "cor:safety-interior"
+      ],
+      "start_line": 3136,
+      "end_line": 3145,
+      "statement_sha256": "fd8ef5b5ab38034d7d883b95c0ad400a594f183dccb63ed6f805f22589a15462",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.cor_safety_interior"
+      ],
+      "assessment": "Unsafe iff closure of low scores; safe iff interior of strict high scores, within the starting component.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N029",
+      "kind": "Theorem",
+      "number": "5.8",
+      "labels": [
+        "thm:topological-bn-restated"
+      ],
+      "start_line": 3164,
+      "end_line": 3174,
+      "statement_sha256": "1dc31b376a0cd1d43e2c120a272b0745ce690485c8920d711d42fb31d94a8333",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.thm_topological_bn_restated"
+      ],
+      "assessment": "Same equality as 2.6, proved by following a tree inside a neighborhood and by strict approximation q<bn.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N030",
+      "kind": "Theorem",
+      "number": "5.9",
+      "labels": [
+        "thm:topological-main"
+      ],
+      "start_line": 3239,
+      "end_line": 3270,
+      "statement_sha256": "7681947e71dcb3e0bac0a80a432334a07e20c38298f534f8b5cd5c304b23a6ef",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.thm_topological_main"
+      ],
+      "assessment": "Both optimal-generation directions use bTop, whose equality with bK has been proved.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N031",
+      "kind": "Corollary",
+      "number": "5.10",
+      "labels": [
+        "cor:protected-set"
+      ],
+      "start_line": 3275,
+      "end_line": 3283,
+      "statement_sha256": "cae795882ce8aa93564ff51ee6f0e62fc26dc84a457f59785a7e81e620c46d48",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.cor_protected_set"
+      ],
+      "assessment": "Singleton history safe; every safe history has strict score; finite test preserves safety of every compatible proper extension.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N035",
+      "kind": "Lemma",
+      "number": "5.12",
+      "labels": [
+        "lem:boards"
+      ],
+      "start_line": 3430,
+      "end_line": 3441,
+      "statement_sha256": "0ada67fdb9a836fbe6f9b558c52bbf0d6f925a277b59ade07046cd7a5cf8660e",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.lem_boards"
+      ],
+      "assessment": "Boards may be unbounded ambient intervals but their language traces are finite. Exact bounds N and N+Bparent-1 are preserved.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N036",
+      "kind": "Lemma",
+      "number": "5.13",
+      "labels": [
+        "lem:forest-invariant"
+      ],
+      "start_line": 3546,
+      "end_line": 3552,
+      "statement_sha256": "902c0997eefaf743a3b63bb5d6bd0c5f9d520d1880cadaeb9c5974059bce6ce0",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.lem_forest_invariant"
+      ],
+      "assessment": "Finite ancestry and finite total protection; each positive ancestor threshold is protected on its actual path.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N037",
+      "kind": "Lemma",
+      "number": "5.14",
+      "labels": [
+        "lem:uniform-board",
+        "eq:uniform-board"
+      ],
+      "start_line": 3569,
+      "end_line": 3576,
+      "statement_sha256": "745c4dd362a41077d8931632158e25217dabffe32af56d54470caad3914fac38",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.lem_uniform_board"
+      ],
+      "assessment": "Exact max(0,s-1/N) lower bound, including freezing after a score falls below s.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N038",
+      "kind": "Lemma",
+      "number": "5.15",
+      "labels": [
+        "lem:memory"
+      ],
+      "start_line": 3647,
+      "end_line": 3654,
+      "statement_sha256": "9301f2597790e31da47a9ad55b8a569d6815bd033d06da5a56778405d14f30b1",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.lem_memory"
+      ],
+      "assessment": "Conditional inclusion of the two updated record languages, using board containment and actual ancestry.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N039",
+      "kind": "Lemma",
+      "number": "5.16",
+      "labels": [
+        "lem:capture"
+      ],
+      "start_line": 3670,
+      "end_line": 3674,
+      "statement_sha256": "8bd16e7cbec973cac2b0a62a9c177019916346b4f2f0a15e3fbafb1c5fc2a6f9",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.ForestAux.capture_gen"
+      ],
+      "assessment": "Eventual capture uses the finite evidence and index scan; it does not assume the target is eventually identified.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N040",
+      "kind": "Lemma",
+      "number": "5.17",
+      "labels": [
+        "lem:validity"
+      ],
+      "start_line": 3711,
+      "end_line": 3714,
+      "statement_sha256": "6324859799b2c23cda9577e9c476b9218fc634717a91e57fbe85ed47f10cfd14",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.lem_validity"
+      ],
+      "assessment": "Finite invalid outputs, including those from finitely many early initialized ancestor-board traces.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N041",
+      "kind": "Lemma",
+      "number": "5.18",
+      "labels": [
+        "lem:pairing-game"
+      ],
+      "start_line": 3733,
+      "end_line": 3744,
+      "statement_sha256": "072a61974f1ab57f502cdde9a604744c81f9d701cabf247f448982672c83c580",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.lem_pairing_game"
+      ],
+      "assessment": "Total White-count invariant, with repeated inputs and extra visible/invisible White selections. It does not promise an individual-layer count. G1/G4 use the invariant at claimed-exhaustion stops; the actual serving application has the lemma's full-input hypothesis.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N042",
+      "kind": "Corollary",
+      "number": "5.19",
+      "labels": [
+        "cor:regular-board-density"
+      ],
+      "start_line": 3767,
+      "end_line": 3771,
+      "statement_sha256": "86acdddbf45bf3bcb5a9a0561dccba4a8920de84900f346c7631815ae3994c99",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.cor_regular_board_density"
+      ],
+      "assessment": "Regular board quota, with regularity/exceptionality specified by the actual algorithm and capture time.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N043",
+      "kind": "Lemma",
+      "number": "5.20",
+      "labels": [
+        "lem:copies-chain"
+      ],
+      "start_line": 3935,
+      "end_line": 3940,
+      "statement_sha256": "7053dc2524585746ebbdecf1ca6796454a8ead563cdd58003540b2836cff07a5",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.lem_copies_chain"
+      ],
+      "assessment": "Adjacent same-language copies have the stated parent relation; copies themselves and their requirements remain distinct.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N044",
+      "kind": "Lemma",
+      "number": "5.21",
+      "labels": [
+        "lem:capture-fixed-copy"
+      ],
+      "start_line": 3987,
+      "end_line": 3991,
+      "statement_sha256": "5f265958a33932c13003f2be5ab86ab454584b907f7708644d5e8345bede63a6",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.lem_capture_fixed_copy"
+      ],
+      "assessment": "Capture for each fixed copy, with its own finite capture time; no uniformity in copy index.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N045",
+      "kind": "Lemma",
+      "number": "5.22",
+      "labels": [
+        "lem:fixed-copy-density"
+      ],
+      "start_line": 4092,
+      "end_line": 4097,
+      "statement_sha256": "cad41e0d239e76f55ca8a6f8e4bc612317395524978a046a7830c2f0eec2bf0b",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.lem_fixed_copy_density"
+      ],
+      "assessment": "One fixed copy quota (bK-2^-m)+ on the same output set.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N046",
+      "kind": "Theorem",
+      "number": "5.23",
+      "labels": [
+        "thm:oneD-lower-conclusion"
+      ],
+      "start_line": 4133,
+      "end_line": 4138,
+      "statement_sha256": "cbad747c2a8d5231c2daab9b99e00fb8428a1eb1f706d010fa9d59323adf0835",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.thm_oneD_lower_conclusion"
+      ],
+      "assessment": "Single exact lower generator, quantifying target and enumeration after the generator.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N047",
+      "kind": "Theorem",
+      "number": "6.1",
+      "labels": [
+        "thm:general"
+      ],
+      "start_line": 4192,
+      "end_line": 4202,
+      "statement_sha256": "78aba0cea2743723fc112e0b4cf67c322f3d0825f84960b59314e52fcd2b494c",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.Oct31.separation_gap_one_sixteenth"
+      ],
+      "assessment": "Use Oct31.separation_gap_one_sixteenth, not thm_general alone: the latter hides the numeric witness in an existential c>0 signature.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N048",
+      "kind": "Theorem",
+      "number": "6.2",
+      "labels": [
+        "thm:main-not-simul"
+      ],
+      "start_line": 4215,
+      "end_line": 4241,
+      "statement_sha256": "fbffde518fef5e273a641b1a4af11fc939ffe6d0bdc2ace4f29e3142b3f9c50b",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.thm_main_not_simul",
+        "BanachDensityHD.family7_witnesses",
+        "BanachDensityHD.SeparatesWith"
+      ],
+      "assessment": "Actual SeparatesWith contains exact 1/4 and 1/2 optima, common half-density generator on other targets, and trade-off. Family is independent of h.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N050",
+      "kind": "Lemma",
+      "number": "6.3",
+      "labels": [
+        "lem:validity-commitment"
+      ],
+      "start_line": 4578,
+      "end_line": 4580,
+      "statement_sha256": "25de1ebfb8bbab8c06c6dcf98f6ebf5c71386473ae88b4e627a81980138f8e3e",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.lem_validity_commitment"
+      ],
+      "assessment": "Infinite subsets of the finite-dimensional lattice are countably infinite; full enumerations exist. Distinct committing prefix/continuations are explicit. No uncountable-type vacuity issue.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N051",
+      "kind": "Lemma",
+      "number": "6.4",
+      "labels": [
+        "lem:block"
+      ],
+      "start_line": 4597,
+      "end_line": 4604,
+      "statement_sha256": "38efc42f9a3e658eaaa9113445fd4fa7cb39b51d3db4cf9306af68c77d8c36a9",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.ExactStatements.distinct_input_block_forcing",
+        "BanachDensityHD.CellForced"
+      ],
+      "assessment": "CellForced explicitly records first touch at a, completed a,b,c, and at most one useful output. Initial distinctness is harmless specialization of the stronger old statement. Extending with distinct inputs is not asserted explicitly by the printed 6.4 sentence.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N052",
+      "kind": "Lemma",
+      "number": "6.5",
+      "labels": [
+        "prop:tradeoff"
+      ],
+      "start_line": 4651,
+      "end_line": 4654,
+      "statement_sha256": "12619d5469066c2f27c4f16441cf9a65d1ed1707eb12f60fa9db342c80db14ff",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.prop_tradeoff"
+      ],
+      "assessment": "Every valid G and real quotas x,y; the proof first fixes v<y and produces a full grid enumeration. No interchange of generator and target quantifiers.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N053",
+      "kind": "Claim",
+      "number": "6.6",
+      "labels": [],
+      "start_line": 4662,
+      "end_line": 4663,
+      "statement_sha256": "d390ac58e3ab38b5de84c6ecacdcb6713342052c2154a8609a63a0ac24dd0441",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.claim_horizontal_test",
+        "BanachDensityHD.hTest"
+      ],
+      "assessment": "Finished horizontal test of exactly 2n target points, from any finite strip prefix. The density hypothesis y and v<y are inherited from the enclosing proof.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N054",
+      "kind": "Theorem",
+      "number": "7.1",
+      "labels": [
+        "thm:fixed-quota"
+      ],
+      "start_line": 4792,
+      "end_line": 4804,
+      "statement_sha256": "c2f0295ada728a458d00a34b049eb2cbf935531830cf16bff580ebd35ed1e0e5",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.ExactStatements.fixed_quota_suff_positive",
+        "BanachDensityHD.ExactStatements.fixed_quota_nec_positive",
+        "BanachDensityHD.ExactStatements.protected_normalization"
+      ],
+      "assessment": "New PositiveThreshold fixed_quota_suff_positive/fixed_quota_nec_positive supply positive nondecreasing u, not u>=1, with full tree cutoff transport. The final aggregate kernel/axiom check passed.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N055",
+      "kind": "Theorem",
+      "number": "7.2",
+      "labels": [
+        "thm:main"
+      ],
+      "start_line": 4835,
+      "end_line": 4840,
+      "statement_sha256": "47669b5b6d5fba9b4e0e0a9363b55eab0c4d43b750987fae57008497465b8a53",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.ExactStatements.exact_profile_occurrences_positive",
+        "BanachDensityHD.ExactStatements.all_dyadic_iff_reciprocal"
+      ],
+      "assessment": "New exact_profile_positive_dyadic and the final exact_profile_occurrences_positive supply the literal dyadic quota and every broad compatible copy occurrence, including equal-language lower accuracy edges. A scalar quota limit alone would not be enough.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N056",
+      "kind": "Theorem",
+      "number": "7.3",
+      "labels": [
+        "thm:overview"
+      ],
+      "start_line": 4855,
+      "end_line": 4870,
+      "statement_sha256": "2c6700e3596fdd18f7d6d7d2e72a5b0aa27d8e1b67ed125a7aac6733e93c3415",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.Oct31.finite_rank_near_half_all",
+        "BanachDensityHD.end_main"
+      ],
+      "assessment": "Use finite_rank_near_half_all for part1 and end_main for part2; the older overview type retains a Nonvacuous guard. Endpoint dimension d>=2 is standing context.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N062",
+      "kind": "Theorem",
+      "number": "7.7",
+      "labels": [
+        "thm:topological-protected-tree"
+      ],
+      "start_line": 5274,
+      "end_line": 5279,
+      "statement_sha256": "f92360a7afff9669cdc7f2a408cf51a791caaa86a3d1cce8b3bfe0a0d81fddde",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.TreeCorrespondence.paper_topological_characterization"
+      ],
+      "assessment": "paper_topological_characterization compares occurrence trees with partial decorations and explicitly shrinks to a basic neighborhood; no positive-u normalization is needed for this qualitative equivalence.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N063",
+      "kind": "Corollary",
+      "number": "7.8",
+      "labels": [
+        "cor:hd-obstruction"
+      ],
+      "start_line": 5328,
+      "end_line": 5352,
+      "statement_sha256": "76f71c356ca93fcfe09e3bef492ea4e3369e371c991da743a16732962bfa099f",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.TreeCorrespondence.exact_vertex_obstruction_characterization"
+      ],
+      "assessment": "exact_vertex_obstruction_characterization quantifies one global assignment before all countable vertex presentations. New Address realization preserves occurrences and terminal language paths.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N064",
+      "kind": "Corollary",
+      "number": "7.9",
+      "labels": [
+        "cor:topological-protected-set"
+      ],
+      "start_line": 5387,
+      "end_line": 5396,
+      "statement_sha256": "a1571698d057e446538144446a0c9b863637ab7b2abd1c28750b73c1c1485096",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.TreeCorrespondence.PaperDecoration.finite_protection"
+      ],
+      "assessment": "PaperDecoration.finite_protection gives the exact statement without irrelevant u>=1 premises.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N065",
+      "kind": "Lemma",
+      "number": "7.10",
+      "labels": [
+        "lem:hd-capture"
+      ],
+      "start_line": 5468,
+      "end_line": 5473,
+      "statement_sha256": "c0142cd8cae01c38a9c523c254277711a5fb8596ac8062f44672dc480cbf6e9a",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.lem_hd_capture",
+        "BanachDensityHD.scanParent",
+        "BanachDensityHD.guess"
+      ],
+      "assessment": "Exact scanParent/critical-guess capture theorem; supplied forest data satisfy the construction assumptions.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N066",
+      "kind": "Lemma",
+      "number": "7.11",
+      "labels": [
+        "lem:sewing",
+        "eq:logsew",
+        "eq:hsew"
+      ],
+      "start_line": 5514,
+      "end_line": 5526,
+      "statement_sha256": "21c602f279ea456e0232f55305fa78a14ab296c504296ddc55636b3d3702505c",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.ExactStatements.sewing_positive"
+      ],
+      "assessment": "Positive-threshold sewing covers the standing u>0 domain and both stated bounds using the same partition. The later manuscript recall u>=1 is an unchanged exposition inconsistency.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N067",
+      "kind": "Lemma",
+      "number": "7.12",
+      "labels": [
+        "lem:hd-help"
+      ],
+      "start_line": 5784,
+      "end_line": 5801,
+      "statement_sha256": "640a3ec6b37114fb28b0cede1d60e240cba3eba94212935b776285a7dd50cfb3",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.lem_hd_help",
+        "BanachDensityHD.simStep",
+        "BanachDensityHD.simRun"
+      ],
+      "assessment": "Actual simulator invariants: input points are virtually occupied and virtual White points are actual outputs. Hypotheses express exactly the stored-policy response rule and global freshness.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N068",
+      "kind": "Lemma",
+      "number": "7.13",
+      "labels": [
+        "lem:hd-commitments"
+      ],
+      "start_line": 5933,
+      "end_line": 5946,
+      "statement_sha256": "feabd9410c01f07279efeac5c70176fffb5fd991afc0a8920d29f5916f09baa4",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.ExactStatements.commitments_including_final_reply"
+      ],
+      "assessment": "New commitments_including_final_reply must be used for the strongest reading of after x_s: it includes the output answering the final committing input, nonempty prefix, and positive u. Old lem_hd_commitments only handles subsequent continuation outputs.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N070",
+      "kind": "Lemma",
+      "number": "7.15",
+      "labels": [
+        "lem:hd-copy-chain"
+      ],
+      "start_line": 6137,
+      "end_line": 6142,
+      "statement_sha256": "97f67f576565f48ebf1a0715a79aa4586b7a730174a8f36b99394a656c944b43",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.ExactStatements.adjacent_copy_ancestry",
+        "BanachDensityHD.ExactStatements.exists_copy_enumeration"
+      ],
+      "assessment": "New adjacent_copy_ancestry/equal_language_ancestor use the literal nonstrict scan, not the unrelated monotone-copy proof helper. Copy order is explicit.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N071",
+      "kind": "Lemma",
+      "number": "7.16",
+      "labels": [
+        "lem:hd-copy-capture"
+      ],
+      "start_line": 6154,
+      "end_line": 6159,
+      "statement_sha256": "a6c08a4a95df01d492a409488500a2e687b780ff1ad42c43fe1bce7178a86b9b",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.ExactStatements.capture_specified_copy"
+      ],
+      "assessment": "New capture_specified_copy uses the literal nonstrict forest and a specified original copy. No eventual identification or common capture time.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N072",
+      "kind": "Lemma",
+      "number": "7.17",
+      "labels": [
+        "lem:hd-fixed-copy-density"
+      ],
+      "start_line": 6185,
+      "end_line": 6191,
+      "statement_sha256": "05489615c9e5fa614f79ecc23e6d174e02a5209b0453f1c9906a8951abb0347f",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.ExactStatements.dyadic_fixed_copy_density_positive",
+        "BanachDensityHD.ExactStatements.dyadic_treeFam"
+      ],
+      "assessment": "New dyadic_fixed_copy_density analyzes actual cfgOf/board simulator/sewing construction, not merely existence of some other achieving generator. `dyadic_fixed_copy_density_positive` covers the initial positive-u domain directly, with the actual supplied dyadic trees and generator.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N073",
+      "kind": "Lemma",
+      "number": "8.1",
+      "labels": [
+        "lem:local-rectangle-strategy"
+      ],
+      "start_line": 6297,
+      "end_line": 6315,
+      "statement_sha256": "5371a2587671b88bc8738eb7df2a156c7edb8c959ca40662ede73b50eacaaf5e",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.lem_local_rectangle_strategy",
+        "BanachDensityHD.Nov1.local_rectangle_strategy_positive_dimension"
+      ],
+      "assessment": "Use Nov1.local_rectangle_strategy_positive_dimension to cover d=1; the old named theorem assumes d>=2. One packet strategy handles all eligible rectangles.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N074",
+      "kind": "Theorem",
+      "number": "8.2",
+      "labels": [
+        "thm:finite-rank-near-half"
+      ],
+      "start_line": 6319,
+      "end_line": 6331,
+      "statement_sha256": "9addeb6185ce849c8adfc924b61e15b3446404bbe9f8386b918304f971c40f73",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.Oct31.finite_rank_near_half_all"
+      ],
+      "assessment": "Oct31.finite_rank_near_half_all includes vacuous finite-rank targets and allows unbounded finite ranks, as printed.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N075",
+      "kind": "Theorem",
+      "number": "9.1",
+      "labels": [
+        "end:main"
+      ],
+      "start_line": 6460,
+      "end_line": 6467,
+      "statement_sha256": "42a43c97cee9265a780c48d0355abb6024e489f99fcb5a53049b4019c2e7e3a5",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.end_main"
+      ],
+      "assessment": "d>=2 is explicitly fixed at current manuscript line 6448. end_main matches and in fact does not need monotonicity of h.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N076",
+      "kind": "Lemma",
+      "number": "9.2",
+      "labels": [
+        "end:strip"
+      ],
+      "start_line": 6469,
+      "end_line": 6482,
+      "statement_sha256": "02383c9e1a9b15d67d516045d3fa1c9976857d20ea4ed42992714cc18f1690b5",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.end_strip",
+        "BanachDensityHD.stripRun",
+        "BanachDensityHD.BlackStrat",
+        "BanachDensityHD.FreshResponder"
+      ],
+      "assessment": "Uniform gamma depends only on s; Black strategy is chosen before White, whose off-strip replies are retained. The global FreshResponder interface covers generator applications. Locally legal finite-play completion is independently checked, not a separate kernel bridge.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N078",
+      "kind": "Lemma",
+      "number": "A.2",
+      "labels": [
+        "lem:new-abstract"
+      ],
+      "start_line": 7122,
+      "end_line": 7126,
+      "statement_sha256": "2c566603c003025da9c1b3fdc45b7a4e612d0488ea5eec52450ca4deaba3cf79",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.ExactStatements.OnPlay.quotas_of_properties",
+        "BanachDensityHD.ExactStatements.OnPlay.Properties",
+        "BanachDensityHD.ExactStatements.OnPlay.of_bookkeeping"
+      ],
+      "assessment": "OnPlay.quotas_of_properties checks quantitative properties at actual strategy states and locality at necessary hypothetical probes. It is not a theorem that actual-state-only locality implies probe locality; see the retained wording qualification.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N079",
+      "kind": "Claim",
+      "number": "A.3",
+      "labels": [
+        "claim:discardsmall"
+      ],
+      "start_line": 7559,
+      "end_line": 7567,
+      "statement_sha256": "39df68daa29f09e859dab0911f145a87ea939dc066eb0b7c0337e2b76f4cd6aa",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.claim_discardsmall",
+        "BanachDensityHD.dyadicTree",
+        "BanachDensityHD.remainder",
+        "BanachDensityHD.finalPiece"
+      ],
+      "assessment": "The explicit positivity/summability conditions in Lean clarify the source sum bound; delta_j nonnegative follows from positive alpha/gamma. Eligible rectangles and remainders stay distinct.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N080",
+      "kind": "Claim",
+      "number": "A.4",
+      "labels": [
+        "claim:quotassuffice",
+        "eq:new-dyadic-goal"
+      ],
+      "start_line": 7592,
+      "end_line": 7601,
+      "statement_sha256": "4bc2c5eec18a5787b31bdbd49cbf483f5acc57537489ef2cf7ed988d4e6bcd6b",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.claim_quotassuffice"
+      ],
+      "assessment": "Standing 0<epsilon<=1/4 and the exact (1/2-epsilon/2) local quota imply the printed global (1/2-epsilon) quota.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N081",
+      "kind": "Proposition",
+      "number": "A.5",
+      "labels": [
+        "prop:cf-conditional"
+      ],
+      "start_line": 7624,
+      "end_line": 7649,
+      "statement_sha256": "b0850a4dba122a6182eeef948b99b71df56f08aca35a99fffd6537ebf7f74f12",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.ExactStatements.conditional_rectangle_on_play",
+        "BanachDensityHD.ExactStatements.PlayScaleConditions"
+      ],
+      "assessment": "The conditional on-play rectangle theorem uses its own PlayScaleConditions and localized A.2, without substituting unconditional A.6. The concrete construction supplies stronger bookkeeping identities; no equality of state domains is claimed.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N082",
+      "kind": "Claim",
+      "number": "A.6",
+      "labels": [
+        "claim:cf-potential-existence"
+      ],
+      "start_line": 7946,
+      "end_line": 7970,
+      "statement_sha256": "237ecea4f11db1cec4d039912c027397f94a5a2e1ba44578c6e3c4f16d0b82b6",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.claim_cf_potential_existence",
+        "BanachDensityHD.claim_cf_potential_existence_uniform"
+      ],
+      "assessment": "Uniform sigma=epsilon/128 is fixed before E, J, board and depth. Stronger bookkeeping construction implies the actual/probe interface. The printed global-potential induction clause remains implicit and disclosed.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N083",
+      "kind": "Proposition",
+      "number": "B.1",
+      "labels": [
+        "prop:prior-zero-value"
+      ],
+      "start_line": 8413,
+      "end_line": 8420,
+      "statement_sha256": "2c8fdf62e71994031170082b14fa64b01a042a4b8c7047bb3900d1466c565369",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.PriorZero.prop_prior_zero_value"
+      ],
+      "assessment": "Kernel theorem universal in legal previous-paper interval data D; printedLanguage_eq/printedFamily_eq identify the same internal family exactly. External finite-stage flattening and notation decoding are independently checked rather than separately kernel-defined. No quadratic substitution is used.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N084",
+      "kind": "Lemma",
+      "number": "B.2",
+      "labels": [
+        "cor:full-range"
+      ],
+      "start_line": 8500,
+      "end_line": 8506,
+      "statement_sha256": "35238658bbdfacf9852d8a8bff4977028a6c546701a1f616fa4996e0d9750833",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.cor_full_range"
+      ],
+      "assessment": "Every real alpha in [0,1/2], including both endpoints, is covered. The November 2 author correction is grammatical only; its revised m-choice in the proof was independently checked.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N085",
+      "kind": "Lemma",
+      "number": "B.3",
+      "labels": [
+        "prop:profile-realization"
+      ],
+      "start_line": 8606,
+      "end_line": 8619,
+      "statement_sha256": "51f5f4919c9be67b30aecdf5d0259e7850feae6e5ec02c94d4272d8104ff5333",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.prop_profile_realization"
+      ],
+      "assessment": "One common lower generator is chosen before coordinates and enumerations. The filtered upper construction uses one full adverse enumeration with levels tending to infinity; U1 supplies every retried fresh-window suffix. Internal family/tuple choices remain explicitly decoded.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N086",
+      "kind": "Claim",
+      "number": "B.4",
+      "labels": [],
+      "start_line": 9008,
+      "end_line": 9010,
+      "statement_sha256": "68c81b97155b245248fa9f08e2fcbff921c5825535af7c4527b1ca6b5f82aa0f",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensity1D.ProfileAux.Staged.bK_lower",
+        "BanachDensityHD.ExactStatements.staged_bK_exact",
+        "Nov2Triangular.triangular_staged_bK_exact",
+        "Nov2Triangular.recurrent",
+        "Nov2Triangular.positive_occurrence"
+      ],
+      "assessment": "The structural lower theorem and exact-value theorem cover the actual staged family. The new standalone bridge proves literal triangular occurrence/recurrence and instantiates the exact value on that same triangular family, not the old pairing schedule. Permitted midpoint choices witness the existential theorem.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    },
+    {
+      "occurrence": "N087",
+      "kind": "Claim",
+      "number": "B.5",
+      "labels": [],
+      "start_line": 9084,
+      "end_line": 9086,
+      "statement_sha256": "40bab3baa26bd577e8d6a75cf2884b93b1a27ee564e7f931c88e83caca5c002f",
+      "manuscript_sha256": "371c67716ee66c6dba07f483450d8f95348100bdd8ec7f1f986768827718aabc",
+      "declarations": [
+        "BanachDensityHD.ExactStatements.staged_bK_upper",
+        "BanachDensityHD.ExactStatements.staged_bK_exact",
+        "Nov2Triangular.triangular_staged_bK_exact",
+        "Nov2Triangular.recurrent",
+        "Nov2Triangular.positive_occurrence"
+      ],
+      "assessment": "The November 2 author already corrected the printed direction to b(L_q)<=alpha_q. staged_bK_upper and the exact-value theorem prove that direction. The standalone triangular bridge covers the literal triangular schedule with stated decoding; no equality to Core's pairing schedule is claimed.",
+      "evidence_kind": "Actual formal theorem plus explicit mathematical correspondence decoding; not kernel verification of printed proof text.",
+      "level_k_claim": "To be revalidated against fresh exported-source elaboration, axiom sweep, complete replay, and all stated correspondence qualifications. No classification is accepted merely from this metadata."
+    }
+  ]
+}

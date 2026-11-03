@@ -1,0 +1,22 @@
+{
+  "file": "reports/author/Verification-Report.pdf",
+  "original_sha256": "0ef5e3e9c14dbae327c370958421f37f78dd7109f70eacea46fd45ae175c4b8a",
+  "public_copy_sha256": "fa207ec0439864b09155b4d108c98bdcfcaa72bf2082952fa9a6d7b7fd244595",
+  "original_pages": 16,
+  "public_copy_pages": 17,
+  "redactions": [
+    {
+      "original_page": 15,
+      "kind": "filesystem-path redaction"
+    },
+    {
+      "original_page": 15,
+      "kind": "filesystem-path redaction"
+    }
+  ],
+  "extra_notice_cover": true,
+  "all_original_page_text_unchanged_except_two_declared_path_redactions": true,
+  "metadata_and_link_annotations_removed": true,
+  "attachments": 0,
+  "historical_original_retained_privately": true
+}

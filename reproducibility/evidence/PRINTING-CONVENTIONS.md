@@ -1,0 +1,5 @@
+# Registry printing and trust boundary
+
+The fresh registry queries each actual `ConstantInfo.type` in the built environment. It prints explicit arguments and universes, with a generous layout width; binder order and all mathematical hypotheses/conclusions are retained. Lean's standard pretty printer may show `⋯` for implicit **proof arguments** to elaborated instance constructions (for example, a numeral instance's `NeZero` witness). This is a printing convention, not a missing hypothesis, a truncated input context, a proof hole, or a change to the stored expression. The registry is a readable type rendering, not a serialized raw expression AST or an expanded proof term.
+
+Complete transitive axiom auditing and kernel replay operate on the actual stored expressions, including those proof arguments, rather than on this pretty-printed text. The raw output and JSON retain that rendering unchanged. Mathematical manuscript correspondence also requires the declared model/representation dictionary and source inspection; a successful type lookup alone cannot establish it.

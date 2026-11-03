@@ -1,0 +1,4084 @@
+%PDF-1.4
+%‚„œ”
+2 0 obj
+<<
+/Type /Pages
+/Count 17
+/Kids [ 4 0 R 9 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R 26 0 R 28 0 R 30 0 R 32 0 R 34 0 R 36 0 R 38 0 R 40 0 R 42 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 966
+>>
+stream
+GasambAQ&g&A70Vp=L.h@QC`(,GukZMR;dRXam!WC1V6LOX`p_:qs_;dIAH[N5C<\:t!SUbj;2\iD82-ar91rLWbGedOF6'UfijH^4Q7[U-G8:\d7KJ1moH2diCibJEt/_nf$A4Za:IQ)`sb8diU-6,3Oq3.25m#N:h*4rrr514Z7@VP$-*l*C?Bp4o/G1XH4JTr?8k*PmOCu(.I14+:Tip2m(^THpEZlGV],[m25H[WlKJu)L`l]cineR)EoSq]gfUOIP^A<rTClio"%?9\S^9.J>QU&P%2W/<!\O-:",(e)\9["@sRjT+Y?YKa?74Dma)PL/Lt`5<8eW!QF[j->nA<d1r0si(04JC`A7qoFL\e2.[E:<B[AdRLe:S/3p3aP`HDC+*B^)+S@Blo3n8q!ba'b2Xf;2D@M6tN0g1C-fBl7I-'#lYNk!apOr<SY&mJm(T4*_X"0`E$WRgSO<l23bh([;')FiGM^,4MHMqWeN<K<p'SonR+#.CCB-*9b$n":9`M3F5*Hf=Jo\7UY4T3ufKf[?X`$Nq44-?+0*Qp)?dE!93aY7j6Fh0Q>,_+;;dUYpkaS6ZY03L`Gf57;)%\Vu(,4A/s9ZQ!mT[8a79DN<Y!.hn8UF*D^s=gWl)Y&!UGKj7&&@oo8Kou"4.Bu7gR[cX7k;]XB@LHC'jW^-FoJ1\h0gec>Fkb^0g\$;ES,6\bUJb[sBbIdZ?q;]BQh>@+6WB$fp*`Bf&H=gEfj`42XCm".@25Iq[XZd=Zb#\o$9?;KjUNp+5\3qKTi"C;,_kG68dE8t3N\EJ[:f(;h]`DRs[*dnSc"S%=jPc3PQ)meGZ0K5Cg$nFQVG[7E#,Dl2#JaLWa=.lG<lg2brSo#?@EAI0^8kHc/N',H2D4>)@nIfU:lmf;qdatSZTKt\/Ve2d_c.<a@`j,,3eiNi=7Z3mUYU)!+U`pV_CFP]`V5G8i8QDO!%<9~>
+endstream
+endobj
+6 0 obj
+<<
+/F1 7 0 R
+/F2 8 0 R
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/FR 10 0 R
+/FB 11 0 R
+/FC 12 0 R
+>>
+>>
+/Contents 13 0 R
+/Parent 2 0 R
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+>>
+endobj
+13 0 obj
+<<
+/Length 5863
+>>
+stream
+BT
+/FB 8 Tf
+1 0 0 1 42 765 Tm
+(LEAN FORMALIZATION  \057  NOV 2 2026) Tj
+ET
+BT
+/FB 8 Tf
+1 0 0 1 530 29 Tm
+(Page 1) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 741 Tm
+(Formal verification of \052Characterizing Local Breadth in Language Generation\052) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 711 Tm
+(\052\052Consolidated editor\055facing verification report \055 November 2\054 2026\052\052) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 693 Tm
+(\052\052Manuscript\072\052\052 Jon Kleinberg and Fan Wei\054 \052Characterizing Local Breadth in Language Generation\052) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 675 Tm
+(\052\052Authoritative text\072\052\052 \140Nov 1\056tex\140 \050November 1\054 2026\051) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 657 Tm
+(\052\052Manuscript SHA\055256\072\052\052 \140eee1524496f215c15f2278bd39c6f7b24214d0e1e1dd783a552cca3233977249\140) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 639 Tm
+(\052\052Verification reference\072\052\052 \140Nov2\055Exact\055Statements\055v1\140) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 621 Tm
+(\052\052Access\072\052\052 The source and audit repositories linked below are private\073 access must be granted to) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 609 Tm
+(reviewers\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 581 Tm
+(Executive summary \055 Level K certification) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 551 Tm
+(\052\052Overall conclusion\056\052\052 The November 2 Lean 4 verification package and its independent AI correspondence) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 539 Tm
+(audit classify \052\052all 65 numbered mathematical assertions in the November 1 manuscript at Level K\052\052 under) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 527 Tm
+(the stated formal model\072 \052\05218 theorems\054 30 lemmas\054 8 claims\054 7 corollaries\054 and 2 propositions\052\052\056 There) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 515 Tm
+(are \052\052no remaining Q\054 P\054 or K\134\052 classifications among these 65 assertions\052\052\056 Theorem 5\0568 restates Theorem) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 503 Tm
+(2\0566\054 but is counted as a separate numbered occurrence here\073 counting that mathematical result only once) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 491 Tm
+(gives 64 distinct numbered results\054 as in the independently supplied comparison report\056 \052\052All five remarks) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 479 Tm
+(are excluded\052\052 from the certification\073 the 14 numbered definitions are classified as definitions\054 not as) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 467 Tm
+(proved theorems\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 446 Tm
+(\052\052Definition of Level K \050the project\047s standard\054 not a built\055in Lean certification level\051\056\052\052 A numbered) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 434 Tm
+(paper assertion is designated \052\052K\052\052 only when all four requirements are met\072) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 413 Tm
+(\055 \052\052K1 \055 Faithful statement\056\052\052 An independent correspondence review compares the paper and the \052actual) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 401 Tm
+(elaborated Lean statement\052 clause by clause\054 including hypotheses\054 order of quantifiers\054 definitions\054) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 389 Tm
+(dimension\057threshold ranges\054 and conclusion\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 371 Tm
+(\055 \052\052K2 \055 Kernel\055checked proof and axioms\056\052\052 The statement has a completed proof accepted by Lean\047s kernel\054) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 359 Tm
+(with no \140sorry\140\054 \140admit\140\054 or new nonstandard axiom\073 transitive dependencies use only the standard axioms) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 347 Tm
+(\140propext\140\054 \140Classical\056choice\140\054 and \140Quot\056sound\140\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 329 Tm
+(\055 \052\052K3 \055 Formal representation bridges\056\052\052 Where a mathematical object is encoded differently \050for example\054) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 317 Tm
+(trees\054 copies\054 topology\054 limits\054 the earlier paper\047s language family\054 or the game\055state domain\051\054) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 305 Tm
+(substantive equivalence or the needed implication is itself supported by kernel\055checked Lean results) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 293 Tm
+(rather than an unproved verbal identification\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 275 Tm
+(\055 \052\052K4 \055 Full theorem strength\056\052\052 No conclusion is weakened and no \052additional unproved\052 premise is) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 263 Tm
+(slipped into the paper\055facing theorem\073 the quantifier order and the documented standing model are) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 251 Tm
+(preserved\056 If an ambiguity requires a particular mathematical reading\054 that choice is disclosed rather) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 239 Tm
+(than silently assumed\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 218 Tm
+(\052\052Prior\055work dependency conclusion\056\052\052 \052\052None of the 65 mapped Lean proofs uses an unformalized theorem) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 206 Tm
+(from an earlier paper as an additional axiom or unproved premise\056\052\052 Dependencies on the preceding 1D) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 194 Tm
+(development and the concrete previously published zero\055family construction are present as \052\052Lean) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 182 Tm
+(definitions and proofs\052\052\073 other cited literature provides mathematical context\054 not unchecked proof) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 170 Tm
+(obligations\056 The pinned \052\052Mathlib\052\052 dependency is itself formalized mathematics\054 not an unverified) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 158 Tm
+(manuscript result\056 The right\055hand dependency column in Section 5 makes this status explicit for every row\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 146 Tm
+(This does \052\052not\052\052 claim that all background literature\054 informal prose\054 or figures have been separately) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 134 Tm
+(formalized\056) Tj
+ET
+
+endstream
+endobj
+14 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/FR 10 0 R
+/FB 11 0 R
+/FC 12 0 R
+>>
+>>
+/Contents 15 0 R
+/Parent 2 0 R
+>>
+endobj
+15 0 obj
+<<
+/Length 5527
+>>
+stream
+BT
+/FB 8 Tf
+1 0 0 1 42 765 Tm
+(LEAN FORMALIZATION  \057  NOV 2 2026) Tj
+ET
+BT
+/FB 8 Tf
+1 0 0 1 530 29 Tm
+(Page 2) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 748 Tm
+(\052\052Evidence\056\052\052 The recorded checks passed for all 62 one\055dimensional and 55 higher\055dimensional) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 736 Tm
+(proof\055bearing modules\073 a transitive axiom sweep covers \052\0525\054271\052\052 project declarations\054 and complete) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 724 Tm
+(project replay rechecks \052\0523\054874 theorems\052\052 against the pinned Mathlib base\056 A clean \052project\052 build passed) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 712 Tm
+(using cached pinned external dependencies\056 The optional complete\055from\055empty Mathlib replay timed out and) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 700 Tm
+(is \052\052not\052\052 reported as successful\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 679 Tm
+(\052\052Scope and human\055review caveats\056\052\052 Level K is the conclusion of a \052\052separate AI mathematical) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 667 Tm
+(correspondence audit\052\052\054 not human mathematical sign\055off\054 and does not certify the line\055by\055line correctness) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 655 Tm
+(of every written proof\056 \052\052Corollary 1\0566 is K without an empty\055family exception\072\052\052 the \133pinned) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 643 Tm
+(one\055dimensional) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 631 Tm
+(source\135\050reproducibility\057lean\057BanachDensity1D\057Oct31Bridges\056lean) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 619 Tm
+(\051 contains the explicit theorem) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 607 Tm
+(\140BanachDensity1D\056Oct31\056finite\137point\137rank\137all\140\054 which handles both nonempty and empty countable families\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 595 Tm
+(Its type\054 standard\055axiom dependencies\054 and successful build are recorded in the \133Corollary 1\0566 follow\055up) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 583 Tm
+(evidence\135\050reproducibility\057evidence\057VERIFICATION\055RESULTS\056md) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 571 Tm
+(\051\056 The original 65\055row audit) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 559 Tm
+(remains a historical snapshot\073 this documentation states the proved\054 already\055pinned wrapper explicitly\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 547 Tm
+(Exact findings and audit records are linked below\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 526 Tm
+(\052\052Where readers can reproduce the work\072\052\052) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 505 Tm
+(\055 \052\052Start here \055 reproduction instructions\072\052\052 \133Open verified) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 493 Tm
+(resource\135\050reproducibility\057README\056md) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 481 Tm
+(\051) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 463 Tm
+(\055 \052\052Immutable complete source checkout\072\052\052 \133Open verified) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 451 Tm
+(resource\135\050reproducibility\057lean\057) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 439 Tm
+(\051) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 421 Tm
+(\055 \052\052Versioned audit package and checksum manifests\072\052\052 \133Open verified) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 409 Tm
+(resource\135\050reproducibility\057evidence\057VERIFICATION\055RESULTS\056md) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 397 Tm
+(\051) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 379 Tm
+(\055 \052\05265\055item theorem\055by\055theorem technical report\072\052\052 \133Open verified) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 367 Tm
+(resource\135\050reproducibility\057evidence\057ASSERTION\055CERTIFICATION\056md) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 355 Tm
+(\051) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 337 Tm
+(\055 \052\052Independent mathematical completeness audit\072\052\052 \133Open verified) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 325 Tm
+(resource\135\050reproducibility\057evidence\057ASSERTION\055CERTIFICATION\056md) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 313 Tm
+(\051) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 295 Tm
+(\055 \052\052Exact elaborated Lean types and direct proof dependencies\072\052\052 \133Open verified) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 283 Tm
+(resource\135\050reproducibility\057evidence\057ELABORATED\055REGISTRY\056json) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 271 Tm
+(\051) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 253 Tm
+(\055 \052\052Separate accessible reading certificate\072\052\052 \133CERTIFICATE\056md\135\050CERTIFICATE\056md\051) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 222 Tm
+(Contents) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 192 Tm
+(\055 \133Executive summary\135\050\043executive\055summary\055\055level\055k\055certification\051) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 174 Tm
+(\055 \133Purpose\054 scope and Level K\135\050\0430\055purpose\055scope\055and\055what\055a\055level\055k\055result\055means\051) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 156 Tm
+(\055 \133Verification layers and version history\135\050\0431\055how\055far\055to\055trust\055the\055result\051) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 138 Tm
+(\055 \133Formal model and assumptions\135\050\0432\055what\055the\055formalization\055assumes\055and\055represents\051) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 120 Tm
+(\055 \133Main mathematical conclusions\135\050\0433\055main\055formalized\055mathematical\055conclusions\051) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 102 Tm
+(\055 \133Representation bridges and completed) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 90 Tm
+(gaps\135\050\0434\055substantive\055representation\055bridges\055and\055earlier\055limitations\055that\055were\055discharged\051) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 72 Tm
+(\055 \133All 65 numbered results\135\050\0435\055complete\055numbered\055result\055coverage\051) Tj
+ET
+
+endstream
+endobj
+16 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/FR 10 0 R
+/FB 11 0 R
+/FC 12 0 R
+>>
+>>
+/Contents 17 0 R
+/Parent 2 0 R
+>>
+endobj
+17 0 obj
+<<
+/Length 6801
+>>
+stream
+BT
+/FB 8 Tf
+1 0 0 1 42 765 Tm
+(LEAN FORMALIZATION  \057  NOV 2 2026) Tj
+ET
+BT
+/FB 8 Tf
+1 0 0 1 530 29 Tm
+(Page 3) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 748 Tm
+(\055 \133Notices and scope exclusions\135\050\0436\055source\055issues\055limitations\055and\055scope\055exclusions\051) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 730 Tm
+(\055 \133Proof\055route differences\135\050\0437\055differences\055between\055the\055written\055proof\055and\055the\055lean\055development\051) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 712 Tm
+(\055 \133Reproducibility instructions\135\050\0438\055reproduce\055the\055formalization\055and\055verify\055the\055evidence\051) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 694 Tm
+(\055 \133Reading order\135\050\0439\055reading\055order\055for\055editors\055and\055referees\051) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 673 Tm
+(\055\055\055) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 645 Tm
+(0\056 Purpose\054 scope\054 and what a Level K result means) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 615 Tm
+(The purpose of this document is to let an editor or mathematical referee understand \052\052what was formalized\054) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 603 Tm
+(what was checked\054 how to reproduce the checks\054 and where the formal verification does not apply\052\052\056 Unlike) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 591 Tm
+(the technical audit log\054 this is a reader\055facing account of the delivered result\056 The companion) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 579 Tm
+(\140CERTIFICATE\056md\140 places selected paper results beside their actual Lean theorem types and supplies a) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 567 Tm
+(complete item index\056 The exact\055machine\055readable data remain authoritative when a brief presentation in) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 555 Tm
+(this report omits low\055level detail\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 534 Tm
+(The four\055part \052\052K1\055K4 definition\052\052 is stated in the executive summary and applies throughout the coverage) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 522 Tm
+(tables below\056 A matching theorem name or a successful build alone does not earn K\056 Previous labels) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 510 Tm
+(\052\052K\134\052\052\052\054 \052\052P\052\052\054 and \052\052Q\052\052 denoted qualified correspondence\054 a stronger\055than\055paper premise\054 and a) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 498 Tm
+(substantive missing bridge\054 respectively\073 the completed project\047s independent AI review reports none as) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 486 Tm
+(remaining among the included numbered assertions\056 The formerly noted Corollary 1\0566 boundary is closed by) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 474 Tm
+(the already\055pinned theorem \140BanachDensity1D\056Oct31\056finite\137point\137rank\137all\140\054 which includes the empty family\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 453 Tm
+(\052\052The reported 65\055item scope is exactly\072\052\052 18 theorems\054 30 lemmas\054 8 claims\054 7 corollaries\054 and 2) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 441 Tm
+(propositions\056 The active manuscript scan also finds 14 numbered definitions\054 five remarks\054 two unnumbered) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 429 Tm
+(theorem summaries and one guiding question\056 Definitions are represented in the development and examined) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 417 Tm
+(through the statements that use them\073 they are not additional proved theorems\056 The remarks\054 figures\054) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 405 Tm
+(introductory prose and verbatim proof routes are not separately certified as Level K statements\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 384 Tm
+(The formalization verifies \052\052mathematical truth of the statements\052\052\054 sometimes via arguments organized) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 372 Tm
+(differently from the printed proofs\056 It does not imply that every sentence of the manuscript has been) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 360 Tm
+(independently proved in Lean\054 or that the author approved each Lean statement after reading its elaborated) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 348 Tm
+(type\056 It is appropriate to say the results were \052\052AI\055audited\052\052\054 not \052\052human\055certified\052\052\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 320 Tm
+(1\056 How far to trust the result) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 290 Tm
+(\174 Verification layer \174 What it establishes \174 Evidence and precise limitation \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 273 Tm
+(\174\072\055\055\174\072\055\055\174\072\055\055\174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 256 Tm
+(\174 \052\052Lean build\052\052 \174 Every requested proof module is elaborated and accepted by Lean\056 \174 62 proof\055bearing 1D modules and) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 245 Tm
+(55 HD modules\054 including two outside the principal aggregate\073 logs in \140exact\055statement\055verification\057checks\057\140\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 228 Tm
+(\174 \052\052Transitive axiom sweep\052\052 \174 For the imported project constants\054 no nonstandard proof axioms occur\056 \174 5\054271) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 217 Tm
+(project\055origin declarations across 126 modules\056 Only \140propext\140\054 \140Classical\056choice\140\054 \140Quot\056sound\140 are reported\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 200 Tm
+(\174 \052\052Project kernel replay\052\052 \174 Complete project\055origin logical declarations replay against a Mathlib\055only base with no) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 189 Tm
+(project constants\056 \174 Successful\072 5\054248 logical constants\054 3\054874 theorems\056 23 compiler\055only unsafe\055recursion artifacts) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 178 Tm
+(are excluded and individually logged\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 161 Tm
+(\174 \052\052Clean project reproduction\052\052 \174 Source compiles in a separately prepared project worktree with a new project build) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 150 Tm
+(directory\056 \174 Passed\056 External pinned dependency caches were reused\073 this is not a rebuild of all Mathlib proofs from) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 139 Tm
+(empty storage\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 122 Tm
+(\174 \052\052Frozen\055source preservation\052\052 \174 Historical declarations and proof files were preserved\056 \174 54 approved 1D and 97) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 111 Tm
+(approved HD declarations\054 zero drift\073 no dependency\055pin or manuscript change\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 94 Tm
+(\174 \052\052Independent mathematical correspondence\052\052 \174 A separate AI reader compared numbered paper assertions\054 exact Lean) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 83 Tm
+(types\054 definitions\054 and substantive bridges\056 \174 Final audit reports 65 K\054 0 Q\057P\056 This is not an independent kernel) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 72 Tm
+(implementation or human mathematical sign\055off\056 \174) Tj
+ET
+
+endstream
+endobj
+18 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/FR 10 0 R
+/FB 11 0 R
+/FC 12 0 R
+>>
+>>
+/Contents 19 0 R
+/Parent 2 0 R
+>>
+endobj
+19 0 obj
+<<
+/Length 4959
+>>
+stream
+BT
+/FB 8 Tf
+1 0 0 1 42 765 Tm
+(LEAN FORMALIZATION  \057  NOV 2 2026) Tj
+ET
+BT
+/FB 8 Tf
+1 0 0 1 530 29 Tm
+(Page 4) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 748 Tm
+(\174 \052\052Written\055proof review\052\052 \174 The AI reviewer examined substantial written proof arguments\054 and identified) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 737 Tm
+(editorial\057prose caveats\056 \174 Does not certify every line of the manuscript\073 this is distinct from statement) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 726 Tm
+(verification\056 \174) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 706 Tm
+(The full project replay uses the installed Lean 4 kernel implementation and a pinned imported Mathlib) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 694 Tm
+(environment\056 An \052\052optional\052\052 attempt to replay \052all imported Mathlib proofs from an empty kernel) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 682 Tm
+(environment\052 reached a 900\055second time limit\073 \052\052that optional check is not claimed to have passed\052\052\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 670 Tm
+(Earlier 180\055second and aggregate\055budget timeouts were preserved\054 while their separate longer reruns) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 658 Tm
+(passed\056 It would be incorrect to count the optional timeout as a failed project proof or as a successful) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 646 Tm
+(full\055Mathlib replay\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 618 Tm
+(1\0561 Fixed version and provenance) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 588 Tm
+(\174 Item \174 Fixed identity \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 571 Tm
+(\174\072\055\055\174\072\055\055\174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 554 Tm
+(\174 Manuscript SHA\055256 \174 \140eee1524496f215c15f2278bd39c6f7b24214d0e1e1dd783a552cca3233977249\140 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 537 Tm
+(\174 HD base before exact\055statement additions \174 \14033488acdbaa066db3532b562790b1b6d4011bb76\140 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 520 Tm
+(\174 Additive mathematical source commit \174 \140d892cc89de751604c3593f2e5f60da8e7429cfc3\140 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 503 Tm
+(\174 Published complete source\057evidence HEAD \174 \140dff2c2b99dc5c685164e37dc70b0818336096fe7\140 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 486 Tm
+(\174 Imported 1D dependency pin \174 \140efe7a25711657a5cfd0dad8d902392ce4d711e92\140 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 469 Tm
+(\174 Published audit package commit \174 \140f09ab4e8791d82a5232b45634762c49905022515\140 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 452 Tm
+(\174 Lean \174 \140leanprover\057lean4\072v4\05635\0560\140 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 435 Tm
+(\174 Pinned Mathlib \174 \14056a005855ea17e0b0958f73ec801ae140b0a1679\140 \174) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 415 Tm
+(The additive HD changes were recorded as 18 new Lean source files \0501\054829 lines\051 without modifying existing) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 403 Tm
+(mathematical declarations\056 The actual 1D import is the pinned commit shown above\073 a separate 1D) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 391 Tm
+(publication branch has mathematically identical tracked source but must not be substituted silently for) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 379 Tm
+(the pin\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 351 Tm
+(2\056 What the formalization assumes and represents) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 314 Tm
+(2\0561 Languages\054 enumerations\054 generators and validity) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 284 Tm
+(A language is a subset of the integer lattice\054 and the family is modeled as a \052\052nonempty countable family) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 272 Tm
+(of infinite languages\052\052\056 A full enumeration is an infinite sequence whose range is exactly its target) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 260 Tm
+(language\073 repetitions may occur\056 Generators are deterministic causal maps from finite observed input lists) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 248 Tm
+(to output strings\056 The paper\047s \052\052global freshness requirement\052\052 is enforced\072 an output is neither among) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 236 Tm
+(the inputs received so far nor among earlier outputs\056 Eventual validity requires that after some) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 224 Tm
+(target\057enumeration\055dependent time all outputs belong to the true language\056 No computational time bound or) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 212 Tm
+(probability distribution is imposed\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 191 Tm
+(The 1D development uses \140Set Z\140\073 the HD development uses \140Set \050Pt d\051\140 with \140Pt d \075 Fin d \055\076 Z\140\056 A theorem) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 179 Tm
+(stated for \140d \076\075 2\140 is not silently given a \140d \075 1\140 interpretation\056 The Section 7 threshold is) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 167 Tm
+(\140h\050V\051\075u\050V\051log\0502\053V\051\140 with \052\052positive nondecreasing\052\052 \140u\140\054 \052not\052 an unmentioned assumption \140u\076\0751\140\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 139 Tm
+(2\0562 Density and nondegenerate rectangles) Tj
+ET
+
+endstream
+endobj
+20 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/FR 10 0 R
+/FB 11 0 R
+/FC 12 0 R
+>>
+>>
+/Contents 21 0 R
+/Parent 2 0 R
+>>
+endobj
+21 0 obj
+<<
+/Length 6355
+>>
+stream
+BT
+/FB 8 Tf
+1 0 0 1 42 765 Tm
+(LEAN FORMALIZATION  \057  NOV 2 2026) Tj
+ET
+BT
+/FB 8 Tf
+1 0 0 1 530 29 Tm
+(Page 5) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 748 Tm
+(The relative lower Banach\055density numerator is \140\174A intersect B intersect R\174\140\054 divided by \140\174B intersect) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 736 Tm
+(R\174\140\056 The filtered version retains the \052\052infimum over finite axis\055parallel rectangles\052\052 satisfying \140m\137B\050R\051) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 724 Tm
+(\076\075 s h\050V\050R\051\051\140\073 only the \052outer monotone limit\052 is represented as a supremum over natural\055number filter) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 712 Tm
+(levels\056 Empty eligible collections receive density 1\054 as the manuscript specifies\056 No replacement by a) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 700 Tm
+(supremum over rectangles is made\056 In the threshold\055normalization bridges\054 scaling \140h\140 by a positive factor) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 688 Tm
+(preserves the resulting density\054 and full protected\055tree certificates are transported where the theorem) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 676 Tm
+(requires them\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 648 Tm
+(2\0563 Histories\054 trees\054 copies and finite games) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 618 Tm
+(The 1D structural value uses refinement histories\054 pairing scores and admissible well\055founded obstruction) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 606 Tm
+(trees\056 The HD characterization uses \052\052protected trees with actual occurrence structure\052\052\054 finite stopping) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 594 Tm
+(games\054 partial topological decorations\054 and a \052\052single global assignment\052\052 tested against countable) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 582 Tm
+(admissible vertex obstructions\056 In Section 7\054 accuracy copies \140\050K\054k\051\140 carry the literal dyadic quota) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 570 Tm
+(\140\050alpha\050K\051\0552\136\050\055k\051\051\137\053\140\073 repeated occurrences are preserved and the broad child rule includes) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 558 Tm
+(\052\052equal\055language\052\052 edges\056 The final representation bridges prove equivalence of the required) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 546 Tm
+(\052certificate\055existence propositions\052\054 not a false one\055to\055one isomorphism of all possible tree encodings\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 518 Tm
+(2\0564 Formal state domain in Appendix A) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 488 Tm
+(The historical \140RegionTree\056PotentialProps\140 demanded inequalities throughout the closure of arbitrary legal) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 476 Tm
+(Black\057White claims and arbitrary activations\056 That condition could be stronger than the manuscript\047s) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 464 Tm
+(intended conditional\056 The exact\055statement extension provides \140OnPlay\056Properties\140\072 quantitative) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 452 Tm
+(requirements apply to the strategy\047s actual pre\055\054 post\055Black and post\055activation states\054 and the necessary) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 440 Tm
+(locality comparisons extend to the required hypothetical probes\056 Lemma A\0562 is proved from these) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 428 Tm
+(\052\052localized premises\052\052\056 Proposition A\0565 then uses \140PlayScaleConditions\140 and the on\055play lemma\054 \052\052without\052\052) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 416 Tm
+(invoking Claim A\0566 as a shortcut to the conditional\056 A separate proved implication shows the concrete) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 404 Tm
+(broad\055domain potentials of Claim A\0566 satisfy the localized properties\056 This closes the reported P) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 392 Tm
+(qualification under the explicitly recorded interpretation\054 without claiming equivalence of the two) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 380 Tm
+(different premise domains\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 352 Tm
+(3\056 Main formalized mathematical conclusions) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 315 Tm
+(3\0561 One\055dimensional exact characterization) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 285 Tm
+(Theorem 1\0565 identifies \140b\137n\136\050comb\051\050K\051\140 and \140b\137n\136\050top\051\050K\051\140 and proves both optimality directions\072 every) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 273 Tm
+(universally eventually valid admissible generator has an adverse enumeration at each target\054 while a) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 261 Tm
+(\052\052single\052\052 generator achieves the structural guarantee for \052\052all\052\052 targets and their enumerations\056 Theorem) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 249 Tm
+(1\0568 gives the corresponding exact structural characterization\054 and Theorems 2\0565\054 4\0561\054 5\0561 and 5\05623) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 237 Tm
+(formalize the constructive and adversarial components\056 Theorem 2\0566 and the Section 5 results supply the) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 225 Tm
+(history\055topological interpretation and the forest invariants\056 Corollaries 1\0566 and 3\0563 concern finite) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 213 Tm
+(Cantor\055\055Bendixson \052\052point rank\052\052\054 without a common rank bound\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 185 Tm
+(3\0562 Higher\055dimensional trade\055offs and exact achievable profiles) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 155 Tm
+(Theorems 6\0561 and 6\0562 prove the separation of individual optima from simultaneously achievable profiles\054) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 143 Tm
+(including the explicit \1401\05716\140 gap and the \1401\0574\140\054 \1401\0572\140\054 and \140x\053y\074\0751\0572\140 quantities\056 Theorem 7\0561 establishes) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 131 Tm
+(the fixed\055quota protected\055tree criterion in both directions under positive nondecreasing \140u\140\056 Theorem 7\0562) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 119 Tm
+(gives the exact achievable\055profile criterion using \052\052dyadic accuracy copies\052\052\073 Theorem 7\0567 and Corollaries) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 107 Tm
+(7\0568\055\0557\0569 give topological and obstruction\055tree formulations\056 Lemmas 7\05610\055\0557\05617 verify the scan\057capture) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 95 Tm
+(mechanism\054 sewing\054 simulator and \052\052specific constructed generator\052\052 needed for the sufficient direction\056) Tj
+ET
+
+endstream
+endobj
+22 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/FR 10 0 R
+/FB 11 0 R
+/FC 12 0 R
+>>
+>>
+/Contents 23 0 R
+/Parent 2 0 R
+>>
+endobj
+23 0 obj
+<<
+/Length 5569
+>>
+stream
+BT
+/FB 8 Tf
+1 0 0 1 42 765 Tm
+(LEAN FORMALIZATION  \057  NOV 2 2026) Tj
+ET
+BT
+/FB 8 Tf
+1 0 0 1 530 29 Tm
+(Page 6) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 741 Tm
+(3\0563 Geometric finite\055rank lower bounds and endpoint obstruction) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 711 Tm
+(Lemma 8\0561 proves a \052single\052 strategy for all eligible rectangles in a \052\052finite packet\052\052\054 including the) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 699 Tm
+(printed \140d\076\0751\140 range\056 Theorem 8\0562 proves simultaneous near\055half guarantees for all finite point\055rank) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 687 Tm
+(targets with no uniform bound on their ranks\056 Theorems 7\0563 and 9\0561 and Lemma 9\0562 establish the) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 675 Tm
+(nonattainability of the exact one\055half endpoint in higher dimensions under the stated threshold) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 663 Tm
+(conditions\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 635 Tm
+(3\0564 Appendix constructions and exact frontiers) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 605 Tm
+(Appendix A verifies the potential\055based conditional machinery and the explicit construction of scales and) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 593 Tm
+(potentials\056 Appendix B proves the zero structural value for the \052\052previous paper\047s actual printed) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 581 Tm
+(family\052\052\054 the full range \140\1330\0541\0572\135\140 in one dimension\054 and the realizability of \052\052every product region\052\052) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 569 Tm
+(\140\077\137i\1330\054alpha\137i\135\140 as an exact simultaneous profile frontier\056 The two staged\055family claims yield both the) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 557 Tm
+(structural lower and upper bounds for the same constructed languages\054 despite a duplicated lower sign in) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 545 Tm
+(the printed heading of Claim B\0565\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 517 Tm
+(4\056 Substantive representation bridges and earlier limitations that were discharged) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 487 Tm
+(\174 Former concern \174 New checked source \174 What the new result adds \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 470 Tm
+(\174\072\055\055\174\072\055\055\174\072\055\055\174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 453 Tm
+(\174 Positive \140u\140 for the fixed\055quota theorem \174 \140ExactStatements\057PositiveThreshold\056lean\140 \174 Both Theorem 7\0561 directions) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 442 Tm
+(and complete protected\055tree cutoff transport\054 not just scalar density normalization\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 425 Tm
+(\174 Reciprocal versus dyadic accuracy \174 \140ExactStatements\057CopySchedule\056lean\140 \174 Certificate\055existence equivalence) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 414 Tm
+(preserving complete child coverage and original paths\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 397 Tm
+(\174 Literal copied occurrences \174 \140ExactStatements\057CopyOccurrences\056lean\140 and \140PaperExports\056lean\140 \174 Manuscript\055facing) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 386 Tm
+(occurrence\055tree equivalence and exact profile export\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 369 Tm
+(\174 Nonstrict copy forest \174 \140ExactStatements\057CopyForest\056lean\140\054 \140CopyEnumeration\056lean\140 \174 Actual adjacent\055copy ancestry\054) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 358 Tm
+(specified copy capture\054 and filtered density for the constructed generator\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 341 Tm
+(\174 Reverse vertex obstruction presentation \174 \140ExactStatements\057VertexRealization\056lean\140\054 \140VertexCharacterization\056lean\140 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 330 Tm
+(Countable vertex presentations with terminal paths and one global assignment\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 313 Tm
+(\174 Commitment boundary \174 \140ExactStatements\057Commitments\056lean\140 \174 Includes the response to the final committing input\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 296 Tm
+(\174 Sewing under positive \140u\140 \174 \140ExactStatements\057SewingPositive\056lean\140 \174 Both printed log and weighted estimates with the) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 285 Tm
+(printed dimensional coefficient\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 268 Tm
+(\174 Abstract Appendix A conditional \174 \140ExactStatements\057OnPlayPotential\056lean\140\054 \140OnPlayRectangle\056lean\140 \174 A\0562\057A\0565) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 257 Tm
+(conditional proofs using precisely specified on\055play hypotheses and necessary probes\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 240 Tm
+(\174 Previous zero\055family identity \174 \140BanachDensity1D\057PriorZeroValue\057Correspondence\056lean\140 \174 Equality to the printed) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 229 Tm
+(family\054 not merely a surrogate zero\055value example\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 212 Tm
+(\174 Staged\055family upper bound \174 \140ExactStatements\057ProfileInternal\056lean\140 \174 Actual upper and equality theorems) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 201 Tm
+(complementing the B\0564 lower bound\056 \174) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 181 Tm
+(These additions are mathematically meaningful \052\052new Lean proofs\052\052 relative to the previous Lean library\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 169 Tm
+(They are \052not necessarily new mathematical proofs relative to the paper\052\072 some follow or reorganize the) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 157 Tm
+(manuscript arguments\073 some use alternative formal routes\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 129 Tm
+(5\056 Complete numbered\055result coverage) Tj
+ET
+
+endstream
+endobj
+24 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/FR 10 0 R
+/FB 11 0 R
+/FC 12 0 R
+>>
+>>
+/Contents 25 0 R
+/Parent 2 0 R
+>>
+endobj
+25 0 obj
+<<
+/Length 7037
+>>
+stream
+BT
+/FB 8 Tf
+1 0 0 1 42 765 Tm
+(LEAN FORMALIZATION  \057  NOV 2 2026) Tj
+ET
+BT
+/FB 8 Tf
+1 0 0 1 530 29 Tm
+(Page 7) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 748 Tm
+(The tables below cover \052\052each of the 65 numbered proved assertions\052\052\056 \052\052Status K\052\052 means K1\055K4 as defined) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 736 Tm
+(above\054 under the project\047s documented standing model\056 Corollary 1\0566 is supported by the separately) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 724 Tm
+(identified empty\055family wrapper in Section 6\0562\056 \052\052\042No\042\052\052 in the \052\052Unformalized prior theorem required\077\052\052) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 712 Tm
+(column means that the Lean proof does not assume a theorem from an earlier paper without a Lean proof\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 700 Tm
+(Formalized lemmas from \052\052Mathlib\052\052\054 the pinned 1D library\054 and the HD project \052are allowed\052\072 these are) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 688 Tm
+(checked formal dependencies\054 not excluded prior results\056 The extra note on Proposition B\0561 explains why) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 676 Tm
+(its cited earlier construction is not an unformalized premise\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 655 Tm
+(The last column identifies mathematical content or an interpretative boundary\073 it is not an unrecorded) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 643 Tm
+(downgrade\056 \052\052Exact Lean statements\054 binder order\054 source hashes\054 and direct\057transitive dependencies\052\052 are) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 631 Tm
+(available in the \133elaborated\055type) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 619 Tm
+(register\135\050reproducibility\057evidence\057ELABORATED\055REGISTRY\056json) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 607 Tm
+(\051 and \133full technical) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 595 Tm
+(report\135\050reproducibility\057evidence\057ASSERTION\055CERTIFICATION\056md) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 583 Tm
+(\051\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 555 Tm
+(Introduction and Part I \050Sections 1\055\0555\051) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 525 Tm
+(\174 Paper \174 Level \174 Formal counterpart \174 Unformalized prior theorem required\077 \174 Correspondence note \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 508 Tm
+(\174\072\055\055\174\072\055\055\072\174\072\055\055\174\072\055\055\072\174\072\055\055\174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 491 Tm
+(\174 Theorem 1\0565 \174 \052\052K\052\052 \174 \140BanachDensity1D\056thm\137intro\137one\137dimensional\140 \174 \052\052No\052\052 \174 Equality of structural values\054) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 480 Tm
+(adversarial upper bound\054 and one simultaneous lower generator\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 463 Tm
+(\174 Corollary 1\0566 \174 \052\052K\052\052 \174 \140BanachDensity1D\056Oct31\056finite\137point\137rank\137all\140 \174 \052\052No\052\052 \174 Finite point rank\054 no common rank) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 452 Tm
+(bound\054 including the empty\055family case\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 435 Tm
+(\174 Theorem 1\0567 \174 \052\052K\052\052 \174 \140BanachDensityHD\056thm\137intro\137higher\137nonsimultaneous\140 \057 \140BanachDensityHD\056thm\137main\137not\137simul\140 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 424 Tm
+(\052\052No\052\052 \174 Same witness family and generators for the ordinary density separation and trade\055off\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 407 Tm
+(\174 Theorem 1\0568 \174 \052\052K\052\052 \174 \140BanachDensity1D\056thm\137main\137oneD\140 \174 \052\052No\052\052 \174 One exact lower generator and a target\055wise) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 396 Tm
+(adversarial upper enumeration\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 379 Tm
+(\174 Claim 2\0562 \174 \052\052K\052\052 \174 \140BanachDensity1D\056claim\137cn\137eventual\137interval\137bound\140 \174 \052\052No\052\052 \174 Eventual relative\055interval bound) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 368 Tm
+(for a fixed refinement chain\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 351 Tm
+(\174 Claim 2\0564 \174 \052\052K\052\052 \174 \140BanachDensity1D\056claim\137bn\137tree\137path\137bound\140 \174 \052\052No\052\052 \174 Tree\055path witness at a strict threshold) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 340 Tm
+(below b\137n\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 323 Tm
+(\174 Theorem 2\0565 \174 \052\052K\052\052 \174 \140BanachDensity1D\056thm\137lower\140 \174 \052\052No\052\052 \174 Exact achievability\054 eventual validity\054 and global) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 312 Tm
+(freshness\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 295 Tm
+(\174 Theorem 2\0566 \174 \052\052K\052\052 \174 \140BanachDensity1D\056thm\137topological\137bn\140 \174 \052\052No\052\052 \174 Topological\055combinatorial equality for b\137n\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 278 Tm
+(\174 Lemma 3\0562 \174 \052\052K\052\052 \174 \140BanachDensity1D\056lem\137finite\137rank\137witness\140 \174 \052\052No\052\052 \174 Finite\055rank witness with a strict rank) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 267 Tm
+(decrease\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 250 Tm
+(\174 Corollary 3\0563 \174 \052\052K\052\052 \174 \140BanachDensity1D\056cor\137finite\137rank\137b\140 \174 \052\052No\052\052 \174 Explicit finite\055n rank loss and limiting) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 239 Tm
+(half\055density\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 222 Tm
+(\174 Theorem 4\0561 \174 \052\052K\052\052 \174 \140BanachDensity1D\056thm\137upper\140 \174 \052\052No\052\052 \174 Upper bound against every admissible eventually valid) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 211 Tm
+(generator\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 194 Tm
+(\174 Lemma 4\0562 \174 \052\052K\052\052 \174 \140BanachDensity1D\056lem\137upper\137race\140 \174 \052\052No\052\052 \174 Finite adversarial race on previously unused points\056) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 183 Tm
+(\174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 166 Tm
+(\174 Theorem 5\0561 \174 \052\052K\052\052 \174 \140BanachDensity1D\056thm\137fixed\137epsilon\140 \174 \052\052No\052\052 \174 One epsilon\055dependent generator works for every) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 155 Tm
+(target\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 138 Tm
+(\174 Lemma 5\0564 \174 \052\052K\052\052 \174 \140BanachDensityHD\056HistoriesAux\056lem\137history\137topology\137gen\140 \174 \052\052No\052\052 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 127 Tm
+(Basic\055neighborhood\057topological construction preserving refinement history\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 110 Tm
+(\174 Lemma 5\0565 \174 \052\052K\052\052 \174 \140BanachDensity1D\056lem\137finest\137history\137topology\140 \174 \052\052No\052\052 \174 Finest compatible topology using) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 99 Tm
+(countable diagonal arguments\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 82 Tm
+(\174 Lemma 5\0566 \174 \052\052K\052\052 \174 \140BanachDensityHD\056HistoriesAux\056lem\137obstruction\137closure\137gen\140 \174 \052\052No\052\052 \174 Closure characterized by) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 71 Tm
+(arbitrary countable well\055founded branching\056 \174) Tj
+ET
+
+endstream
+endobj
+26 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/FR 10 0 R
+/FB 11 0 R
+/FC 12 0 R
+>>
+>>
+/Contents 27 0 R
+/Parent 2 0 R
+>>
+endobj
+27 0 obj
+<<
+/Length 7164
+>>
+stream
+BT
+/FB 8 Tf
+1 0 0 1 42 765 Tm
+(LEAN FORMALIZATION  \057  NOV 2 2026) Tj
+ET
+BT
+/FB 8 Tf
+1 0 0 1 530 29 Tm
+(Page 8) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 748 Tm
+(\174 Corollary 5\0567 \174 \052\052K\052\052 \174 \140BanachDensity1D\056cor\137safety\137interior\140 \174 \052\052No\052\052 \174 Safety and unsafety as interior\057closure) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 737 Tm
+(properties\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 720 Tm
+(\174 Theorem 5\0568 \174 \052\052K\052\052 \174 \140BanachDensity1D\056thm\137topological\137bn\137restated\140 \174 \052\052No\052\052 \174 Topological b\137n formula restated in) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 709 Tm
+(proof context\056 Numbered restatement of Theorem 2\0566\073 counted separately\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 692 Tm
+(\174 Theorem 5\0569 \174 \052\052K\052\052 \174 \140BanachDensity1D\056thm\137topological\137main\140 \174 \052\052No\052\052 \174 Full generation theorem in terms of) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 681 Tm
+(topological b\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 664 Tm
+(\174 Corollary 5\05610 \174 \052\052K\052\052 \174 \140BanachDensity1D\056cor\137protected\137set\140 \174 \052\052No\052\052 \174 Basic finite\055protection and safety) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 653 Tm
+(equivalence\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 636 Tm
+(\174 Lemma 5\05612 \174 \052\052K\052\052 \174 \140BanachDensity1D\056lem\137boards\140 \174 \052\052No\052\052 \174 Finite\055trace board existence and exact size bounds\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 619 Tm
+(\174 Lemma 5\05613 \174 \052\052K\052\052 \174 \140BanachDensity1D\056lem\137forest\137invariant\140 \174 \052\052No\052\052 \174 Protected\055path and ancestry invariants of the) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 608 Tm
+(forest\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 591 Tm
+(\174 Lemma 5\05614 \174 \052\052K\052\052 \174 \140BanachDensity1D\056lem\137uniform\137board\140 \174 \052\052No\052\052 \174 Board quota max\0500\054s\0551\057N\051\054 including freezing\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 574 Tm
+(\174 Lemma 5\05615 \174 \052\052K\052\052 \174 \140BanachDensity1D\056lem\137memory\140 \174 \052\052No\052\052 \174 Conditional memory\057record\055language inclusion\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 557 Tm
+(\174 Lemma 5\05616 \174 \052\052K\052\052 \174 \140BanachDensityHD\056ForestAux\056capture\137gen\140 \174 \052\052No\052\052 \174 Finite\055evidence eventual capture\054 without) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 546 Tm
+(target identification\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 529 Tm
+(\174 Lemma 5\05617 \174 \052\052K\052\052 \174 \140BanachDensity1D\056lem\137validity\140 \174 \052\052No\052\052 \174 Only finitely many invalid outputs\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 512 Tm
+(\174 Lemma 5\05618 \174 \052\052K\052\052 \174 \140BanachDensityHD\056lem\137pairing\137game\140 \174 \052\052No\052\052 \174 Total rounded\055half bound for the filtered pairing) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 501 Tm
+(game\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 484 Tm
+(\174 Corollary 5\05619 \174 \052\052K\052\052 \174 \140BanachDensity1D\056cor\137regular\137board\137density\140 \174 \052\052No\052\052 \174 Regular\055board density guarantee\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 467 Tm
+(\174 Lemma 5\05620 \174 \052\052K\052\052 \174 \140BanachDensity1D\056lem\137copies\137chain\140 \174 \052\052No\052\052 \174 Adjacent accuracy copies of a language form an) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 456 Tm
+(ancestor chain\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 439 Tm
+(\174 Lemma 5\05621 \174 \052\052K\052\052 \174 \140BanachDensity1D\056lem\137capture\137fixed\137copy\140 \174 \052\052No\052\052 \174 Eventual capture of each specified copy\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 422 Tm
+(\174 Lemma 5\05622 \174 \052\052K\052\052 \174 \140BanachDensity1D\056lem\137fixed\137copy\137density\140 \174 \052\052No\052\052 \174 One fixed\055copy quota approaches the optimal) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 411 Tm
+(value\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 394 Tm
+(\174 Theorem 5\05623 \174 \052\052K\052\052 \174 \140BanachDensity1D\056thm\137oneD\137lower\137conclusion\140 \174 \052\052No\052\052 \174 One generator achieves b\050K\051 on all) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 383 Tm
+(targets and enumerations\056 \174) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 356 Tm
+(Higher dimensions \050Sections 6\055\0559\051) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 326 Tm
+(\174 Paper \174 Level \174 Formal counterpart \174 Unformalized prior theorem required\077 \174 Correspondence note \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 309 Tm
+(\174\072\055\055\174\072\055\055\072\174\072\055\055\174\072\055\055\072\174\072\055\055\174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 292 Tm
+(\174 Theorem 6\0561 \174 \052\052K\052\052 \174 \140BanachDensityHD\056Oct31\056separation\137gap\137one\137sixteenth\140 \174 \052\052No\052\052 \174 Explicit universal 1\05716) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 281 Tm
+(separation\054 with witnesses before h\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 264 Tm
+(\174 Theorem 6\0562 \174 \052\052K\052\052 \174 \140BanachDensityHD\056thm\137main\137not\137simul\140 \057 \140BanachDensityHD\056family7\137witnesses\140 \174 \052\052No\052\052 \174 Exact) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 253 Tm
+(optima 1\0574 and 1\0572\054 simultaneous other\055target guarantee\054 trade\055off\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 236 Tm
+(\174 Lemma 6\0563 \174 \052\052K\052\052 \174 \140BanachDensityHD\056lem\137validity\137commitment\140 \174 \052\052No\052\052 \174 Finite commitment under eventual validity\056) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 225 Tm
+(\174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 208 Tm
+(\174 Lemma 6\0564 \174 \052\052K\052\052 \174 \140BanachDensityHD\056ExactStatements\056distinct\137input\137block\137forcing\140 \174 \052\052No\052\052 \174 Block forcing from a) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 197 Tm
+(distinct initial input list\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 180 Tm
+(\174 Lemma 6\0565 \174 \052\052K\052\052 \174 \140BanachDensityHD\056prop\137tradeoff\140 \174 \052\052No\052\052 \174 Trade\055off from horizontal\057vertical layer races\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 163 Tm
+(\174 Claim 6\0566 \174 \052\052K\052\052 \174 \140BanachDensityHD\056claim\137horizontal\137test\140 \174 \052\052No\052\052 \174 Adversarial horizontal test with a complete) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 152 Tm
+(finite strip prefix\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 135 Tm
+(\174 Theorem 7\0561 \174 \052\052K\052\052 \174 \140BanachDensityHD\056ExactStatements\056fixed\137quota\137suff\137positive\140 \057) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 124 Tm
+(\140BanachDensityHD\056ExactStatements\056fixed\137quota\137nec\137positive\140 \174 \052\052No\052\052 \174 Both protected\055tree directions for positive) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 113 Tm
+(nondecreasing u\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 96 Tm
+(\174 Theorem 7\0562 \174 \052\052K\052\052 \174 \140BanachDensityHD\056ExactStatements\056exact\137profile\137occurrences\137positive\140 \174 \052\052No\052\052 \174 Exact) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 85 Tm
+(achievable profiles using dyadic copy occurrence trees\056 \174) Tj
+ET
+
+endstream
+endobj
+28 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/FR 10 0 R
+/FB 11 0 R
+/FC 12 0 R
+>>
+>>
+/Contents 29 0 R
+/Parent 2 0 R
+>>
+endobj
+29 0 obj
+<<
+/Length 6730
+>>
+stream
+BT
+/FB 8 Tf
+1 0 0 1 42 765 Tm
+(LEAN FORMALIZATION  \057  NOV 2 2026) Tj
+ET
+BT
+/FB 8 Tf
+1 0 0 1 530 29 Tm
+(Page 9) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 748 Tm
+(\174 Theorem 7\0563 \174 \052\052K\052\052 \174 \140BanachDensityHD\056Oct31\056finite\137rank\137near\137half\137all\140 \057 \140BanachDensityHD\056end\137main\140 \174 \052\052No\052\052 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 737 Tm
+(Near\055half at every finite point\055rank target and strict endpoint obstruction\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 720 Tm
+(\174 Theorem 7\0567 \174 \052\052K\052\052 \174 \140BanachDensityHD\056TreeCorrespondence\056paper\137topological\137characterization\140 \174 \052\052No\052\052 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 709 Tm
+(Occurrence\055tree\057topological neighborhood equivalence\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 692 Tm
+(\174 Corollary 7\0568 \174 \052\052K\052\052 \174 \140BanachDensityHD\056TreeCorrespondence\056exact\137vertex\137obstruction\137characterization\140 \174 \052\052No\052\052 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 681 Tm
+(Global assignment then arbitrary countable vertex obstructions\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 664 Tm
+(\174 Corollary 7\0569 \174 \052\052K\052\052 \174 \140BanachDensityHD\056TreeCorrespondence\056PaperDecoration\056finite\137protection\140 \174 \052\052No\052\052 \174 Finite) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 653 Tm
+(protection on good basic neighborhoods\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 636 Tm
+(\174 Lemma 7\05610 \174 \052\052K\052\052 \174 \140BanachDensityHD\056lem\137hd\137capture\140 \174 \052\052No\052\052 \174 Critical\055vertex capture for the actual HD forest\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 619 Tm
+(\174 Lemma 7\05611 \174 \052\052K\052\052 \174 \140BanachDensityHD\056ExactStatements\056sewing\137positive\140 \174 \052\052No\052\052 \174 Exact weighted sewing bound for) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 608 Tm
+(positive nondecreasing u\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 591 Tm
+(\174 Lemma 7\05612 \174 \052\052K\052\052 \174 \140BanachDensityHD\056lem\137hd\137help\140 \174 \052\052No\052\052 \174 Simulation\057virtual play preserves real outputs\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 574 Tm
+(\174 Lemma 7\05613 \174 \052\052K\052\052 \174 \140BanachDensityHD\056ExactStatements\056commitments\137including\137final\137reply\140 \174 \052\052No\052\052 \174 Commitment) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 563 Tm
+(includes the reply to the last committing input\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 546 Tm
+(\174 Lemma 7\05615 \174 \052\052K\052\052 \174 \140BanachDensityHD\056ExactStatements\056adjacent\137copy\137ancestry\140 \174 \052\052No\052\052 \174 Nonstrict scan preserves) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 535 Tm
+(adjacent equal\055language accuracy copies\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 518 Tm
+(\174 Lemma 7\05616 \174 \052\052K\052\052 \174 \140BanachDensityHD\056ExactStatements\056capture\137specified\137copy\140 \174 \052\052No\052\052 \174 Literal nonstrict) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 507 Tm
+(copy\055forest capture\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 490 Tm
+(\174 Lemma 7\05617 \174 \052\052K\052\052 \174 \140BanachDensityHD\056ExactStatements\056dyadic\137fixed\137copy\137density\137positive\140 \174 \052\052No\052\052 \174 Fixed\055copy) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 479 Tm
+(density from the actual dyadic forest and generator\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 462 Tm
+(\174 Lemma 8\0561 \174 \052\052K\052\052 \174 \140BanachDensityHD\056Nov1\056local\137rectangle\137strategy\137positive\137dimension\140 \174 \052\052No\052\052 \174 One game strategy) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 451 Tm
+(for every rectangle in a finite packet\073 d\076\0751\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 434 Tm
+(\174 Theorem 8\0562 \174 \052\052K\052\052 \174 \140BanachDensityHD\056Oct31\056finite\137rank\137near\137half\137all\140 \174 \052\052No\052\052 \174 Near\055half simultaneously without) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 423 Tm
+(a uniform bound on finite ranks\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 406 Tm
+(\174 Theorem 9\0561 \174 \052\052K\052\052 \174 \140BanachDensityHD\056end\137main\140 \174 \052\052No\052\052 \174 Exact\055half endpoint impossibility for d\076\0752\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 389 Tm
+(\174 Lemma 9\0562 \174 \052\052K\052\052 \174 \140BanachDensityHD\056end\137strip\140 \174 \052\052No\052\052 \174 Adversarial strip game including off\055strip White) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 378 Tm
+(responses\056 \174) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 351 Tm
+(Appendix A\072 potential method) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 321 Tm
+(\174 Paper \174 Level \174 Formal counterpart \174 Unformalized prior theorem required\077 \174 Correspondence note \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 304 Tm
+(\174\072\055\055\174\072\055\055\072\174\072\055\055\174\072\055\055\072\174\072\055\055\174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 287 Tm
+(\174 Lemma A\0562 \174 \052\052K\052\052 \174 \140BanachDensityHD\056ExactStatements\056OnPlay\056quotas\137of\137properties\140 \174 \052\052No\052\052 \174 Local potential) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 276 Tm
+(strategy under on\055play hypotheses and necessary probes\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 259 Tm
+(\174 Claim A\0563 \174 \052\052K\052\052 \174 \140BanachDensityHD\056claim\137discardsmall\140 \174 \052\052No\052\052 \174 Discarded small remainders have a controlled) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 248 Tm
+(total fraction\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 231 Tm
+(\174 Claim A\0564 \174 \052\052K\052\052 \174 \140BanachDensityHD\056claim\137quotassuffice\140 \174 \052\052No\052\052 \174 Quotas on local pieces imply the desired global) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 220 Tm
+(rectangle guarantee\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 203 Tm
+(\174 Proposition A\0565 \174 \052\052K\052\052 \174 \140BanachDensityHD\056ExactStatements\056conditional\137rectangle\137on\137play\140 \174 \052\052No\052\052 \174 True) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 192 Tm
+(conditional implication under G1\055G3\054 without invoking A\0566\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 175 Tm
+(\174 Claim A\0566 \174 \052\052K\052\052 \174 \140BanachDensityHD\056claim\137cf\137potential\137existence\137uniform\140 \174 \052\052No\052\052 \174 Uniform concrete scale and) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 164 Tm
+(potential construction\056 \174) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 137 Tm
+(Appendix B\072 constructions) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 107 Tm
+(\174 Paper \174 Level \174 Formal counterpart \174 Unformalized prior theorem required\077 \174 Correspondence note \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 90 Tm
+(\174\072\055\055\174\072\055\055\072\174\072\055\055\174\072\055\055\072\174\072\055\055\174) Tj
+ET
+
+endstream
+endobj
+30 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/FR 10 0 R
+/FB 11 0 R
+/FC 12 0 R
+>>
+>>
+/Contents 31 0 R
+/Parent 2 0 R
+>>
+endobj
+31 0 obj
+<<
+/Length 6647
+>>
+stream
+BT
+/FB 8 Tf
+1 0 0 1 42 765 Tm
+(LEAN FORMALIZATION  \057  NOV 2 2026) Tj
+ET
+BT
+/FB 8 Tf
+1 0 0 1 530 29 Tm
+(Page 10) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 748 Tm
+(\174 Proposition B\0561 \174 \052\052K\052\052 \174 \140BanachDensity1D\056PriorZero\056prop\137prior\137zero\137value\140 \174 \052\052No\052\052 \050prior family reconstructed in) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 737 Tm
+(Lean\051 \174 Exact printed earlier sumset family has b\137n\050K0\051\0750 for every n\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 720 Tm
+(\174 Lemma B\0562 \174 \052\052K\052\052 \174 \140BanachDensity1D\056cor\137full\137range\140 \174 \052\052No\052\052 \050B\0561\0571D construction formalized\051 \174 Every exact optimum) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 709 Tm
+(alpha in \1330\0541\0572\135 occurs\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 692 Tm
+(\174 Lemma B\0563 \174 \052\052K\052\052 \174 \140BanachDensityHD\056prop\137profile\137realization\140 \174 \052\052No\052\052 \050construction formalized here\051 \174 Every) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 681 Tm
+(prescribed product profile region occurs for an appropriate family\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 664 Tm
+(\174 Claim B\0564 \174 \052\052K\052\052 \174 \140BanachDensity1D\056ProfileAux\056Staged\056bK\137lower\140 \174 \052\052No\052\052 \174 Lower structural value at each rational) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 653 Tm
+(cutoff of staged family\056 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 636 Tm
+(\174 Claim B\0565 \174 \052\052K\052\052 \174 \140BanachDensityHD\056ExactStatements\056staged\137bK\137upper\140 \057) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 625 Tm
+(\140BanachDensityHD\056ExactStatements\056staged\137bK\137exact\140 \174 \052\052No\052\052 \174 Literal repeated heading and intended upper bound\073) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 614 Tm
+(resulting equality\056 \174) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 584 Tm
+(5\0561 Selected statement\055correspondence sign\055off sheets) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 554 Tm
+(The following selected sign\055offs highlight \052actual hypotheses and quantifier order\052\054 where a superficial) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 542 Tm
+(name\055to\055name mapping would have been insufficient\056 These are explanatory extracts of the final independent) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 530 Tm
+(AI review\056 They are not a replacement for inspection of the elaborated types linked above\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 502 Tm
+(Theorem 1\0565\072 one universal generator\054 not one per target) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 472 Tm
+(\052\052Printed mathematical content\056\052\052 For every target\054 the topological and combinatorial values agree\056 Every) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 460 Tm
+(competing valid generator has an adverse full enumeration at each target\054 but there exists \052\052one\052\052) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 448 Tm
+(lower\055bound generator that works for \052every\052 target and \052every\052 full enumeration\056 The latter existence) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 436 Tm
+(quantifier must come before the target and enumeration quantifiers\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 415 Tm
+(\052\052Lean counterpart\056\052\052 \140BanachDensity1D\056thm\137intro\137one\137dimensional\140 is a conjunction of three parts\056 The) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 403 Tm
+(second begins \140\077 G\140\054 followed by \140\077 K in X\140\054 then \140\077 w\140\073 the third begins \140\077 G\140 and only then quantifies) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 391 Tm
+(\140\077 K in X\054 \077 w\140\056 The construction supplies global availability and eventual validity\056 The equality \140bn \075) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 379 Tm
+(bnTop\140 is in the first conjunct\056 This retains the central nonidentification\057simultaneous\055achievability) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 367 Tm
+(distinction\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 346 Tm
+(\052\052Reading boundary\056\052\052 Global freshness is a standing property of admissible generators\056 Repeated inputs in) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 334 Tm
+(a full enumeration remain allowed\056 This is a statement\055level check\073 it does not claim that every) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 322 Tm
+(intermediate 1D forest proof step is written in the same order as the manuscript\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 294 Tm
+(Theorems 7\0561 and 7\0562\072 positivity\054 complete trees\054 and literal copies) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 264 Tm
+(\052\052Printed mathematical content\056\052\052 Section 7 assumes \140h\050V\051\075u\050V\051 log\0502\053V\051\140 for positive nondecreasing \140u\140) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 252 Tm
+(and \140d\076\0752\140\056 The fixed\055quota criterion has a sufficiency direction and a necessity direction with \052every) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 240 Tm
+(positive additive slack\052\056 The exact\055profile theorem uses dyadic accuracy copies \140\050K\054k\051\140\054 where the tree) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 228 Tm
+(must contain all compatible children\054 including same\055language copies at other indices\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 207 Tm
+(\052\052Lean counterparts\056\052\052 \140fixed\137quota\137suff\137positive\140 and \140fixed\137quota\137nec\137positive\140 prove both directions) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 195 Tm
+(for \1400\074u\140\054 using \140protected\137normalization\140\056 The new \140DyadicCopyProtected\140 predicate uses) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 183 Tm
+(\140max\050alpha\050L\051\0552\136\050\055k\051\0540\051\140\054 and \140all\137dyadic\137iff\137reciprocal\140 proves the required certificate\055existence) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 171 Tm
+(equivalence\073 it is not based only on cofinal scalar numerical limits\056 \140exact\137profile\137occurrences\137positive\140) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 159 Tm
+(then exports the final theorem using original copy occurrence trees\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 138 Tm
+(\052\052Reading boundary\056\052\052 Proving a profile with an arbitrary \052different\052 forest would not establish Lemmas) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 126 Tm
+(7\05615\0557\05617\056 The new Lean uses \140scanParent false\140\054 exact copy ancestry and capture\054 and the actual \140cfgOf\140) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 114 Tm
+(simulator and sewing conclusion\056 The source\057registry records the \140d\076\0752\140 and \140u\0760\140 assumptions\054 and the) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 102 Tm
+(first output within the committing prefix is separately handled by Lemma 7\05613\047s new wrapper\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 74 Tm
+(Corollary 7\0568\072 one global assignment before every obstruction) Tj
+ET
+
+endstream
+endobj
+32 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/FR 10 0 R
+/FB 11 0 R
+/FC 12 0 R
+>>
+>>
+/Contents 33 0 R
+/Parent 2 0 R
+>>
+endobj
+33 0 obj
+<<
+/Length 6184
+>>
+stream
+BT
+/FB 8 Tf
+1 0 0 1 42 765 Tm
+(LEAN FORMALIZATION  \057  NOV 2 2026) Tj
+ET
+BT
+/FB 8 Tf
+1 0 0 1 530 29 Tm
+(Page 11) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 748 Tm
+(\052\052Printed mathematical content\056\052\052 A single assignment of geometric thresholds and radii must be good for) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 736 Tm
+(\052\052every\052\052 admissible countable obstruction presentation in the specified sense\056 The theorem cannot be) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 724 Tm
+(reduced to \042each obstruction admits its own convenient assignment\056\042) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 703 Tm
+(\052\052Lean counterpart\056\052\052 \140exact\137vertex\137obstruction\137characterization\140 places the existential \140\077 s a\140 before) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 691 Tm
+(the universal quantifiers over the countable vertex type and its obstruction tree\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 679 Tm
+(\140all\137vertex\137obstructions\137iff\140\054 with the concrete \140Address\140 realization\054 proves the correspondence between) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 667 Tm
+(actual vertex presentations and language\055path representations\054 without a hidden finite\055branching) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 655 Tm
+(hypothesis\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 634 Tm
+(\052\052Reading boundary\056\052\052 The proved bridge is an equivalence of the terminal\055path properties needed for the) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 622 Tm
+(theorem\056 It does not assert an isomorphism of all occurrence structures after merging duplicate) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 610 Tm
+(decorations\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 582 Tm
+(Lemma A\0562 and Proposition A\0565\072 the conditional actually proved) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 552 Tm
+(\052\052Printed mathematical content\056\052\052 Lemma A\0562 assumes locality and \050P1\051\055\050P4\051 for the game\055state evaluations) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 540 Tm
+(required by the prescribed strategy and its hypothetical one\055move comparisons\056 Proposition A\0565 says that) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 528 Tm
+(whenever scales and local potentials satisfy \050G1\051\055\050G3\051\054 one White strategy protects every rectangle in a) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 516 Tm
+(finite packet\056 An explicit construction of \052one\052 potential family in Claim A\0566 is not an adequate) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 504 Tm
+(substitute for proving A\0565\047s general conditional\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 483 Tm
+(\052\052Lean counterparts\056\052\052 \140OnPlay\056Properties\140 uses \140PlayState\140 for actual pre\055 and intermediate states and) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 471 Tm
+(\140ProbeState\140 for the locality comparisons\056 \140OnPlay\056quotas\137of\137properties\140 verifies the invariant and local) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 459 Tm
+(quotas\056 \140PlayScaleConditions\140 encodes the uniform scale\057threshold antecedent\054 and) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 447 Tm
+(\140conditional\137rectangle\137on\137play\140 derives the appropriate dyadic tree and the packet conclusion from \052\052those) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 435 Tm
+(assumed conditions\052\052\056 The separate \140of\137bookkeeping\140 and \140playScaleConditions\137of\137scaleConditions\140 provide) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 423 Tm
+(only the valid broad\055to\055local implication\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 402 Tm
+(\052\052Reading boundary\056\052\052 Arbitrary activations are part of the \052old stronger\052 bookkeeping\055domain) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 390 Tm
+(interpretation\054 not automatically required by the manuscript\047s prescribed strategy\056 The exact development) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 378 Tm
+(does not assume or claim a false equivalence of the two state domains\056 The independent audit\047s final K) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 366 Tm
+(determination is explicitly \052\052under this precise on\055play reading\052\052\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 338 Tm
+(Proposition B\0561 and Claims B\0564\055B\0565\072 the constructed families themselves) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 308 Tm
+(\052\052Printed mathematical content\056\052\052 Proposition B\0561 uses the family from a previous manuscript\054 not simply) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 296 Tm
+(an example with zero value\056 The Appendix B profile construction uses the staged rational\055cut languages\073) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 284 Tm
+(Claim B\0564 establishes their lower structural bound and B\0565\047s \052\052written proof\052\052 establishes the) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 272 Tm
+(corresponding upper bound\054 although the B\0565 heading repeats a lower sign\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 251 Tm
+(\052\052Lean counterparts\056\052\052 \140PreviousPaperIntervals\140\054 \140printedLanguage\137eq\140\054 and \140printedFamily\137eq\140 bridge the) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 239 Tm
+(earlier paper\047s actual interval\057offset construction to the internal zero\055family object\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 227 Tm
+(\140PriorZero\056prop\137prior\137zero\137value\140 then proves the claimed zero values for that family\056 For the staged) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 215 Tm
+(family\054 \140Staged\056bK\137lower\140\054 \140staged\137bK\137upper\140\054 and \140staged\137bK\137exact\140 establish the lower\054 upper and) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 203 Tm
+(resulting equality on the \052\052same languages\052\052\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 182 Tm
+(\052\052Reading boundary\056\052\052 The family\055decoding check adopts the coordinate convention supported by the earlier) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 170 Tm
+(primary source and preserves the exceptional offset term by equality\056 The stale previous\055paper theorem) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 158 Tm
+(number is an editorial citation issue\054 not a Lean axiom\056 B\0565\047s duplicated heading should be fixed in the) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 146 Tm
+(manuscript even though the two mathematical inequalities are available as formal theorems\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 118 Tm
+(Lemma B\0563\072 an exact product frontier\054 not one convenient profile) Tj
+ET
+
+endstream
+endobj
+34 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/FR 10 0 R
+/FB 11 0 R
+/FC 12 0 R
+>>
+>>
+/Contents 35 0 R
+/Parent 2 0 R
+>>
+endobj
+35 0 obj
+<<
+/Length 6755
+>>
+stream
+BT
+/FB 8 Tf
+1 0 0 1 42 765 Tm
+(LEAN FORMALIZATION  \057  NOV 2 2026) Tj
+ET
+BT
+/FB 8 Tf
+1 0 0 1 530 29 Tm
+(Page 12) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 748 Tm
+(\052\052Printed mathematical content\056\052\052 For any admissible threshold and any prescribed sequence in \140\1330\0541\0572\135\140\054) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 736 Tm
+(the constructed countable family has \052\052exactly\052\052 the product region of simultaneously achievable density) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 724 Tm
+(profiles\073 in particular\054 its coordinatewise greatest profile is achieved by a common generator\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 703 Tm
+(\052\052Lean counterpart\056\052\052 \140BanachDensityHD\056prop\137profile\137realization\140 contains an injectively indexed family\054) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 691 Tm
+(an explicit \140\077 G\140 before index and enumeration quantification\054 an equivalence for every indexed profile\054) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 679 Tm
+(and an equivalence for every full family profile\056 These are separate conjuncts in the exported type\056 The) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 667 Tm
+(internal staged\055family result supplies a matching structural upper bound rather than deriving \042exact\042 from) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 655 Tm
+(achievability alone\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 634 Tm
+(\052\052Reading boundary\056\052\052 The family may depend on the threshold as allowed by the statement\056 The full proof) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 622 Tm
+(of the filtered upper bound uses the actual witness construction\073 it does not assume the paper\047s) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 610 Tm
+(adversarial sketch as an external theorem\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 582 Tm
+(5\0562 Numbered definitions\072 representation index) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 552 Tm
+(The \052\05214 numbered definitions\052\052 are identified separately below\056 They are \052\052not failures of Level K\052\052\072 a) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 540 Tm
+(definition is not a theorem needing a proof\056 The status \052\052Defined in Lean\052\052 indicates an encoded) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 528 Tm
+(mathematical object\073 \052\052Background definition\052\052 denotes a previously standard concept used for context) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 516 Tm
+(rather than a new proof obligation\056 The last column distinguishes mathematical background from any) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 504 Tm
+(required \052unproved external theorem\052\056 The reader should consult the \133full elaborated\055type) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 492 Tm
+(register\135\050reproducibility\057evidence\057ELABORATED\055REGISTRY\056json) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 480 Tm
+(\051 for definitions that) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 468 Tm
+(are inlined into the corresponding theorem type\056) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 447 Tm
+(\174 Paper definition \174 Status \174 Mathematical object \174 Unformalized prior theorem required\077 \174 Source representation \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 430 Tm
+(\174\072\055\055\174\072\055\055\174\072\055\055\174\072\055\055\072\174\072\055\055\174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 413 Tm
+(\174 Definition 1\0562 \174 \052\052Background definition\052\052 \174 Lower asymptotic density \174 \052\052No\052\052 \050not a theorem\051 \174 Background) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 402 Tm
+(definition\073 1D notation and finite prefixes \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 385 Tm
+(\174 Definition 1\0563 \174 \052\052Defined in Lean\052\052 \174 Lower Banach density \174 \052\052No\052\052 \174 \140BanachDensityHD\056banach\140\054 target\055relative) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 374 Tm
+(bridge to \140deltaH\140 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 357 Tm
+(\174 Definition 1\0564 \174 \052\052Defined in Lean\052\052 \174 Filtered lower Banach density \174 \052\052No\052\052 \174 \140BanachDensityHD\056testInf\140\054 \140deltaH\140\054) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 346 Tm
+(\140deltaH\137tendsto\140 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 329 Tm
+(\174 Definition 2\0561 \174 \052\052Defined in Lean\052\052 \174 Relative intervals\054 raw pairing score \174 \052\052No\052\052 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 318 Tm
+(\140BanachDensity1D\056def\137raw\137pairing\137score\140\054 layer and interval definitions \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 301 Tm
+(\174 Definition 2\0563 \174 \052\052Defined in Lean\052\052 \174 Admissible obstruction trees \174 \052\052No\052\052 \174 \140BanachDensity1D\056LTree\056Admissible\140\054) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 290 Tm
+(\140TreeCorrespondence\056PaperObstruction\140 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 273 Tm
+(\174 Definition 3\0561 \174 \052\052Defined in Lean\052\052 \174 Cantor\055\055Bendixson point rank \174 \052\052No\052\052 \174 \140BanachDensity1D\056CBrank\140\054 derivative) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 262 Tm
+(constructions \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 245 Tm
+(\174 Definition 5\0562 \174 \052\052Defined in Lean\052\052 \174 Safe and unsafe histories \174 \052\052No\052\052 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 234 Tm
+(\140BanachDensity1D\056def\137safe\137unsafe\137history\140 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 217 Tm
+(\174 Definition 5\0563 \174 \052\052Defined in Lean\052\052 \174 History topology \174 \052\052No\052\052 \174 \140BanachDensityHD\056historyTopology\140\073 1D history) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 206 Tm
+(topology \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 189 Tm
+(\174 Definition 5\05611 \174 \052\052Defined in Lean\052\052 \174 Protected sets \174 \052\052No\052\052 \174 \140BanachDensity1D\056def\137history\137protected\137set\140 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 172 Tm
+(\174 Definition 7\0564 \174 \052\052Defined in Lean\052\052 \174 Geometric feasibility \174 \052\052No\052\052 \174 \140BanachDensityHD\056GeomFeasible\140\073 finite) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 161 Tm
+(\140StopGame\056Feasible\140 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 144 Tm
+(\174 Definition 7\0565 \174 \052\052Defined in Lean\052\052 \174 Protected trees \174 \052\052No\052\052 \174 \140BanachDensityHD\056IsProtectedTree\140\073 occurrence\055tree) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 133 Tm
+(equivalence \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 116 Tm
+(\174 Definition 7\0566 \174 \052\052Defined in Lean\052\052 \174 Geometric decorations \174 \052\052No\052\052 \174 \140BanachDensityHD\056IsQGoodDecoration\140\073 paper) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 105 Tm
+(decoration \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 88 Tm
+(\174 Definition 7\05614 \174 \052\052Defined in Lean\052\052 \174 Protected trees on accuracy copies \174 \052\052No\052\052 \174) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 77 Tm
+(\140BanachDensityHD\056ExactStatements\056DyadicCopyProtected\140 \174) Tj
+ET
+
+endstream
+endobj
+36 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/FR 10 0 R
+/FB 11 0 R
+/FC 12 0 R
+>>
+>>
+/Contents 37 0 R
+/Parent 2 0 R
+>>
+endobj
+37 0 obj
+<<
+/Length 6077
+>>
+stream
+BT
+/FB 8 Tf
+1 0 0 1 42 765 Tm
+(LEAN FORMALIZATION  \057  NOV 2 2026) Tj
+ET
+BT
+/FB 8 Tf
+1 0 0 1 530 29 Tm
+(Page 13) Tj
+ET
+BT
+/FC 7.6 Tf
+1 0 0 1 42 748 Tm
+(\174 Definition A\0561 \174 \052\052Defined in Lean\052\052 \174 Activation rule \174 \052\052No\052\052 \174 \140BanachDensityHD\056RegionTree\056activationStep\140 \174) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 728 Tm
+(\052\052Interpretation of cited prior work\056\052\052 Proposition B\0561 states a consequence for a family defined in the) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 716 Tm
+(authors\047 earlier paper\054 but the earlier family itself is reconstructed and connected to its printed) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 704 Tm
+(representation by \140printedLanguage\137eq\140 and \140printedFamily\137eq\140\054 and the required zero\055value conclusion is) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 692 Tm
+(proved in \140BanachDensity1D\056PriorZero\140\056 Thus \052\052B\0561 is not accepted as an unformalized literature axiom\052\052\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 680 Tm
+(The remaining references to older papers \050including historical motivation for language generation and) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 668 Tm
+(previous density results\051 are \052\052background references\052\052\054 not extra logical premises of the 65 Lean proofs\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 656 Tm
+(The full transitive axiom sweep is what supports the absence of a hidden nonstandard axiom\073 the AI) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 644 Tm
+(statement audit separately addresses stronger\055than\055paper hypotheses\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 613 Tm
+(6\056 Source issues\054 limitations and scope exclusions) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 576 Tm
+(6\0561 No general claim about the five remarks) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 546 Tm
+(The five remarks are excluded from the required K inventory\056 This is a \052\052scope decision\052\052\054 not a finding) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 534 Tm
+(that those remarks are false\056 In particular\054 Remark 5 begins with \052\052one interval \140J\140\052\052\056 Language layers) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 522 Tm
+(within that interval are disjoint\056 An example with two \052overlapping test windows\052 may challenge a broader) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 510 Tm
+(arbitrary\055packet scalar sufficiency interpretation but does not refute the literal single\055interval) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 498 Tm
+(rounded\055half calculation\056 The independent review explicitly withdrew its earlier unqualified criticism\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 486 Tm
+(The report does not claim formal verification of Remark 5\047s entire prose\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 458 Tm
+(6\0562 Corollary 1\0566\072 empty\055family case formalized) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 428 Tm
+(The printed corollary allows any countable family of infinite languages\054 including the empty family\056 The) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 416 Tm
+(original mapped result \140BanachDensity1D\056cor\137intro\137one\137dimensional\137rank\140 assumes \140LangClass X\140 \050which) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 404 Tm
+(includes nonemptiness\051\054 but \052\052the pinned 1D library already contains\052\052) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 392 Tm
+(\133\140BanachDensity1D\056Oct31\056finite\137point\137rank\137all\140\135\050reproducibility\057lean\057BanachDensity1D\057Oct31Bridges\056lean) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 380 Tm
+(\051\054 whose only family) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 368 Tm
+(assumptions are countability\054 infinitude of each member\054 and pointwise finite Cantor\055Bendixson rank\056 Its) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 356 Tm
+(Lean proof performs an explicit case split\056 For a nonempty family it invokes) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 344 Tm
+(\140cor\137intro\137one\137dimensional\137rank\140\073 for an empty family it constructs the existing globally admissible fresh) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 332 Tm
+(generator and discharges the vacuous target\055dependent clauses\056 The \133recorded theorem type\054 axiom check\054) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 320 Tm
+(and build) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 308 Tm
+(evidence\135\050reproducibility\057evidence\057VERIFICATION\055RESULTS\056md) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 296 Tm
+(\051 report success with only) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 284 Tm
+(standard axioms\056 \052\052Thus this numbered assertion has an exact K counterpart with no added nonemptiness) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 272 Tm
+(premise\056\052\052 This was a documentation\057mapping correction\054 not a new mathematical proof\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 244 Tm
+(6\0563 Editorial points distinguished from mathematical proof obligations) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 214 Tm
+(\055 \052\052Claim B\0565\072\052\052 The printed claim heading repeats \140b\050L\137q\051 \076\075 alpha\137q\140 from B\0564\054 while its proof develops) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 202 Tm
+(\140b\050L\137q\051 \074\075 alpha\137q\140\056 Both the literal lower result and the intended upper\057equality are checked in the) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 190 Tm
+(staged\055family library\073 the heading remains an editorial correction to consider\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 172 Tm
+(\055 \052\052Previous\055paper reference\072\052\052 A \140\133KWBanach\054 Theorem 2\0564\135\140 citation does not precisely identify the) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 160 Tm
+(printed zero\055family construction in the cited version\056 The actual Lean correspondence follows the source) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 148 Tm
+(construction and proves \140printedLanguage\137eq\140 and \140printedFamily\137eq\140\073 the citation is an editorial issue\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 130 Tm
+(\055 \052\052Absent appendix pointer\072\052\052 A prose reference to an arbitrary\055threshold sewing appendix has no) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 118 Tm
+(corresponding appendix in the authoritative manuscript\056 The claimed appendix extension is not treated as) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 106 Tm
+(an additional numbered result\056) Tj
+ET
+
+endstream
+endobj
+38 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/FR 10 0 R
+/FB 11 0 R
+/FC 12 0 R
+>>
+>>
+/Contents 39 0 R
+/Parent 2 0 R
+>>
+endobj
+39 0 obj
+<<
+/Length 5405
+>>
+stream
+BT
+/FB 8 Tf
+1 0 0 1 42 765 Tm
+(LEAN FORMALIZATION  \057  NOV 2 2026) Tj
+ET
+BT
+/FB 8 Tf
+1 0 0 1 530 29 Tm
+(Page 14) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 748 Tm
+(\055 \052\052Finite\055value\057strict\055threshold prose and finite\055precision embedding\072\052\052 The independent review records) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 736 Tm
+(supporting interpretation details and some omitted expository justifications\054 not an identified) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 724 Tm
+(counterexample to a numbered statement\056 Their written derivations are not silently incorporated into the) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 712 Tm
+(65 K theorem types\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 691 Tm
+(The complete wording and provenance of these findings are in \133Mathematical) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 679 Tm
+(notices\135\050reproducibility\057CERTIFICATE\056md) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 667 Tm
+(\051 and \133Independent completeness) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 655 Tm
+(audit\135\050reproducibility\057evidence\057ASSERTION\055CERTIFICATION\056md) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 643 Tm
+(\051\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 615 Tm
+(7\056 Differences between the written proof and the Lean development) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 585 Tm
+(A Lean proof need not duplicate the order or every intermediate step of the paper to certify its) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 573 Tm
+(conclusion\056 The most consequential documented route choices are\072) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 552 Tm
+(1\056 \052\052Histories and trees\056\052\052 Lean codes some trees by families of finite paths and some by original vertex) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 540 Tm
+(occurrences\056 Proved representation bridges are used where the printed theorem quantifies over actual) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 528 Tm
+(occurrences\073 a naive label\055quotient equivalence is not assumed\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 510 Tm
+(2\056 \052\052Theorem 7\0561\056\052\052 Earlier Lean proofs covered \140u\076\0751\140\073 the new proof normalizes \140u\0760\140\054 transports cutoff) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 498 Tm
+(labels throughout the protected tree and then transports achievable density\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 480 Tm
+(3\056 \052\052Theorem 7\0562\056\052\052 A reciprocal schedule can represent the same achievable region\054 but the paper\047s dyadic) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 468 Tm
+(certificate is recovered via an explicit tree\055restriction\057relabelling proof\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 450 Tm
+(4\056 \052\052Lemmas 7\05615\055\0557\05617\056\052\052 The exact copy construction uses nonstrict parent scans and same\055language copy) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 438 Tm
+(ancestry\073 the \140cfgOf\140 output set and actual simulator are used\054 not an unrelated witness generator\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 420 Tm
+(5\056 \052\052Corollary 7\0568\056\052\052 Abstract histories and countable vertex obstruction presentations are connected by a) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 408 Tm
+(proved terminal\055path bridge\073 no finite\055branching simplification is substituted\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 390 Tm
+(6\056 \052\052Lemma 7\05613\056\052\052 A new wrapper includes the final commitment input\047s response\054 addressing the timing) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 378 Tm
+(boundary of the old formalization\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 360 Tm
+(7\056 \052\052Lemma 8\0561\056\052\052 The finite game is a simultaneous \052\052packet\052\052 requirement\073 the formal proof does not) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 348 Tm
+(treat independently feasible rectangle scores as automatically feasible together\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 330 Tm
+(8\056 \052\052Lemma A\0562 and Proposition A\0565\056\052\052 Locality is specified on actual game states plus needed hypothetical) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 318 Tm
+(probes\056 The conditional implication is proved on these premises rather than inferred only from the) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 306 Tm
+(concrete potentials of A\0566\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 288 Tm
+(9\056 \052\052Proposition B\0561\056\052\052 The zero\055value theorem is applied to the actual reconstructed printed family with) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 276 Tm
+(coordinate and exceptional\055term equalities\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 258 Tm
+(10\056 \052\052Claim B\0565\056\052\052 The Lean file exposes the intended upper structural bound and equality for the actual) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 246 Tm
+(staged family despite the repeated printed lower heading\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 225 Tm
+(No assertion here is that \052\052all\052\052 differences between the manuscript\047s written proofs and Lean\047s proofs) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 213 Tm
+(have been exhaustively catalogued\056 Goal K is statement\055oriented\073 a line\055by\055line audit of every printed) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 201 Tm
+(proof is a separate goal\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 173 Tm
+(8\056 Reproduce the formalization and verify the evidence) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 136 Tm
+(8\0561 Repository locations) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 106 Tm
+(\052\052Reproduction guide \050recommended starting point\051\072\052\052 \133Open verified) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 94 Tm
+(resource\135\050reproducibility\057README\056md) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 82 Tm
+(\051) Tj
+ET
+
+endstream
+endobj
+40 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/FR 10 0 R
+/FB 11 0 R
+/FC 12 0 R
+>>
+>>
+/Contents 41 0 R
+/Parent 2 0 R
+>>
+endobj
+41 0 obj
+<<
+/Length 4755
+>>
+stream
+BT
+/FB 8 Tf
+1 0 0 1 42 765 Tm
+(LEAN FORMALIZATION  \057  NOV 2 2026) Tj
+ET
+BT
+/FB 8 Tf
+1 0 0 1 530 29 Tm
+(Page 15) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 748 Tm
+(\052\052Immutable source\072\052\052 \133Open verified) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 736 Tm
+(resource\135\050reproducibility\057lean\057) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 724 Tm
+(\051) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 703 Tm
+(\052\052Full audit package\072\052\052 \133Open verified) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 691 Tm
+(resource\135\050reproducibility\057evidence\057VERIFICATION\055RESULTS\056md) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 679 Tm
+(\051) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 658 Tm
+(\052\052Machine\055readable exact statement inventory\072\052\052 \133Open verified) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 646 Tm
+(resource\135\050reproducibility\057manifests\057THEOREM\055MAP\056json) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 634 Tm
+(\051) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 613 Tm
+(\052\052Elaborated Lean types \057 dependencies\072\052\052 \133Open verified) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 601 Tm
+(resource\135\050reproducibility\057evidence\057ELABORATED\055REGISTRY\056json) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 589 Tm
+(\051) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 568 Tm
+(\052\052Raw verification summary\072\052\052 \133Open verified) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 556 Tm
+(resource\135\050reproducibility\057evidence\057VERIFICATION\055RESULTS\056md) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 544 Tm
+(\051) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 523 Tm
+(\052\052Checksum manifest\072\052\052 \133Open verified) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 511 Tm
+(resource\135\050reproducibility\057manifests\057SOURCE\055SHA256SUMS) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 499 Tm
+(\051) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 478 Tm
+(The repositories are \052\052private\052\052\072 a referee will need an authorized GitHub account or a separately shared) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 466 Tm
+(immutable bundle\056 Links are pinned to exact commits\054 rather than mutable branch tips\056 The audit package) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 454 Tm
+(copies new source\057evidence\054 but the complete historical proof base must be fetched from the corresponding) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 442 Tm
+(immutable source commit and its pinned 1D dependency\073 the audit directory by itself is \052not\052 a) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 430 Tm
+(self\055contained Lean checkout\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 402 Tm
+(8\0562 Reproduction commands) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 372 Tm
+(Install Git and \140elan\140 \050the Lean version manager\051\056 After making the two authorized repositories and their) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 360 Tm
+(dependencies available as specified in the reproduction guide\054 use the following commands in the \052\052HD) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 348 Tm
+(checkout\052\052\072) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 327 Tm
+(lake build BanachDensityHD) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 309 Tm
+(lake build BanachDensityHD\056ExactStatements) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 291 Tm
+(lake env lean exact\055statement\055verification\057CompleteRegistry\056lean) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 273 Tm
+(lake env lean exact\055statement\055verification\057AllModuleAxioms\056lean) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 255 Tm
+(lake env lean exact\055statement\055verification\057ReplayOwnLibraries\056lean) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 237 Tm
+(python3 exact\055statement\055verification\057final\137source\137checks\056py) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 216 Tm
+(At the \052\052pinned 1D checkout\052\052 the recorded build is\072) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 195 Tm
+(lake build MyFormalization BanachDensity1D BanachDensity1D\056Nov1) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 174 Tm
+(The project was tested with process\055local environment values \140PYTHONDONTWRITEBYTECODE\0751\140\054) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 162 Tm
+(\140TMPDIR\075\133temporary directory\135\140\054 and \140GIT\137OPTIONAL\137LOCKS\0750\140\056 The HD Lake configuration has a \052\052local\055path Git) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 150 Tm
+(dependency pointing to \140\133historical local 1D path\073 redacted\135\140\052\052\056 An independent reproducer must install an) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 138 Tm
+(authenticated clone at that path or use a \052\052process\055local Git URL mapping\052\052 as the guide explains\056 The) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 126 Tm
+(published dependency definition and commit pin were not silently modified\056 No claim of effortless public) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 114 Tm
+(one\055command reproduction is made\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 93 Tm
+(From the root of the \052\052versioned audit directory\052\052\054 verify the package and internal manifest \050macOS) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 81 Tm
+(syntax\051\072) Tj
+ET
+
+endstream
+endobj
+42 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/FR 10 0 R
+/FB 11 0 R
+/FC 12 0 R
+>>
+>>
+/Contents 43 0 R
+/Parent 2 0 R
+>>
+endobj
+43 0 obj
+<<
+/Length 4445
+>>
+stream
+BT
+/FB 8 Tf
+1 0 0 1 42 765 Tm
+(LEAN FORMALIZATION  \057  NOV 2 2026) Tj
+ET
+BT
+/FB 8 Tf
+1 0 0 1 530 29 Tm
+(Page 16) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 748 Tm
+(shasum \055a256 \055c exact\055statement\055verification\057SHA256SUMS) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 730 Tm
+(shasum \055a256 \055c PACKAGE\055SHA256SUMS) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 709 Tm
+(Builds\054 kernel replay\054 axiom sweeps and preservation checks have exact command arrays\054 work directories\054) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 697 Tm
+(exit codes\054 timestamps\054 toolchain versions and raw output logs in the) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 685 Tm
+(\140exact\055statement\055verification\057checks\057\140 directory\056 The former standalone reader report is preserved as) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 673 Tm
+(historical evidence\073 corrected independent judgments are versioned rather than silently overwriting that) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 661 Tm
+(history\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 633 Tm
+(8\0563 What reproducing those commands does \052not\052 do) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 603 Tm
+(It does not rebuild all Mathlib declarations from an empty kernel or independently verify every prose) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 591 Tm
+(statement\056 The complete project replay checks project declarations against a pinned Mathlib base and the) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 579 Tm
+(standard Lean kernel\056 The optional whole\055Mathlib\055from\055empty attempt timed out and remains disclosed\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 567 Tm
+(Running the commands also does not constitute a mathematician\047s manual approval of every paper\055to\055Lean) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 555 Tm
+(correspondence\056) Tj
+ET
+BT
+/FB 12 Tf
+1 0 0 1 42 527 Tm
+(9\056 Reading order for editors and referees) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 497 Tm
+(1\056 Read the \052\052executive finding and scope qualifications\052\052 here\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 479 Tm
+(2\056 Consult the companion \133CERTIFICATE\056md\135\050CERTIFICATE\056md\051 for a \052\052plain\055English Lean glossary\052\052 and) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 467 Tm
+(paper\055versus\055Lean signatures of the principal results\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 449 Tm
+(3\056 Open the \13365\055row exact\055statement) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 437 Tm
+(correspondence\135\050reproducibility\057evidence\057ASSERTION\055CERTIFICATION\056md) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 425 Tm
+(\051 for each theorem\054 including every claim) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 413 Tm
+(and Appendix B\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 395 Tm
+(4\056 Open) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 383 Tm
+(\133REPRODUCE\056md\135\050reproducibility\057README\056md) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 371 Tm
+(\051 for commands\054 \133the audit) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 359 Tm
+(package\135\050reproducibility\057evidence\057VERIFICATION\055RESULTS\056md) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 347 Tm
+(\051 for source\057checksum records\054 and \133the complete type) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 335 Tm
+(register\135\050reproducibility\057evidence\057ELABORATED\055REGISTRY\056json) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 323 Tm
+(\051 when verifying a) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 311 Tm
+(nuanced hypothesis or quantifier\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 293 Tm
+(5\056 For concerns about an informal remark or an editorial typo\054 read the \133independent audit\047s) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 281 Tm
+(limitations\135\050reproducibility\057evidence\057ASSERTION\055CERTIFICATION\056md) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 269 Tm
+(\051 rather than inferring that the theorem proved) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 257 Tm
+(something it does not say\056) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 236 Tm
+(\052\052Conclusion\056\052\052 The certified mathematical development is substantive and reproducible\072 the current) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 224 Tm
+(project\047s final logs report all 65 numbered assertions verified under its documented model\054 with) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 212 Tm
+(standard\055only axioms and successful complete project replay\056 The precise distinction between) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 200 Tm
+(\052kernel\055checked formal proofs\052\054 \052AI\055assessed manuscript correspondence\052\054 \052written\055proof differences\052\054 and) Tj
+ET
+BT
+/FR 8.5 Tf
+1 0 0 1 42 188 Tm
+(\052excluded remarks\052 is part of the certification\055not an exception to be concealed\056) Tj
+ET
+
+endstream
+endobj
+xref
+0 44
+0000000001 65535 f 
+0000000000 00001 f 
+0000000015 00000 n 
+0000000186 00000 n 
+0000000235 00000 n 
+0000000434 00000 n 
+0000001491 00000 n 
+0000001532 00000 n 
+0000001639 00000 n 
+0000001751 00000 n 
+0000001903 00000 n 
+0000002001 00000 n 
+0000002104 00000 n 
+0000002200 00000 n 
+0000008116 00000 n 
+0000008269 00000 n 
+0000013849 00000 n 
+0000014002 00000 n 
+0000020856 00000 n 
+0000021009 00000 n 
+0000026021 00000 n 
+0000026174 00000 n 
+0000032582 00000 n 
+0000032735 00000 n 
+0000038357 00000 n 
+0000038510 00000 n 
+0000045600 00000 n 
+0000045753 00000 n 
+0000052970 00000 n 
+0000053123 00000 n 
+0000059906 00000 n 
+0000060059 00000 n 
+0000066759 00000 n 
+0000066912 00000 n 
+0000073149 00000 n 
+0000073302 00000 n 
+0000080110 00000 n 
+0000080263 00000 n 
+0000086393 00000 n 
+0000086546 00000 n 
+0000092004 00000 n 
+0000092157 00000 n 
+0000096965 00000 n 
+0000097118 00000 n 
+trailer
+<<
+/Size 44
+/Root 3 0 R
+>>
+startxref
+101616
+%%EOF

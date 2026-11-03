@@ -1,0 +1,177 @@
+{
+  "scope": "Owner-authorized source comments only; detailed before/after diff kept privately, not in public history.",
+  "mathematical_files": 133,
+  "comment_sanitized_files": 28,
+  "comments_changed": 64,
+  "all_noncomment_bytes_and_newline_counts_equal": true,
+  "files": [
+    {
+      "path": "reproducibility/lean/BanachDensity1D/Basic.lean",
+      "original_sha256": "d07a6b8ca5f2a77dd86ba0980f1546d414a7e13d432621c9a838c0025b9e0ac8",
+      "candidate_sha256": "db92a40895c56b40504cf299be14508a2fa555520627fafecd6ac2ef445a688f",
+      "comment_blocks_changed": 2
+    },
+    {
+      "path": "reproducibility/lean/BanachDensity1D/Chains.lean",
+      "original_sha256": "2163fae2dae41353f13645fb5cc6046f554f4b7f29b5b1f3e9425abcb2b60939",
+      "candidate_sha256": "260ae29bf07d3c89cfc7d4a11eee7c523b9395ce81d9fe1a8d88b651985652f8",
+      "comment_blocks_changed": 2
+    },
+    {
+      "path": "reproducibility/lean/BanachDensity1D/Construction.lean",
+      "original_sha256": "2bd2e65c481c02e1db6ef6fcad7c91f5a74652ff7f469faf0835c6e575392e30",
+      "candidate_sha256": "1db0317f0085f9c29ed5eccdf9f21c3ffac1d45b37ec13ae7c786648aa597ee5",
+      "comment_blocks_changed": 5
+    },
+    {
+      "path": "reproducibility/lean/BanachDensity1D/Extension.lean",
+      "original_sha256": "17f9b4f844b3013eadfc1760551b4335037fdbf96ef0549b1c94628bb75211d1",
+      "candidate_sha256": "a0a39101860175b498c206a8cd8c15a15c8f5cb17fb2ff641561f874d30fddcd",
+      "comment_blocks_changed": 2
+    },
+    {
+      "path": "reproducibility/lean/BanachDensity1D/PriorZeroValue/Construction.lean",
+      "original_sha256": "8a58b67164dea29ddc3d88bde33c3f6ba6f8c256937607850faeed103a89a982",
+      "candidate_sha256": "0d97bc641bc5fe5727177c937d4648ea3e46c6b46d7088e85b393db8567336ff",
+      "comment_blocks_changed": 1
+    },
+    {
+      "path": "reproducibility/lean/BanachDensity1D/PriorZeroValue.lean",
+      "original_sha256": "2db761d9b1830f1a7119d853629e66a5cf935b51ea7dce46dc687aed1831a2bd",
+      "candidate_sha256": "3585f63f2c42d928fc1c5668f467a89a853c942b85005c07a3cdb54c33e8c2a4",
+      "comment_blocks_changed": 1
+    },
+    {
+      "path": "reproducibility/lean/BanachDensity1D/ProtRoute.lean",
+      "original_sha256": "bb1e2021467bce007150899466a4d092e9fda367cb786917a7532ca0713260e3",
+      "candidate_sha256": "caae28cf0eede5e61be412f695d6a87b71e1720db246df7f020b3e43a3f9cf94",
+      "comment_blocks_changed": 1
+    },
+    {
+      "path": "reproducibility/lean/BanachDensity1DPriorZero.lean",
+      "original_sha256": "c120d722daa5cdcebd79b3bd463fae2c001db8f5bda4fe01d3f5d9e3bd15d301",
+      "candidate_sha256": "20fff3d5da4cfb2cfbd9b41d0a9cb9de6a670047e232b87786daeda746935b26",
+      "comment_blocks_changed": 1
+    },
+    {
+      "path": "reproducibility/lean/BanachDensityHD/AppendixA.lean",
+      "original_sha256": "401ed8fb120d9cf0c0881e801eec1a584223282030cdf900ed6c5b64430a8452",
+      "candidate_sha256": "38879203bd9145153cf5732d9e4fb872b313af691c3df733c79ae231fcb0ff4c",
+      "comment_blocks_changed": 1
+    },
+    {
+      "path": "reproducibility/lean/BanachDensityHD/AppendixAConstruction.lean",
+      "original_sha256": "a724d3fa4cb8952ba1969e248644dbdcecb254253d6cc39a7e18362d56a30f55",
+      "candidate_sha256": "e231d0a90fef31f69d26174c9b22f78845320449069ec9cfa26bb4a0597c8b43",
+      "comment_blocks_changed": 2
+    },
+    {
+      "path": "reproducibility/lean/BanachDensityHD/Basic.lean",
+      "original_sha256": "7961771bc905626f625b62fac3c60a2fcb5203f8fc1e2164f815c5f633228530",
+      "candidate_sha256": "a42bedd6217a9d3430699b4f1ebf36d590da1efcc751f06268fb7b1642f1c4e0",
+      "comment_blocks_changed": 8
+    },
+    {
+      "path": "reproducibility/lean/BanachDensityHD/Characterization.lean",
+      "original_sha256": "a1f71285d71ad88e1c2f177327480cadda53076c7b7b4f8cc9f30154aaa4e3cb",
+      "candidate_sha256": "0b95a1f4f38794ebdc6d1edd2ad9adad27053cd6c9810851b45de53f58a1fafd",
+      "comment_blocks_changed": 3
+    },
+    {
+      "path": "reproducibility/lean/BanachDensityHD/CharacterizationProofs.lean",
+      "original_sha256": "852dcbdf8bea33b2c15d2132b4cdb547880a47d1ca67989db1aed78a6e9923e8",
+      "candidate_sha256": "d9674cd8df8411e4fe49bd2eb087396ceb4b0ce1f63f6a34b9b08bbd4030ca59",
+      "comment_blocks_changed": 1
+    },
+    {
+      "path": "reproducibility/lean/BanachDensityHD/CharacterizationSuff.lean",
+      "original_sha256": "ca470416b19e922fd26c388e942e867fe395b0eaeb523404d3a77ba29aee20ad",
+      "candidate_sha256": "d870420828f25d64ec47b80acdf20f937dc84711644ac7edb00e52bcb608215c",
+      "comment_blocks_changed": 1
+    },
+    {
+      "path": "reproducibility/lean/BanachDensityHD/CharacterizationSuff2.lean",
+      "original_sha256": "72f7ffae6c07cecf99f1c2e6af9990825dbd0cb778a95644adf49371e46621a7",
+      "candidate_sha256": "750342359170922aae31475e75c93d902b4a487c494da2713c143519841665ba",
+      "comment_blocks_changed": 2
+    },
+    {
+      "path": "reproducibility/lean/BanachDensityHD/Common.lean",
+      "original_sha256": "73073e02d7daf4a5c1144bf100ab062eb0df7ee33b3f178ca05943391ed29532",
+      "candidate_sha256": "a51bb941478daaf0d00ac98b4b54872a5e14cb2708f60c3c4de2891e149e0b34",
+      "comment_blocks_changed": 1
+    },
+    {
+      "path": "reproducibility/lean/BanachDensityHD/Endpoint.lean",
+      "original_sha256": "ffcecfcf786ee4ddad2548fef1697a4f46254cf3fc819cfa31c60c2f8a2a5ca9",
+      "candidate_sha256": "6dc0c9897eb3eb7e9902bfd223915d33fff9fe42ed68240287bdcd5584f17b78",
+      "comment_blocks_changed": 2
+    },
+    {
+      "path": "reproducibility/lean/BanachDensityHD/Examples.lean",
+      "original_sha256": "f87691c53af14b751ae4206f9dfd6409d3905f5fd40f583d029fda979367cadf",
+      "candidate_sha256": "9a7cbda1bf708b779aa34dd58fd589a7b74a363903100d8123459fae54cc66ed",
+      "comment_blocks_changed": 2
+    },
+    {
+      "path": "reproducibility/lean/BanachDensityHD/FiniteRank.lean",
+      "original_sha256": "515e96cc8a053fcdd00be860129c43b46e2288997a6a05d24036d492d68430aa",
+      "candidate_sha256": "82347d97c1b95b7f44794a6207f0e390aa9121bf808cb46901114fea84c2973e",
+      "comment_blocks_changed": 3
+    },
+    {
+      "path": "reproducibility/lean/BanachDensityHD/Forest.lean",
+      "original_sha256": "0e29adeaaffcca087b0feaad64e48d3fdf8176c28edb0eddeb67341d7f4eeeed",
+      "candidate_sha256": "d9113e94833cf38e6f8f49ebb11ae45aa9920582a9ebaa8f205d7c1b0fd7a544",
+      "comment_blocks_changed": 2
+    },
+    {
+      "path": "reproducibility/lean/BanachDensityHD/Game.lean",
+      "original_sha256": "748dfad7508935991edc0eb4115252f9ca9c626020c8483e360054cfa6ce66d8",
+      "candidate_sha256": "473a6c31fee3e0717af8290225d8fc14f468c8021db5d3f0a859b4539db0fc02",
+      "comment_blocks_changed": 3
+    },
+    {
+      "path": "reproducibility/lean/BanachDensityHD/Histories.lean",
+      "original_sha256": "ae1fbf7ebb01bb988a12c84ed42aa2451f9f9b8895c847ca2706da92ec45e9be",
+      "candidate_sha256": "9946c097a1288004a4932057eac63da4b8069aab669568c11fcad0d9b35a3ce5",
+      "comment_blocks_changed": 1
+    },
+    {
+      "path": "reproducibility/lean/BanachDensityHD/Main.lean",
+      "original_sha256": "f246c7d05cf584fd2549ce15438c5ad37a235adbd45f4e2207eb97051a9d8c8d",
+      "candidate_sha256": "3aa7b91033cdfba20c8f82ed10483405238825293dc5c34b923bf09c58a5651b",
+      "comment_blocks_changed": 1
+    },
+    {
+      "path": "reproducibility/lean/BanachDensityHD/Nov1/LocalRectangle.lean",
+      "original_sha256": "3245c7bb714ce2b29679908f3ebdf4a9c3a02302e3b083b3b8c4a93d714dee5b",
+      "candidate_sha256": "e47e828f139cdceda2130e6a4c8320bea8f07c1f9714d425261912da6ae1d076",
+      "comment_blocks_changed": 1
+    },
+    {
+      "path": "reproducibility/lean/BanachDensityHD/OneD.lean",
+      "original_sha256": "2cf15f14fc9d756ee772f96f0527c22e877a9f33c936dd49e185eb1c3a694be1",
+      "candidate_sha256": "4a175e6c21b2ab393f823708f2fa659afe9a127a7713be14cc5ec8132d407ba7",
+      "comment_blocks_changed": 3
+    },
+    {
+      "path": "reproducibility/lean/BanachDensityHD/Separation.lean",
+      "original_sha256": "ade4dbab79fc5754fc6da905aaf7717d31efd8102b4ed38a25054ba4ed2768b7",
+      "candidate_sha256": "b576eb6d8027607b3eac12e3056d973c03465f4d6c08581cd2a339b7546cce68",
+      "comment_blocks_changed": 7
+    },
+    {
+      "path": "reproducibility/lean/BanachDensityHD/Sewing.lean",
+      "original_sha256": "4cabbd955de2297ba95a5c3293ffb3a1c1ca1189aee91de1e21ecec1acf40a03",
+      "candidate_sha256": "07d9fd3aabc66f6ef3e6057ee89fd902331a014260ec9b386d7f848e6b9d04eb",
+      "comment_blocks_changed": 1
+    },
+    {
+      "path": "reproducibility/lean/BanachDensityHD/Trees.lean",
+      "original_sha256": "a4728c79dff63fa6918c11369f4ef35fe3200d8e095c1ef8d0647a51affbb6f5",
+      "candidate_sha256": "1358e80b1261bbbddf0917567673852f25574c5de32875b576dcd8b1b57824fb",
+      "comment_blocks_changed": 4
+    }
+  ]
+}

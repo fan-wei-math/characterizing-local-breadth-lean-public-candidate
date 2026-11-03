@@ -1,0 +1,18 @@
+{
+  "all_16_original_pages_text_match_after_two_declared_path_replacements": true,
+  "15_unaffected_pages_render_pixel_identically": true,
+  "only_modified_original_page": 15,
+  "pixel_differences": [
+    {
+      "original_page": 15,
+      "pixel_difference_bbox": [
+        102,
+        779,
+        604,
+        805
+      ]
+    }
+  ],
+  "new_notice_cover": true,
+  "Daniel_PDF_page_count": 5
+}
