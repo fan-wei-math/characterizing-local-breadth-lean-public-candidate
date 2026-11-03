@@ -1,6 +1,6 @@
 # Characterizing Local Breadth in Language Generation — reproducible Lean formalization
 
-Author-coordinated Lean sources for the paper by Jon Kleinberg and Fan Wei, with separately attributed historical verification reports. This **private public candidate** has fresh Git history. No repository-name swap or public visibility change has been authorized.
+Author-coordinated Lean sources for the paper by Jon Kleinberg and Fan Wei, with separately attributed historical verification reports. This public release includes the mathematical sources, verification evidence, and instructions for reproducing the formalization.
 
 ## Start here
 
@@ -37,6 +37,10 @@ The approved source origins are 1D `5fe0e3e25e230f7d0ee59abc98193631ea67a666`, H
 
 Daniel's documents are unchanged and owner-authorized for public inclusion, including their historical source locators. His separate Lean source is **not included or replayed**. The two reported shared auxiliary adaptations remain attributed. Author-maintained historical links now point to local reproduction counterparts and must not be mistaken for original historical artifacts.
 
+Historical audit documents are preserved as dated evidence. Statements in those documents about private visibility, candidate status, or publication authorization describe the repository's status when they were written.
+
+The original audited release snapshot is [`494f77aa415ccc2b5c5dc36c10c92b27efcefb47`](https://github.com/fan-wei-math/characterizing-local-breadth-lean-public-candidate/tree/494f77aa415ccc2b5c5dc36c10c92b27efcefb47).
+
 ## Reproduce
 
 With Git, Bash, Python 3.11+, Elan and Poppler installed:
@@ -50,4 +54,4 @@ bash reproducibility/scripts/verify.sh --all --jobs 2
 
 Only included code and pinned public dependencies are needed. No author's local filesystem, private repository or credentials are a build dependency. Actual results distinguish earlier evidence from new executions.
 
-No software license has been invented. This candidate and both earlier repositories remain private; any name swap and public publication require explicit final approval. The eventual paper URL remains `https://github.com/fan-wei-math/characterizing-local-breadth-lean`.
+No software license has been invented. The public repository is [fan-wei-math/characterizing-local-breadth-lean-public-candidate](https://github.com/fan-wei-math/characterizing-local-breadth-lean-public-candidate).
